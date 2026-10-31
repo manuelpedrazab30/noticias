@@ -31,8 +31,9 @@ FEEDS = {
         ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
         ("DW", "https://rss.dw.com/rdf/rss-en-all"),
         ("The Guardian World", "https://www.theguardian.com/world/rss"),
-        # Contrapeso de centro-derecha; el feed "world" del Telegraph bloquea bots (403).
-        ("Washington Times World", "https://www.washingtontimes.com/rss/headlines/news/world/"),
+        # Contrapeso de centro-derecha. Washington Times bloquea los servidores de
+        # GitHub (403) y el feed de noticias del Telegraph está congelado.
+        ("Washington Examiner World", "https://www.washingtonexaminer.com/section/world/feed/"),
     ],
     "colombia": [
         ("El Tiempo", "https://www.eltiempo.com/rss/colombia.xml"),
@@ -75,7 +76,7 @@ OUTLET = {
     "BBC Business": "BBC",
     "The Guardian World": "The Guardian",
     "The Guardian Business": "The Guardian",
-    "Washington Times World": "Washington Times",
+    "Washington Examiner World": "Washington Examiner",
     "Telegraph Business": "The Telegraph",
 }
 

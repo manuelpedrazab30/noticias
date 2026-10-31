@@ -40,9 +40,9 @@ MEDIOS = {
         "pais": "Reino Unido", "allsides": "Left", "mbfc": "Left-Center",
         "factual": "High",
     },
-    "Washington Times": {
+    "Washington Examiner": {
         "pais": "EE. UU.", "allsides": "Lean Right", "mbfc": "Right-Center",
-        "factual": "Mixed",
+        "factual": "Mostly Factual",
     },
     "The Telegraph": {
         "pais": "Reino Unido", "allsides": "Center", "mbfc": "Right",
