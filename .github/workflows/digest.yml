@@ -1,0 +1,38 @@
+# Genera el digest cada mañana y lo guarda en docs/, que GitHub Pages publica.
+name: Digest diario
+
+on:
+  schedule:
+    # Hora UTC: 05:00 = 06:00 en Maastricht en invierno, 07:00 en verano.
+    # GitHub puede retrasar los cron unos minutos (a veces más) en horas de mucha carga.
+    - cron: "0 5 * * *"
+  workflow_dispatch: # botón "Run workflow" para ejecutarlo a mano
+
+permissions:
+  contents: write # necesario para hacer commit del digest
+
+concurrency: digest # nunca dos ejecuciones a la vez
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Generar digest
+        run: python digest.py
+        env:
+          # Las claves viven en Settings > Secrets and variables > Actions, nunca en el código.
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      - name: Guardar el digest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git commit -m "Digest $(date -u +%F)" || echo "Sin cambios"
+          git push
