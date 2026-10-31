@@ -62,37 +62,44 @@ def cosine(a, b):
     return sum(v * b.get(w, 0.0) for w, v in a.items())
 
 
-def group_stories(stories, threshold=0.3):
+def group_stories(stories, threshold=0.3, link=0.2):
     """Devuelve una lista de grupos (listas de noticias), los más cubiertos primero.
 
     Cada noticia es un dict con al menos "source", "title" y "summary".
+
+    threshold: parecido mínimo entre dos notas de medios distintos para proponer unirlas.
+    link:      parecido PROMEDIO mínimo entre todas las notas de los dos grupos para
+               aceptar la unión. Evita las cadenas: si una nota "puente" se parece a
+               un hecho A y a otro B, no basta para fundir A y B ("enlace promedio").
     """
     # El título se repite para que pese el doble que el resumen.
     docs = [tokens(f"{s['title']} {s['title']} {s['summary']}") for s in stories]
     vecs = tfidf_vectors(docs)
+    n = len(stories)
+    sim = [[cosine(vecs[i], vecs[j]) for j in range(n)] for i in range(n)]
 
-    # Union-find: cada noticia empieza en su propio grupo; al encontrar una
-    # pareja parecida, unimos sus grupos.
-    parent = list(range(len(stories)))
+    # Parejas candidatas: medios distintos (un medio no suele repetir el mismo hecho)
+    # y parecido suficiente. Las más parecidas se intentan unir primero.
+    pairs = sorted(((sim[i][j], i, j) for i in range(n) for j in range(i + 1, n)
+                    if stories[i]["source"] != stories[j]["source"] and sim[i][j] >= threshold),
+                   reverse=True)
 
-    def find(i):
-        while parent[i] != i:
-            parent[i] = parent[parent[i]]
-            i = parent[i]
-        return i
-
-    for i in range(len(stories)):
-        for j in range(i + 1, len(stories)):
-            # Un medio no suele repetir el mismo hecho; comparar solo entre
-            # medios distintos evita juntar notas parecidas de una misma sección.
-            if stories[i]["source"] == stories[j]["source"]:
-                continue
-            if cosine(vecs[i], vecs[j]) >= threshold:
-                parent[find(i)] = find(j)
+    group_of = list(range(n))            # en qué grupo está cada noticia
+    members = {i: [i] for i in range(n)}  # qué noticias tiene cada grupo
+    for _, i, j in pairs:
+        a, b = group_of[i], group_of[j]
+        if a == b:
+            continue
+        avg = sum(sim[x][y] for x in members[a] for y in members[b]) / (len(members[a]) * len(members[b]))
+        if avg < link:
+            continue
+        for x in members[b]:
+            group_of[x] = a
+        members[a] += members.pop(b)
 
     groups = {}
     for i, s in enumerate(stories):
-        groups.setdefault(find(i), []).append(s)
+        groups.setdefault(group_of[i], []).append(s)
 
     # Más medios distintos = hecho más relevante; desempata la más reciente.
     def key(g):
