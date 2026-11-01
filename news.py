@@ -112,6 +112,29 @@ def published(entry):
     return datetime(*t[:6], tzinfo=timezone.utc) if t else None
 
 
+def image(entry):
+    """(url, ancho) de la foto que trae el feed, o (None, 0).
+
+    Prefiere tamaños medianos: las miniaturas se ven borrosas y los originales
+    enormes (algunos de 6.000 px) harían lenta la página.
+    """
+    found = []
+    for m in entry.get("media_content", []) + entry.get("media_thumbnail", []) + entry.get("enclosures", []):
+        url = m.get("url") or m.get("href")
+        kind = m.get("type") or m.get("medium") or "image"
+        if not url or not kind.startswith("image"):
+            continue
+        width = int(m.get("width") or 0)
+        if "/ace/standard/240/" in url:  # la BBC sirve el mismo archivo en tamaños fijos
+            url, width = url.replace("/ace/standard/240/", "/ace/standard/976/"), 976
+        found.append((width, url))
+    good = [f for f in found if 400 <= f[0] <= 2000]
+    if good:
+        return max(good)[::-1]
+    unknown = [f for f in found if f[0] == 0]  # sin ancho declarado: mejor eso que nada
+    return (unknown[0][1], 0) if unknown else (None, 0)
+
+
 def collect(topics, n, max_age_hours):
     """Descarga todos los feeds y devuelve (noticias, feeds_fallidos).
 
@@ -145,6 +168,7 @@ def collect(topics, n, max_age_hours):
             if (source, title.lower()) in seen:
                 continue
             seen.add((source, title.lower()))
+            image_url, image_width = image(e)
             stories.append({
                 "topic": topic,
                 "source": source,
@@ -153,6 +177,8 @@ def collect(topics, n, max_age_hours):
                 "summary": clean(e.get("summary"))[:400],
                 "link": e.get("link", ""),
                 "published": date,
+                "image": image_url,
+                "image_width": image_width,
             })
     return stories, failed
 

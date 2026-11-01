@@ -1,13 +1,16 @@
 """Paso 5: digest diario de máximo 10 noticias, como página web (GitHub Pages).
 
+Aquí se elige y resume; el diseño de la página está en page.py.
+
 Uso:
     python digest.py             # escribe docs/index.html y docs/archivo/AAAA-MM-DD.html
     python digest.py --sin-ia    # sin resúmenes (no gasta cuota de la IA)
+    python digest.py --desde-json docs/data/AAAA-MM-DD.json   # solo redibujar (diseño)
 
 GitHub Actions lo ejecuta cada mañana (.github/workflows/digest.yml).
 """
 import argparse
-import html
+import json
 import os
 import sys
 from collections import Counter
@@ -17,6 +20,7 @@ from zoneinfo import ZoneInfo
 from cluster import group_stories
 from medios import lean, short
 from news import FEEDS, collect, blind_spot
+from page import render
 from summarize import choose, summarize
 
 MAX_STORIES = 10
@@ -28,8 +32,6 @@ TOPIC_NAMES = {
     "geopolitica": "Geopolítica", "colombia": "Colombia", "tecnologia": "Tecnología",
     "economia": "Economía", "paises_bajos": "Países Bajos", "limburg": "Limburg",
 }
-SPECTRUM = ["izquierda", "centro-izq", "centro", "centro-der", "derecha"]
-
 # Temas prioritarios: siempre tienen un lugar y son los primeros en llenar los huecos.
 PRIORITY = ["geopolitica", "economia", "colombia"]
 # Solo aparecen si ese día hay un evento importante (como máximo uno por tema).
@@ -104,88 +106,59 @@ def pick(groups, use_ai):
     return sorted(chosen[:MAX_STORIES], key=lambda g: (topic_of(g) not in PRIORITY, rank[id(g)]))
 
 
-def spectrum_bar(sources):
-    """Cinco casillas de izquierda a derecha; se rellenan las que tienen algún medio."""
-    present = {short(m).lstrip("~") for m in sources}
-    cells = "".join(f'<span class="cell{" on" if name in present else ""}" title="{name}"></span>'
-                    for name in SPECTRUM)
-    return f'<div class="bar" aria-label="espectro de medios">{cells}</div>'
+def to_story(g, summary):
+    """Grupo + resumen de la IA -> dict simple con lo que necesita la página.
 
-
-def render_story(g, summary):
-    e = html.escape
+    Es lo que se guarda en docs/data/AAAA-MM-DD.json, para poder redibujar la página
+    (p. ej. tras un cambio de diseño) sin descargar feeds ni llamar a la IA.
+    """
+    summary = summary or {}
     sources = sorted(outlets(g), key=lambda m: lean(m)[0] or 0)
-    title = (summary or {}).get("titular") or g[0]["title"]
-    parts = [f'<article><p class="topic">{TOPIC_NAMES[topic_of(g)]} · '
-             f'{len(sources)} medio{"s" if len(sources) > 1 else ""}</p>',
-             f"<h2>{e(title)}</h2>", spectrum_bar(sources)]
-    warning = blind_spot(sources).strip()
-    if len(sources) > 1 and warning:
-        parts.append(f'<p class="warn">{e(warning)}</p>')
-    if summary:
-        parts.append(f"<p>{e(summary['resumen'])}</p>")
-        if summary["enfoques"]:
-            parts.append(f'<p class="angles"><b>Enfoques:</b> {e(summary["enfoques"])}</p>')
-    parts.append("<ul>")
-    for source in sources:
-        note = next(s for s in g if s["source"] == source)
-        parts.append(f'<li><span class="who">{e(source)} <i>{e(short(source))}</i></span> '
-                     f'<a href="{e(note["link"])}">{e(note["title"])}</a></li>')
-    parts.append("</ul></article>")
-    return "\n".join(parts)
+    notes = {m: next(s for s in g if s["source"] == m) for m in sources}
+    # La foto más grande que traiga alguno de los medios.
+    with_photo = [s for s in g if s.get("image")]
+    best = max(with_photo, key=lambda s: s.get("image_width", 0), default=None)
+    warning = blind_spot(sources) if len(sources) > 1 else ""
+    return {
+        "topic": topic_of(g),
+        "title": summary.get("titular") or g[0]["title"],
+        "resumen": summary.get("resumen", ""),
+        "enfoques": summary.get("enfoques", ""),
+        "blind": "izquierda" if "izquierda" in warning else "derecha" if warning else "",
+        "image": best["image"] if best else None,
+        "image_source": best["source"] if best else None,
+        "outlets": [{"name": m, "label": short(m), "link": notes[m]["link"], "title": notes[m]["title"]}
+                    for m in sources],
+    }
 
 
-def render_page(day, stories, summaries, used, archive):
-    e = html.escape
-    body = "\n".join(render_story(g, s) for g, s in zip(stories, summaries))
-    links = " · ".join(f'<a href="archivo/{d}.html">{d}</a>' for d in archive[:14])
-    ai_note = f"Resúmenes: {e(used)}." if used else "Hoy sin resúmenes de IA."
-    return f"""<!doctype html>
-<html lang="es">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Noticias {day}</title>
-<style>
-  :root {{ --bg:#fafaf8; --fg:#1c1c1a; --muted:#6b6b66; --line:#e3e3de; --accent:#2d5b8a; --on:#2d5b8a; --warn:#9a5b00; }}
-  @media (prefers-color-scheme: dark) {{
-    :root {{ --bg:#161615; --fg:#ececea; --muted:#a3a39d; --line:#2e2e2b; --accent:#8fb6e0; --on:#8fb6e0; --warn:#e0a85a; }}
-  }}
-  body {{ background:var(--bg); color:var(--fg); font:17px/1.55 -apple-system, system-ui, sans-serif;
-         max-width:680px; margin:0 auto; padding:24px 16px 64px; }}
-  header p, .topic, footer {{ color:var(--muted); font-size:14px; }}
-  h1 {{ font-size:26px; margin:0 0 4px; }}
-  article {{ border-top:1px solid var(--line); padding:20px 0; }}
-  h2 {{ font-size:20px; line-height:1.3; margin:4px 0 8px; }}
-  .topic {{ margin:0; text-transform:uppercase; letter-spacing:.04em; font-size:12px; }}
-  .bar {{ display:flex; gap:3px; margin:0 0 10px; }}
-  .cell {{ width:28px; height:6px; border-radius:3px; background:var(--line); }}
-  .cell.on {{ background:var(--on); }}
-  .warn {{ color:var(--warn); font-size:14px; }}
-  .angles {{ font-size:15px; }}
-  ul {{ padding-left:18px; font-size:15px; }}
-  li {{ margin:4px 0; }}
-  .who {{ font-weight:600; }} .who i {{ font-weight:400; color:var(--muted); }}
-  a {{ color:var(--accent); }}
-</style>
-</head>
-<body>
-<header>
-  <h1>Noticias del {day}</h1>
-  <p>{len(stories)} historias. La barra muestra qué parte del espectro político las cubre
-  (izquierda → derecha, según AllSides y Media Bias/Fact Check). {ai_note}</p>
-</header>
-{body}
-<footer><p>Días anteriores: {links or "—"}</p></footer>
-</body>
-</html>
-"""
+def write_pages(day, stories):
+    """Escribe docs/index.html (si es la edición más reciente) y docs/archivo/<día>.html."""
+    os.makedirs(os.path.join(DOCS, "archivo"), exist_ok=True)
+    archive = sorted({f[:-5] for f in os.listdir(os.path.join(DOCS, "archivo")) if f.endswith(".html")}
+                     | {day}, reverse=True)
+    page = render(day, stories, [d for d in archive if d != day])
+    # La copia de archivo vive un nivel más abajo, así que sus enlaces suben con "../".
+    with open(os.path.join(DOCS, "archivo", f"{day}.html"), "w", encoding="utf-8") as f:
+        f.write(page.replace('href="archivo/', 'href="../archivo/'))
+    if day == archive[0]:
+        with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as f:
+            f.write(page)
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--sin-ia", action="store_true", help="no pedir resúmenes a la IA")
+    ap.add_argument("--desde-json", metavar="ARCHIVO",
+                    help="solo redibujar una edición guardada (sin feeds ni IA)")
     args = ap.parse_args()
+
+    if args.desde_json:
+        with open(args.desde_json, encoding="utf-8") as f:
+            saved = json.load(f)
+        write_pages(saved["day"], saved["stories"])
+        print(f"Redibujado {saved['day']}: {len(saved['stories'])} historias")
+        return
 
     stories, failed = collect(list(FEEDS), n=20, max_age_hours=36)
     for name, url, err in failed:
@@ -201,22 +174,16 @@ def main():
             summaries = result
 
     day = datetime.now(TZ).strftime("%Y-%m-%d")
-    os.makedirs(os.path.join(DOCS, "archivo"), exist_ok=True)
-    archive = sorted({f[:-5] for f in os.listdir(os.path.join(DOCS, "archivo")) if f.endswith(".html")}
-                     | {day}, reverse=True)
-    page = render_page(day, chosen, summaries, used, [d for d in archive if d != day])
-    # La copia de archivo vive un nivel más abajo, así que sus enlaces suben con "../".
-    archived = page.replace('href="archivo/', 'href="../archivo/')
-    with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as f:
-        f.write(page)
-    with open(os.path.join(DOCS, "archivo", f"{day}.html"), "w", encoding="utf-8") as f:
-        f.write(archived)
+    page_stories = [to_story(g, s) for g, s in zip(chosen, summaries)]
+    os.makedirs(os.path.join(DOCS, "data"), exist_ok=True)
+    with open(os.path.join(DOCS, "data", f"{day}.json"), "w", encoding="utf-8") as f:
+        json.dump({"day": day, "ai": used, "stories": page_stories}, f, ensure_ascii=False, indent=1)
+    write_pages(day, page_stories)
 
     print(f"Digest {day}: {len(chosen)} historias -> docs/index.html")
-    for g, s in zip(chosen, summaries):
-        n = len(outlets(g))
-        print(f"  [{TOPIC_NAMES[topic_of(g)]}, {n} medio{'s' if n > 1 else ''}] "
-              f"{(s or {}).get('titular') or g[0]['title']}")
+    for s in page_stories:
+        n = len(s["outlets"])
+        print(f"  [{TOPIC_NAMES[s['topic']]}, {n} medio{'s' if n > 1 else ''}] {s['title']}")
 
 
 if __name__ == "__main__":
