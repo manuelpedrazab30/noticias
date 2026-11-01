@@ -1,0 +1,242 @@
+{
+ "day": "2026-11-01",
+ "ai": "Gemini/gemini-3",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Oposición en India realiza manifestación contra la revisión electoral",
+   "resumen": "La oposición en India organizó una marcha masiva en Nueva Delhi para exigir la renuncia del jefe electoral. La protesta se realiza en medio de una revisión del registro de votantes.",
+   "enfoques": "The Guardian destacó el despliegue de seguridad con agentes y vehículos antidisturbios, mientras que DW y BBC centraron su atención en la convocatoria de la marcha opositora.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ab52/live/e490a850-d5d2-11f1-8629-7b9503d639be.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+     "title": "Indian forces tighten security in Delhi ahead of big opposition protest"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf",
+     "title": "India news: Opposition holds major rally in Delhi over voter roll revisions"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+     "title": "India's opposition holds mega rally seeking election chief's resignation"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Binance cubre pérdidas tras ataque cibernético",
+   "resumen": "La plataforma de criptomonedas Binance cubrió el 90 por ciento de las pérdidas tras un hackeo de 6.300 millones de dólares. Según el FBI, el ataque estuvo vinculado a Corea del Norte.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
+     "title": "FBI says North Korea behind $6 billion Binance crypto theft"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Protestas por el costo de vida en Europa generan disturbios",
+   "resumen": "Miles de personas protestaron en Francia y Alemania contra el costo de vida y las condiciones escolares. Las manifestaciones derivaron en enfrentamientos y saqueos en algunas ciudades.",
+   "enfoques": "DW destacó los incidentes y arrestos específicos ocurridos durante las protestas tanto en Francia como en Alemania.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-rdf",
+     "title": "More than 290 arrested in France as some weekend protests turn violent"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+     "title": "Shops looted as German cost of living protests turn violent"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Evacuados de Oleshky llegan a territorio controlado por Ucrania",
+   "resumen": "Residentes de la ciudad ocupada de Oleshky lograron salir hacia territorio controlado por Kiev. Según DW, esto ocurrió tras una tregua localizada mediada por Melania Trump.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
+     "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+     "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Trump afirma no tener prisa sobre decisiones respecto a Irán",
+   "resumen": "Donald Trump declaró que Estados Unidos no tiene prisa por tomar decisiones o alcanzar un acuerdo con Irán. Las declaraciones ocurrieron durante una fiesta de Halloween.",
+   "enfoques": "El Washington Examiner añadió el contexto de que el presidente evalúa nuevos ataques tras las elecciones de mitad de periodo y describió a Irán como una nación patrocinadora del terrorismo.",
+   "blind": "",
+   "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26301063227235.jpg?w=1024",
+   "image_source": "Washington Examiner",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
+     "title": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4787211/trump-iran-negotiations-not-in-hurry/",
+     "title": "Trump on Iran negotiations: ‘We’re not in that much of a hurry’"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Conceden visa a la madre de un menor asesinado en Nueva York",
+   "resumen": "El presidente de Estados Unidos concedió una visa a la madre de un menor ghanés de 15 años que fue asesinado en un tiroteo en el Bronx.",
+   "enfoques": "",
+   "blind": "izquierda",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss",
+     "title": "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/trump-grants-visa-to-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf",
+     "title": "Trump grants visa to mother of Ghanaian boy killed in NYC — Mamdani"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Miles de personas protestan en Francia y otros países europeos",
+   "resumen": "Decenas de miles de personas marcharon en Francia contra el costo de vida y los servicios públicos, registrándose enfrentamientos con la policía. También se reportaron manifestaciones en Alemania.",
+   "enfoques": "The Guardian mencionó que algunos manifestantes portaban disfraces de Halloween y destacó el uso de gases lacrimógenos por parte de la policía en Alemania.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1d3a/live/6230e120-d570-11f1-93e1-3b657b665bcf.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+     "title": "Police clash with masked rioters after largely peaceful protests across France"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+     "title": "Thousands demonstrate in Paris as protests spread across Europe"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "CUT convoca paro nacional en rechazo a la ley económica",
+   "resumen": "La CUT convocó a un paro nacional para el 19 de noviembre en rechazo a la Ley de Rescate Económico. Según La República, la protesta rechaza el aumento del IVA y la gravación de la canasta familiar.",
+   "enfoques": "Semana se limita a anunciar la convocatoria de la CUT, mientras que La República detalla las medidas específicas rechazadas, como el incremento del IVA.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/33GPLW5BFZCW3PVUPW7E4WCB6I.png?auth=92a746e5b5ba5820e2263c02326ffe9ab1f02a4aff4c00d7b09f96c3c3ccc516&smart=true&width=1280&height=720",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/cut-convoco-a-paro-nacional-el-19-de-noviembre-en-rechazo-a-la-ley-de-rescate-4515825",
+     "title": "La CUT convocó a paro nacional el jueves 19 de noviembre en rechazo a la Ley de Rescate"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/cut-convoca-paro-nacional-el-19-de-noviembre-por-la-propuesta-de-ley-de-rescate-economico/202635/",
+     "title": "CUT convoca paro nacional el 19 de noviembre por la propuesta de Ley de Rescate Económico"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Gobierno no renovará contrato de la Fiduprevisora para el Fomag",
+   "resumen": "El Ministerio de Educación no renovará el contrato de la Fiduprevisora para administrar el Fomag. La transición iniciará próximamente y tendrá una duración inicial de un año.",
+   "enfoques": "La República detalla que el gobierno justificó la decisión basándose en 59 hallazgos técnicos, un patrimonio negativo y numerosas quejas, detalles omitidos por La Silla Vacía.",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "La Silla Vacía",
+     "label": "centro-izq",
+     "link": "https://www.lasillavacia.com/en-vivo/mineducacion-no-renovara-el-contrato-del-fomag-con-la-fiduprevisora/",
+     "title": "MinEducación no renovará el contrato del Fomag con la Fiduprevisora"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/gobierno-no-renovara-contrato-de-fiducia-con-fiduprevisora-para-administrar-el-fomag-4515756",
+     "title": "Gobierno no renovará contrato de fiducia con Fiduprevisora para administrar el Fomag"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Inicia plan piloto de reducción de peajes en el Eje Cafetero",
+   "resumen": "Entra en vigor un plan piloto para reducir la tarifa en cinco peajes del Eje Cafetero. Los usuarios deben inscribirse y validarse para acceder a la nueva tarifa.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/10/31/6ae6687d75383.jpeg",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/infraestructura/desde-manana-entra-plan-piloto-de-reduccion-de-tarifa-en-cinco-peajes-del-eje-cafetero-pasaran-de-17-800-a-505514",
+     "title": "Desde mañana entra plan piloto de reducción de tarifa en cinco peajes del Eje Cafetero: pasarán de $17.800 a $700"
+    }
+   ]
+  }
+ ]
+}
