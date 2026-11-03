@@ -3,10 +3,19 @@ name: Digest diario
 
 on:
   schedule:
-    # Hora UTC: 05:00 = 06:00 en Maastricht en invierno, 07:00 en verano.
-    # GitHub puede retrasar los cron unos minutos (a veces más) en horas de mucha carga.
-    - cron: "0 5 * * *"
+    # Horas UTC (en Maastricht: +1 h en invierno, +2 h en verano).
+    # GitHub retrasa mucho los cron en horas en punto (hasta 8 h en nov 2026), así que
+    # hay tres intentos a minutos poco comunes. El primero que corre publica; los demás
+    # ven que la edición de hoy ya existe y terminan sin gastar IA.
+    - cron: "17 4 * * *"
+    - cron: "47 5 * * *"
+    - cron: "23 7 * * *"
   workflow_dispatch: # botón "Run workflow" para ejecutarlo a mano
+    inputs:
+      forzar:
+        description: "Rehacer la edición de hoy aunque ya exista (gasta IA)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write # necesario para hacer commit del digest
@@ -17,22 +26,39 @@ jobs:
   digest:
     runs-on: ubuntu-latest
     steps:
+      # ref: main = la versión más reciente, no la del momento en que se programó el intento;
+      # así un intento que esperó en cola ve la edición que acaba de publicar el anterior.
       - uses: actions/checkout@v7
+        with:
+          ref: main
+      - name: ¿Ya hay edición de hoy?
+        id: check
+        run: |
+          DAY=$(TZ=Europe/Amsterdam date +%F)
+          echo "day=$DAY" >> "$GITHUB_OUTPUT"
+          if [ -f "docs/data/$DAY.json" ] && [ "${{ inputs.forzar }}" != "true" ]; then
+            echo "La edición $DAY ya existe; nada que hacer."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/setup-python@v7
+        if: steps.check.outputs.skip != 'true'
         with:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+        if: steps.check.outputs.skip != 'true'
       - name: Generar digest
+        if: steps.check.outputs.skip != 'true'
         run: python digest.py
         env:
           # Las claves viven en Settings > Secrets and variables > Actions, nunca en el código.
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
       - name: Guardar el digest
+        if: steps.check.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs
-          git commit -m "Digest $(date -u +%F)" || echo "Sin cambios"
+          git commit -m "Digest ${{ steps.check.outputs.day }}" || echo "Sin cambios"
           git push
