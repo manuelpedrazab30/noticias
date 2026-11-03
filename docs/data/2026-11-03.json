@@ -1,0 +1,254 @@
+{
+ "day": "2026-11-03",
+ "ai": "Gemini/gemini-3.5-flash",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Ataques aéreos rusos en Ucrania dejan decenas de muertos y heridos",
+   "resumen": "Ataques rusos con bombas y misiles impactaron un centro de distribución de ayuda e infraestructuras en el sur de Ucrania. Las autoridades han reportado entre 26 y 29 fallecidos y decenas de heridos tras los bombardeos nocturnos.",
+   "enfoques": "Mientras Al Jazeera resalta los ataques a un hospital y plantas eléctricas, The Guardian y BBC enfatizan el impacto en el centro de ayuda y el número de personas desaparecidas.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
+     "title": "Russia bombs aid centre and shelter in Ukraine, killing at least 29 people"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants?traffic_source=rss",
+     "title": "At least 73 injured as Russia bombs Ukrainian hospital and power plants"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/ukraine-at-least-26-killed-in-russian-strikes-on-aid-center/live-79825079?maca=en-rss-en-all-1573-rdf",
+     "title": "Ukraine: At least 26 killed in Russian strikes on aid center"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+     "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Estados Unidos realiza bombardeos en la isla iraní de Qeshm",
+   "resumen": "Estados Unidos lanzó ataques calificados como limitados contra la isla de Qeshm en Irán. La acción militar se produce en el contexto de esfuerzos diplomáticos y antes de las elecciones legislativas estadounidenses.",
+   "enfoques": "The Guardian y Al Jazeera destacan la simultaneidad de los ataques con los avances diplomáticos, mientras que BBC resalta el carácter defensivo atribuido por funcionarios estadounidenses.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+     "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss",
+     "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+     "title": "US strikes Iranian island ahead of midterm elections"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Estados Unidos vota en elecciones legislativas sobre el control del Congreso",
+   "resumen": "Los ciudadanos de Estados Unidos acuden a las urnas en las elecciones legislativas de mitad de mandato. Los comicios definirán qué partido controlará el Senado y la Cámara de Representantes durante el resto del mandato de Donald Trump.",
+   "enfoques": "",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/210edea69d6da127f4ca539fe823e9d3c0d5b1d9/98_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=a3ba604ddec4ee6caa44eb24b950a7a6",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
+     "title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-elections-live-polls-due-to-open-in-test-for-trump?traffic_source=rss",
+     "title": "US midterm elections live: Polls open in test for Trump"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-midterms-americans-vote-in-polls-seen-as-referendum-on-trump/live-79829440?maca=en-rss-en-all-1573-rdf",
+     "title": "US midterms: Americans vote in polls seen as referendum on Trump"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Sismo de magnitud 5,6 sacude el centro de Colombia",
+   "resumen": "Un temblor de magnitud 5,6 se registró en la madrugada del martes 3 de noviembre en Colombia. El epicentro se localizó en Chaparral, Tolima, y el movimiento se sintió en ciudades como Bogotá y Pereira.",
+   "enfoques": "",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/TGJNC75U6FA3VNAMBH4HZFTJVU.jpg?auth=0aee8276a51a939c289c0442dce9d617690ecb49dfe9c444bff7b62f82a5c11b&smart=true&width=2000&height=1125",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/regiones/fuerte-temblor-de-magnitud-5-6-sacudio-a-colombia-en-la-madrugada-de-este-martes-505594",
+     "title": "Fuerte temblor de magnitud 5,6 sacudió a Colombia en la madrugada de este martes"
+    },
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/ungrd-entrega-primer-balance-tras-el-fuerte-temblor-de-magnitud-5-6-que-sacudio-a-colombia-este-martes-3-de-noviembre-3598030",
+     "title": "UNGRD entrega primer balance tras el fuerte temblor de magnitud 5,6 que sacudió a Colombia este martes 3 de noviembre"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/sigue-temblando-en-colombia-hoy-martes-3-de-noviembre-esto-reporta-el-sgc/202638/",
+     "title": "Sigue temblando en Colombia, hoy martes 3 de noviembre: esto reporta el SGC"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Pospuesta la Copa Asiática de fútbol en Arabia Saudita",
+   "resumen": "La Copa Asiática programada para 2027 en Arabia Saudita ha sido pospuesta por los organizadores debido a problemas de seguridad. La decisión se tomó tras registrarse una serie de ataques en el país anfitrión.",
+   "enfoques": "DW especifica que los ataques recientes fueron realizados por los hutíes en el marco del conflicto regional, detalle no mencionado por BBC.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9647/live/0ce22d10-d754-11f1-8bf4-5f3ca896096e.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/asian-cup-postponed-due-to-middle-east-conflict/a-79837334?maca=en-rss-en-all-1573-rdf",
+     "title": "Asian Cup postponed due to Middle East conflict"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+     "title": "Asian Cup postponed in wake of attacks on Saudi Arabia"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Reino Unido y la UE acuerdan eliminar controles a productos alimentarios",
+   "resumen": "El Reino Unido y la Unión Europea alcanzaron un acuerdo para suprimir los controles fronterizos sobre la importación y exportación de alimentos y productos de origen animal. La medida busca reducir los trámites burocráticos derivados del Brexit.",
+   "enfoques": "BBC califica el pacto como un borrador dentro del reinicio de relaciones, mientras The Guardian resalta su fecha prevista de entrada en vigor en 2028.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
+     "title": "UK and EU agree deal to remove Brexit checks on food and animal products"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+     "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Estados Unidos excluirá a Sudáfrica y Ruanda de acuerdo comercial",
+   "resumen": "El gobierno de Estados Unidos anunció la retirada de Sudáfrica y Ruanda del programa de comercio libre de aranceles AGOA. Según DW, la administración estadounidense justificó la decisión alegando el incumplimiento de las normas del acuerdo.",
+   "enfoques": "BBC vincula la medida con sanciones previas al ministerio de Defensa de Ruanda, mientras DW se enfoca en el argumento oficial de violación de reglas comerciales.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-rdf",
+     "title": "US to drop South Africa, Rwanda from duty-free trade initiative"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+     "title": "Trump to remove Rwanda and South Africa from US trade deal"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Muere el futbolista Jesús de Miguel tras choque en el campo",
+   "resumen": "El delantero del Tenerife, Jesús de Miguel, falleció a los 30 años tras sufrir una colisión durante un partido de la segunda división española. Según Al Jazeera, el jugador sufrió un paro cardíaco después del impacto con el guardameta.",
+   "enfoques": "Al Jazeera precisa que la colisión ocurrió contra el portero provocando un paro cardíaco, a diferencia de BBC que solo menciona una colisión en el terreno de juego.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/sports/2026/11/3/footballer-dies-after-on-field-collision?traffic_source=rss",
+     "title": "Tenerife’s Jesus de Miguel dies after on-field collision with goalkeeper"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+     "title": "Tenerife striker De Miguel dies after on-field collision"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Propuesta de ajuste al IVA elevaría la inflación en Colombia",
+   "resumen": "Según La República, la exposición de motivos del proyecto de Ley de Rescate contempla un ajuste en el IVA que afectaría el costo de vida en Colombia. El medio señala que el indicador de inflación superaría el 6,4% el próximo año.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/el-ajuste-en-el-iva-presionaria-mas-la-inflacion-y-la-llevaria-arriba-de-6-4-el-proximo-ano-4515593",
+     "title": "El ajuste en el IVA presionaría más la inflación y la llevaría arriba de 6,4% el próximo año"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Pensiones en Países Bajos podrían aumentar hasta un 25 por ciento",
+   "resumen": "Según DutchNews, alrededor de dos millones de jubilados en Países Bajos podrían ver un incremento en sus pensiones mensuales a partir de enero. El ajuste estimado para los beneficiarios se situaría entre el 12% y el 25%.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/dutch-pensions-could-rise-by-up-to-25-for-2-million-retirees/",
+     "title": "Dutch pensions could rise by up to 25% for 2 million retirees"
+    }
+   ]
+  }
+ ]
+}
