@@ -1,0 +1,236 @@
+{
+ "day": "2026-11-04",
+ "ai": "Gemini/gemini-3.5-flash-lite",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Sudafricanos votan en elecciones locales en medio de descontento",
+   "resumen": "Los ciudadanos en Sudáfrica votan en elecciones locales. Los votantes manifiestan frustración por fallas en los servicios públicos, cortes de energía, escasez de agua y criminalidad.",
+   "enfoques": "The Guardian y DW enfatizan las pérdidas esperadas y el castigo al gobernante ANC por los cortes de servicios, mientras que la BBC destaca los testimonios directos de los residentes sobre el deterioro de la gestión.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+     "title": "ANC faces anger over poor services as South Africans vote in local elections"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/south-africans-vote-in-local-elections-in-test-for-anc/a-79851651?maca=en-rss-en-all-1573-rdf",
+     "title": "South Africans vote in local elections in test for ANC"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+     "title": "ANC under pressure to reverse South Africa decline"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Demócratas ganan el control de la Cámara y el Senado en EE. UU.",
+   "resumen": "El Partido Demócrata ganó la mayoría en la Cámara de Representantes y en el Senado de Estados Unidos. El recuento de votos continúa en varios estados.",
+   "enfoques": "DW menciona explícitamente que los resultados representan un revés para el presidente Donald Trump, un matiz ausente en el reporte general de Al Jazeera y The Guardian.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=700&quality=85&auto=format&fit=max&s=6ef7ea144facd76ab5883a02705b8a94",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+     "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss",
+     "title": "Democrats win control of House and Senate: Key US midterms takeaways"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-midterms-democrats-win-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
+     "title": "US midterms: Democrats win House and Senate from Republicans"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Abdul El-Sayed gana escaño en el Senado en EE. UU.",
+   "resumen": "El demócrata Abdul El-Sayed ganó las elecciones en Míchigan y se convirtió en el primer senador musulmán en la historia de Estados Unidos. La contienda incluyó ataques islamófobos según Al Jazeera y The Guardian.",
+   "enfoques": "",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/962825a1cc0faaec411418d7850b922d8dd48894/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=bbecb061621e8d3c43960b285937e095",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate",
+     "title": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/4/call-me-senator-how-abdul-el-sayed-beat-trumps-hate-to-create-history?traffic_source=rss",
+     "title": "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Demócrata gana escaño en el Senado en Texas",
+   "resumen": "Un candidato demócrata ganó un escaño en el Senado en Texas. Los republicanos perdieron esta representación por primera vez en décadas.",
+   "enfoques": "La BBC destaca la magnitud histórica de la victoria con declaraciones de expertos, mientras que Al Jazeera enfoca la reacción de molestia de los republicanos.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/73ea/live/1e2e9940-d836-11f1-a701-fddedf244c16.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/republicans-fuming-after-democrat-talarico-flips-texas-senate-blue?traffic_source=rss",
+     "title": "Republicans fuming after Democrat Talarico flips Texas Senate blue"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+     "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Congreso de Colombia aprueba Ley de Sometimiento",
+   "resumen": "El Congreso aprobó la Ley de Sometimiento presentada por el gobierno de Abelardo de la Espriella. La iniciativa busca otorgar garantías a organizaciones criminales.",
+   "enfoques": "La Silla Vacía detalla el proceso de votación tanto en el Senado como en la Cámara de Representantes, mientras que Portafolio se centra en el tiempo de debate en el Senado.",
+   "blind": "",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/10/19/6ad69b4359779.jpeg",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "La Silla Vacía",
+     "label": "centro-izq",
+     "link": "https://www.lasillavacia.com/en-vivo/congreso-aprueba-ley-de-sometimiento-del-gobierno-de-la-espriella/",
+     "title": "Congreso aprueba Ley de Sometimiento del gobierno De la Espriella"
+    },
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/tras-10-horas-de-debate-senado-aprueba-la-ley-de-sometimiento-pero-la-camara-tiene-la-ultima-palabra-505657",
+     "title": "Tras 10 horas de debate, Senado aprueba la ley de sometimiento pero la Cámara tiene la última palabra"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Gobierno de EE. UU. reducirá ayuda militar a Israel",
+   "resumen": "El presidente Donald Trump anunció que Estados Unidos recortará la financiación militar a Israel. Trump afirmó que el país seguirá vendiendo armas a su aliado en Oriente Medio.",
+   "enfoques": "El Washington Examiner asegura que la financiación militar terminará por completo a fin de año, mientras que DW señala que el recorte será de casi 4 mil millones de dólares y menciona las declaraciones sobre las elecciones de mitad de periodo.",
+   "blind": "",
+   "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP25363680653528-1.jpg?w=1024",
+   "image_source": "Washington Examiner",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf",
+     "title": "US to cut nearly $4 billion in Israel military aid, Trump says"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4789202/trump-end-all-military-funding-israel-end-of-year/",
+     "title": "Trump to end all military funding to Israel by end of the year: ‘They don’t need it’"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Asesinan a un adulto mayor en hotel de Medellín",
+   "resumen": "Un hombre de la tercera edad fue asesinado en el Hotel El Ajedrez en Medellín. Las autoridades investigan el caso tras un altercado y hay dos personas capturadas.",
+   "enfoques": "Semana titula directamente que el hombre fue asesinado tras ofrecer dinero a menores de edad, mientras que El Tiempo enmarca el hecho como una investigación en curso sobre acusaciones previas.",
+   "blind": "derecha",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/04/11/67f97aeecfef2.r_d.673-303-0.jpeg",
+   "image_source": "El Tiempo",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/medellin/homicidio-en-hotel-de-medellin-asesinan-a-un-hombre-acusado-de-ofrecer-dinero-a-ninas-de-7-y-9-anos-para-ingresarlas-a-su-habitacion-3598210",
+     "title": "Homicidio en hotel de Medellín: asesinan a un hombre acusado de ofrecer dinero a niñas de 7 y 9 años para ingresarlas a su habitación"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/medellin/articulo/adulto-mayor-fue-asesinado-tras-ofrecerle-dinero-a-ninas-de-7-y-9-anos-en-hotel-de-medellin/202634/",
+     "title": "Adulto mayor fue asesinado tras ofrecerle dinero a niñas de 7 y 9 años en hotel de Medellín"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Gobierno radica mensaje de urgencia para ley de rescate fiscal",
+   "resumen": "El gobierno de Abelardo de la Espriella radicó en el Congreso un mensaje de urgencia para tramitar la ley de rescate económico o fiscal. La iniciativa busca estabilizar las finanzas públicas sin crear nuevos impuestos.",
+   "enfoques": "La República resalta el límite de tiempo de seis semanas antes de que terminen las sesiones ordinarias el 16 de diciembre, mientras que Portafolio detalla el objetivo fiscal de reducir el gasto público.",
+   "blind": "derecha",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/10/01/6abed598bcbb6.r_d.849-361-0.png",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-radico-en-el-congreso-mensaje-de-urgencia-para-acelerar-tramite-de-ley-de-rescate-fiscal-505646",
+     "title": "Gobierno De La Espriella radicó en el Congreso mensaje de urgencia para acelerar trámite de ley de rescate fiscal"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/gobierno-radico-mensaje-de-urgencia-para-tramitar-la-ley-de-rescate-economico-4517003",
+     "title": "Gobierno radicó mensaje de urgencia para tramitar la Ley de Rescate Económico"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Nueva ley de nitrógeno genera reacciones divididas en Países Bajos",
+   "resumen": "El gabinete anunció una nueva ley de nitrógeno en Países Bajos. La medida generó críticas por parte de los agricultores, alivio en el sector de la construcción y escepticismo entre los ambientalistas.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/nitrogen-law-falls-short-for-farmers-but-may-help-housebuilding/",
+     "title": "Nitrogen law falls short for farmers but may help housebuilding"
+    }
+   ]
+  },
+  {
+   "topic": "limburg",
+   "title": "El poder adquisitivo continúa cayendo en Países Bajos",
+   "resumen": "El poder adquisitivo en Países Bajos sigue disminuyendo mientras la política discute el plan fiscal. El aumento en los precios de la gasolina y la energía encarece el costo de vida.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://prod-img.limburger.nl/public/ece-incoming/97sp7g-ter-illustratie./alternates/BASE_SIXTEEN_NINE/Ter%20illustratie.",
+   "image_source": "De Limburger",
+   "outlets": [
+    {
+     "name": "De Limburger",
+     "label": "~centro",
+     "link": "https://www.limburger.nl/economie/persoonlijke-geldzaken/koopkracht-verder-achteruit-ook-verzachting-belastingplan-voorkomt-dikke-min-niet/164063684.html",
+     "title": "Koopkracht verder achteruit: ‘Ook verzachting belastingplan voorkomt dikke min niet’"
+    }
+   ]
+  }
+ ]
+}
