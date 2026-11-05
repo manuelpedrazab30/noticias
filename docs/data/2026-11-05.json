@@ -1,0 +1,254 @@
+{
+ "day": "2026-11-05",
+ "ai": "Gemini/gemini-flash-lite-latest",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Joshua Wong condenado a diez años de prisión en Hong Kong",
+   "resumen": "El activista Joshua Wong fue condenado a diez años de prisión en Hong Kong bajo la ley de seguridad nacional. Wong se encontraba detenido desde el año 2020.",
+   "enfoques": "The Guardian y DW detallan antecedentes personales de Wong y su historial judicial, mientras que Al Jazeera y BBC se centran en el fallo judicial por colusión.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+     "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
+     "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf",
+     "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 more years"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+     "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Francia afronta jornada de huelgas y protestas nacionales",
+   "resumen": "Varios sectores laborales participan en una jornada de huelga y protestas en toda Francia convocada por los sindicatos. Las autoridades desplegaron a setenta mil policías y agentes de seguridad en el país.",
+   "enfoques": "DW y The Guardian detallan los sectores específicos en huelga y el despliegue policial, mientras que BBC enfatiza la movilización general de los sindicatos.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3334/live/45a99230-d909-11f1-b441-2b33b063138f.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+     "title": "Protesters join street demostrations across France on day of strike action"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/france-braces-for-fresh-protests-as-unions-strike-over-higher-wages/a-79860616?maca=en-rss-en-all-1573-rdf",
+     "title": "France braces for fresh protests as unions strike over higher wages"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+     "title": "France gears up for strikes and protests as unions promise national mobilisation"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Cristiano Ronaldo anuncia su retirada de la selección de Portugal",
+   "resumen": "El futbolista Cristiano Ronaldo anunció su retirada de la selección de Portugal. El jugador comunicó la decisión a través de una publicación en redes sociales.",
+   "enfoques": "DW menciona un conflicto previo con el entrenador Jorge Jesus, mientras que Al Jazeera y BBC se limitan a reportar el anuncio de su retirada.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss",
+     "title": "Cristiano Ronaldo announces retirement from international football"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-rdf",
+     "title": "Cristiano Ronaldo announces retirement from international football"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+     "title": "Ronaldo retires from Portugal duty"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Varios vuelos en Europa reciben amenazas de bomba y se desvían",
+   "resumen": "Varios vuelos comerciales en Europa fueron desviados o aterrizaron tras recibir amenazas de bomba o de seguridad. Los incidentes afectaron el tráfico aéreo en distintos países del continente.",
+   "enfoques": "The Guardian destaca el número total de quince vuelos afectados y datos de agencias locales, mientras que DW y Al Jazeera reportan los desvíos y aterrizajes de emergencia en diferentes países.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/ea6a1228985c75548960879b1e07ce091681abe5/322_234_1500_1200/master/1500.jpg?width=700&quality=85&auto=format&fit=max&s=9a5f859045dc4329077a47d057b50fcf",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+     "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
+     "title": "New bomb threats bring more disruption to flights across Europe"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216?maca=en-rss-en-all-1573-rdf",
+     "title": "Several European flights receive bomb threats, some divert"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "El Banco de Inglaterra eleva las tasas de interés al cuatro por ciento",
+   "resumen": "El Banco de Inglaterra elevó las tasas de interés al cuatro por ciento en su primer incremento en más de tres años. La medida busca combatir la inflación en un contexto de costos energéticos elevados.",
+   "enfoques": "The Guardian enfatiza la relación entre el aumento y los costos de energía por la guerra en Irán, mientras que BBC se centra en las expectativas de los analistas y los efectos prácticos para los ciudadanos.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+     "title": "Bank of England raises interest rates to 4%, the first increase for more than three years"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+     "title": "Interest rates hiked to 4% in first increase in over three years"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Hallan a adulto mayor atado en un lote en Manizales",
+   "resumen": "Un adulto mayor fue encontrado atado de pies y manos en un lote en Manizales y presentaba heridas en la cara y los brazos. La víctima fue trasladada a un centro médico para recibir atención.",
+   "enfoques": "Semana menciona que ya existe una hipótesis sobre lo ocurrido, mientras que El Tiempo detalla que el hecho habría ocurrido para cometer un atraco.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/ARF6SICRINFJ5OEIVGFOWUAUH4.jpg?auth=56383e78f671311b40895f42c674823c858bd034997b91d1f85f80f2e772e700&smart=true&width=1280&height=720",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/indignacion-por-caso-de-adulto-mayor-que-fue-hallado-atado-de-pies-y-manos-en-un-lote-en-manizales-victima-presentaba-heridas-en-la-cara-y-los-brazos-3598460",
+     "title": "Indignación por caso de adulto mayor que fue hallado atado de pies y manos en un lote en Manizales: víctima presentaba heridas en la cara y los brazos"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/manizales/articulo/adulto-mayor-fue-encontrado-atado-de-brazos-y-pies-en-un-lote-vacio-en-manizales-ya-hay-una-hipotesis-de-lo-que-paso/202633/",
+     "title": "Adulto mayor fue encontrado atado de brazos y pies en un lote vacío en Manizales: ya hay una hipótesis de lo que pasó"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "La libra esterlina alcanza su nivel más alto desde el Brexit",
+   "resumen": "La libra esterlina alcanzó su nivel más alto frente a otras monedas desde el referéndum del Brexit de hace una década. Los datos fueron publicados por el Banco de Inglaterra.",
+   "enfoques": "The Guardian atribuye la fortaleza de la libra a la caída del dólar tras las elecciones de mitad de término en Estados Unidos, aspecto que la BBC no menciona.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/44a7/live/84e77df0-d8e5-11f1-93e1-3b657b665bcf.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/business/2026/nov/05/pound-hits-highest-level-since-2016-brexit-vote",
+     "title": "Pound hits highest level since its crash after 2016 Brexit vote"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+     "title": "Pound rises to its highest level since the Brexit referendum"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Deicy Jiménez publica video con Gustavo Petro y genera reacciones",
+   "resumen": "Deicy Jiménez publicó un video en su cuenta de Instagram en una habitación donde se ve al expresidente Gustavo Petro dándole un beso. El hecho generó una respuesta por parte del exmandatario.",
+   "enfoques": "La Silla Vacía detalla el contenido del video publicado en Instagram, mientras que Semana se enfoca exclusivamente en la respuesta dada por Gustavo Petro.",
+   "blind": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/LJS6DGDBG5AGZN5IR5ME7TYVHQ.jpg?auth=003d1121322c20da8097c214c4bc4d8f737e2f4772f5361aa75edee3b2ad62d9&smart=true&width=2000&height=1175",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "La Silla Vacía",
+     "label": "centro-izq",
+     "link": "https://www.lasillavacia.com/en-vivo/deicy-jimenez-publica-video-para-probar-su-relacion-con-gustavo-petro/",
+     "title": "Deicy Jiménez publica video para probar su relación con Gustavo Petro"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/gustavo-petro-responde-a-video-con-deicy-jimenez-esto-dijo/202612/",
+     "title": "Gustavo Petro responde a video con Deicy Jiménez. Esto dijo"
+    }
+   ]
+  },
+  {
+   "topic": "limburg",
+   "title": "Schiphol adquiere participación del ochenta por ciento en el aeropuerto de Maastricht Aachen",
+   "resumen": "El aeropuerto de Maastricht Aachen pasará a estar controlado en un ochenta por ciento por el grupo Royal Schiphol. La empresa operaba previamente con una participación del cuarenta por ciento.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://prod-img.limburger.nl/public/ece-incoming/s9opej-mst2.jpg/alternates/BASE_SIXTEEN_NINE/mst2.jpg",
+   "image_source": "De Limburger",
+   "outlets": [
+    {
+     "name": "De Limburger",
+     "label": "~centro",
+     "link": "https://www.limburger.nl/economie/schiphol-neemt-belang-van-80-procent-in-maastricht-aachen-airport/164113146.html",
+     "title": "Schiphol neemt belang van 80 procent in Maastricht Aachen Airport"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Partidos de la coalición en Países Bajos difieren sobre planes fiscales",
+   "resumen": "Los partidos que conforman la coalición gobernante en los Países Bajos señalaron que podrían votar en contra de las propuestas de sus socios en las enmiendas al plan fiscal de 2027.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/coalition-parties-ready-to-vote-against-each-other-on-tax-plans/",
+     "title": "Coalition parties ready to vote against each other on tax plans"
+    }
+   ]
+  }
+ ]
+}

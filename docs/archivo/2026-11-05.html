@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Unbiased — jueves 5 de noviembre de 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,700;1,8..60,400;1,8..60,700&display=swap" rel="stylesheet">
+<style>
+  /* Tema oscuro: "papel" casi negro y cálido, "tinta" color hueso. */
+  :root {
+    color-scheme: dark;
+    --yellow: #ffc500;   /* único color: solo marca los puntos ciegos */
+    --ink: #ece8df;
+    --cream: #121110;
+    --white: #1b1a18;    /* superficie de la barra superior */
+    --panel: #26241f;
+    --rule: #3a3833;
+    --caption: #a8a399;
+    --mute: #77736b;
+    --serif: "Source Serif 4", "Source Serif Pro", Georgia, serif;
+    --sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { background: var(--cream); }
+  body { margin: 0; color: var(--ink); font: 16px/1.38 var(--serif); letter-spacing: .01em; }
+  a { color: inherit; text-decoration: none; }
+  a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .wrap { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+
+  .utility { background: var(--white); border-bottom: 1px solid var(--rule); }
+  .utility .wrap { display: flex; justify-content: space-between; gap: 12px; padding-top: 8px; padding-bottom: 8px;
+                   font: 700 13px/1.25 var(--sans); letter-spacing: .01em; text-transform: uppercase; }
+  .utility nav { display: flex; gap: 16px; }
+
+  .masthead { padding: 22px 0 16px; }
+  .wordmark { margin: 0; font-weight: 700; font-style: italic; font-size: 52px; line-height: 1; letter-spacing: -.02em; text-align: center; }
+  .sections { border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); padding: 8px 0;
+              text-align: center; font-size: 13px; letter-spacing: .075em; text-transform: uppercase; }
+  .sections span { color: var(--mute); padding: 0 10px; }
+
+  .eyebrow { margin: 0 0 6px; font-size: 13px; font-weight: 700; letter-spacing: .075em; text-transform: uppercase; }
+  .eyebrow small { font-weight: 400; color: var(--caption); letter-spacing: .05em; }
+  h2, h3, h4 { margin: 0 0 8px; font-weight: 400; text-wrap: balance; overflow-wrap: break-word; }
+  .h-display { font-size: clamp(40px, 5.4vw, 64px); line-height: 1.02; letter-spacing: -.02em; }
+  .h-lg { font-size: 28px; line-height: 1.2;  letter-spacing: -.02em; }
+  .h-md { font-size: 24px; line-height: 1.2;  letter-spacing: -.02em; }
+  .h-sm { font-size: 20px; line-height: 1.25; letter-spacing: -.02em; }
+  p { margin: 0 0 8px; }
+  .angles { font-style: italic; font-size: 15px; }
+  img { display: block; width: 100%; height: auto; object-fit: cover; background: var(--panel); filter: brightness(.9); }
+  .credit { font-size: 12px; color: var(--mute); margin: 4px 0 10px; }
+
+  .sources { font-size: 13px; line-height: 1.45; color: var(--caption); font-variant: small-caps; letter-spacing: .05em;
+             border-top: 1px solid var(--rule); padding-top: 6px; margin-top: 10px; }
+  /* Medidor de sesgo: barra de 5 tramos, de izquierda a derecha; claros los lados que cubren la historia */
+  .meter { display: flex; align-items: center; margin: 2px 0 6px;
+           font: 700 11px/1 var(--sans); letter-spacing: .06em; text-transform: uppercase; color: var(--caption); }
+  .meter::before { content: "Izq"; margin-right: 6px; }
+  .meter::after { content: "Der"; margin-left: 6px; }
+  .meter i { width: 28px; height: 9px; background: var(--rule); }
+  .meter i + i { box-shadow: inset 2px 0 0 var(--cream); }
+  .meter i.on { background: var(--ink); }
+  .lead .meter i { width: 40px; height: 12px; }
+  /* El único amarillo de la página: lo que de verdad importa para leer con criterio. */
+  .blind { display: inline-block; margin-top: 6px; padding: 1px 6px; background: var(--yellow);
+           font: 700 12px/1.4 var(--sans); letter-spacing: .02em; text-transform: uppercase; color: #000; }
+
+  .grid { display: grid; grid-template-columns: 1.55fr 1fr 300px; padding: 24px 0 8px; }
+  .grid.cols-2 { grid-template-columns: 1.55fr 1fr; }
+  .grid.cols-1 { grid-template-columns: 1fr; }
+  .grid > * { padding: 0 20px; }
+  .grid > *:first-child { padding-left: 0; }
+  .grid > *:last-child { padding-right: 0; }
+  .grid > * + * { border-left: 1px solid var(--rule); }
+  .story { padding-bottom: 16px; margin-bottom: 16px; border-bottom: 1px solid var(--rule); }
+  .story:last-child { border-bottom: 0; margin-bottom: 0; padding-bottom: 0; }
+  .lead img { aspect-ratio: 3 / 2; margin-top: 12px; }
+  .lead .summary { font-size: 18px; line-height: 1.44; }
+  .mid img { aspect-ratio: 16 / 10; margin-bottom: 4px; }
+
+  .card { margin-bottom: 20px; }
+  .card h3 { margin: 0; padding: 8px 12px; font-size: 13px; font-weight: 700; letter-spacing: .075em; text-transform: uppercase; }
+  .card .item { padding: 12px; border-bottom: 1px solid var(--rule); }
+  .card .item:last-of-type { border-bottom: 0; }
+  .card .sources { border-top: 0; padding-top: 0; margin-top: 4px; }
+  /* Colombia: amarillo (mitad), azul y rojo */
+  .card.co { background: #1f1c10; }
+  .card.co h3 { background: #003893; color: #fff; border-top: 10px solid #fcd116; border-bottom: 5px solid #ce1126; }
+  /* Países Bajos: rojo, blanco y azul en franjas iguales */
+  .card.nl { background: #151923; }
+  .card.nl h3 { background: #fff; color: #21468b; border-top: 7px solid #ae1c28; border-bottom: 7px solid #21468b; }
+
+  .row-title { border-top: 1px solid var(--ink); padding-top: 8px; margin-top: 40px; }
+  .features { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; padding: 12px 0 0; }
+  .features img { aspect-ratio: 4 / 3; border-radius: 8px; margin-bottom: 10px; }
+
+  footer { border-top: 1px solid var(--rule); margin-top: 56px; padding: 16px 0 40px;
+           font-size: 13px; color: var(--caption); letter-spacing: .05em; }
+  footer a { text-decoration: underline; text-underline-offset: 2px; }
+
+  /* Celular: una columna, titulares igual de grandes */
+  @media (max-width: 860px) {
+    .wrap { padding: 0 16px; }
+    .masthead { padding: 16px 0 12px; }
+    .wordmark { font-size: 44px; }
+    .sections { overflow-x: auto; white-space: nowrap; text-align: left; }
+    .grid, .grid.cols-2, .features { grid-template-columns: 1fr; }
+    .grid > * { padding: 0; }
+    .grid > * + * { border-left: 0; border-top: 1px solid var(--rule); padding-top: 16px; margin-top: 16px; }
+    .h-display { font-size: 40px; }
+    .utility .wrap { font-size: 12px; }
+    .utility nav { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="utility"><div class="wrap">
+  <span>Edición de la mañana · jueves 5 de noviembre de 2026</span>
+  <nav><a href="#archivo">Ediciones anteriores</a><a href="https://github.com/manuelpedrazab30/noticias#readme">Cómo funciona</a></nav>
+</div></div>
+<div class="wrap">
+  <header>
+    <div class="masthead"><h1 class="wordmark">Unbiased</h1></div>
+    <nav class="sections"><a href="#t-geopolitica">Geopolítica</a><span>|</span><a href="#t-economia">Economía</a><span>|</span><a href="#t-colombia">Colombia</a><span>|</span><a href="#t-paises_bajos">Países Bajos</a><span>|</span><a href="#t-limburg">Maastricht</a></nav>
+  </header>
+  <main>
+    <div class="grid cols-3"><article class="lead" id="t-geopolitica"><p class="eyebrow">Geopolítica <small>· 4 medios</small></p><h2 class="h-display">Joshua Wong condenado a diez años de prisión en Hong Kong</h2><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg" alt="" referrerpolicy="no-referrer" fetchpriority="high"><p class="credit">Foto: BBC</p><div class="summary"><p>El activista Joshua Wong fue condenado a diez años de prisión en Hong Kong bajo la ley de seguridad nacional. Wong se encontraba detenido desde el año 2020.</p><p class="angles">The Guardian y DW detallan antecedentes personales de Wong y su historial judicial, mientras que Al Jazeera y BBC se centran en el fallo judicial por colusión.</p></div><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i class="on"></i><i class="on"></i><i class="on"></i><i></i><i></i></span><a href="https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case">The Guardian</a>, izq. · <a href="https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss">Al Jazeera</a>, c.-izq. · <a href="https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf">DW</a>, c.-izq. · <a href="https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article><section class="mid"><article class="story"><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3334/live/45a99230-d909-11f1-b441-2b33b063138f.jpg" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: BBC</p><p class="eyebrow">Geopolítica <small>· 3 medios</small></p><h3 class="h-lg">Francia afronta jornada de huelgas y protestas nacionales</h3><p>Varios sectores laborales participan en una jornada de huelga y protestas en toda Francia convocada por los sindicatos. Las autoridades desplegaron a setenta mil policías y agentes de seguridad en el país.</p><p class="angles">DW y The Guardian detallan los sectores específicos en huelga y el despliegue policial, mientras que BBC enfatiza la movilización general de los sindicatos.</p><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i class="on"></i><i class="on"></i><i class="on"></i><i></i><i></i></span><a href="https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living">The Guardian</a>, izq. · <a href="https://www.dw.com/en/france-braces-for-fresh-protests-as-unions-strike-over-higher-wages/a-79860616?maca=en-rss-en-all-1573-rdf">DW</a>, c.-izq. · <a href="https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article><article class="story"><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: BBC</p><p class="eyebrow">Geopolítica <small>· 3 medios</small></p><h3 class="h-md">Cristiano Ronaldo anuncia su retirada de la selección de Portugal</h3><p>El futbolista Cristiano Ronaldo anunció su retirada de la selección de Portugal. El jugador comunicó la decisión a través de una publicación en redes sociales.</p><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i class="on"></i><i class="on"></i><i></i><i></i></span><a href="https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss">Al Jazeera</a>, c.-izq. · <a href="https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-rdf">DW</a>, c.-izq. · <a href="https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article><article class="story" id="t-colombia"><p class="eyebrow">Colombia <small>· 2 medios</small></p><h3 class="h-sm">Hallan a adulto mayor atado en un lote en Manizales</h3><p>Un adulto mayor fue encontrado atado de pies y manos en un lote en Manizales y presentaba heridas en la cara y los brazos. La víctima fue trasladada a un centro médico para recibir atención.</p><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i></i><i></i><i class="on"></i><i class="on"></i></span><a href="https://www.eltiempo.com/colombia/otras-ciudades/indignacion-por-caso-de-adulto-mayor-que-fue-hallado-atado-de-pies-y-manos-en-un-lote-en-manizales-victima-presentaba-heridas-en-la-cara-y-los-brazos-3598460">El Tiempo</a>, ~c.-der. · <a href="https://www.semana.com/nacion/manizales/articulo/adulto-mayor-fue-encontrado-atado-de-brazos-y-pies-en-un-lote-vacio-en-manizales-ya-hay-una-hipotesis-de-lo-que-paso/202633/">Semana</a>, ~der.</div><span class="blind">Punto ciego · solo derecha</span></article></section><aside><section class="card co"><h3>Colombia</h3><div class="item"><h4 class="h-sm">Deicy Jiménez publica video con Gustavo Petro y genera reacciones</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i class="on"></i><i></i><i></i><i class="on"></i></span><a href="https://www.lasillavacia.com/en-vivo/deicy-jimenez-publica-video-para-probar-su-relacion-con-gustavo-petro/">La Silla Vacía</a>, c.-izq. · <a href="https://www.semana.com/nacion/articulo/gustavo-petro-responde-a-video-con-deicy-jimenez-esto-dijo/202612/">Semana</a>, ~der.</div></div></section><section class="card nl"><h3>Países Bajos y Maastricht</h3><div class="item" id="t-limburg"><h4 class="h-sm">Schiphol adquiere participación del ochenta por ciento en el aeropuerto de Maastricht Aachen</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i></i><i class="on"></i><i></i><i></i></span><a href="https://www.limburger.nl/economie/schiphol-neemt-belang-van-80-procent-in-maastricht-aachen-airport/164113146.html">De Limburger</a>, ~centro</div></div><div class="item" id="t-paises_bajos"><h4 class="h-sm">Partidos de la coalición en Países Bajos difieren sobre planes fiscales</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i></i><i class="on"></i><i></i><i></i></span><a href="https://www.dutchnews.nl/2026/11/coalition-parties-ready-to-vote-against-each-other-on-tax-plans/">DutchNews</a>, centro</div></div></section></aside></div>
+    <p class="eyebrow row-title">También hoy</p><div class="features"><article><img src="https://i.guim.co.uk/img/media/ea6a1228985c75548960879b1e07ce091681abe5/322_234_1500_1200/master/1500.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a5f859045dc4329077a47d057b50fcf" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: The Guardian</p><p class="eyebrow">Geopolítica <small>· 3 medios</small></p><h4 class="h-sm">Varios vuelos en Europa reciben amenazas de bomba y se desvían</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i class="on"></i><i class="on"></i><i></i><i></i><i></i></span><a href="https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates">The Guardian</a>, izq. · <a href="https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss">Al Jazeera</a>, c.-izq. · <a href="https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216?maca=en-rss-en-all-1573-rdf">DW</a>, c.-izq.</div><span class="blind">Punto ciego · solo izquierda</span></article><article id="t-economia"><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: BBC</p><p class="eyebrow">Economía <small>· 2 medios</small></p><h4 class="h-sm">El Banco de Inglaterra eleva las tasas de interés al cuatro por ciento</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i class="on"></i><i></i><i class="on"></i><i></i><i></i></span><a href="https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years">The Guardian</a>, izq. · <a href="https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article><article><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/44a7/live/84e77df0-d8e5-11f1-93e1-3b657b665bcf.jpg" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: BBC</p><p class="eyebrow">Geopolítica <small>· 2 medios</small></p><h4 class="h-sm">La libra esterlina alcanza su nivel más alto desde el Brexit</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i class="on"></i><i></i><i class="on"></i><i></i><i></i></span><a href="https://www.theguardian.com/business/2026/nov/05/pound-hits-highest-level-since-2016-brexit-vote">The Guardian</a>, izq. · <a href="https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article></div>
+  </main>
+  <footer id="archivo">
+    <p>Orientación: AllSides y Media Bias/Fact Check · ~ = estimación propia</p>
+    <p>Ediciones anteriores: <a href="../archivo/2026-11-04.html">2026-11-04</a> · <a href="../archivo/2026-11-03.html">2026-11-03</a> · <a href="../archivo/2026-11-02.html">2026-11-02</a> · <a href="../archivo/2026-11-01.html">2026-11-01</a> · <a href="../archivo/2026-10-31.html">2026-10-31</a></p>
+  </footer>
+</div>
+</body>
+</html>
