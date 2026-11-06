@@ -1,0 +1,272 @@
+{
+ "day": "2026-11-06",
+ "ai": "Gemini/gemini-3.5-flash",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Múltiples amenazas de bomba falsas afectan a vuelos en Europa",
+   "resumen": "Varias aerolíneas en Europa sufrieron interrupciones y desvíos de vuelos debido a falsas amenazas de bomba durante la semana. Las inspecciones de seguridad no encontraron explosivos en los aviones examinados.",
+   "enfoques": "Mientras BBC destaca la falta de pruebas sobre quién está detrás de las amenazas, medios como DutchNews y NL Times se centran específicamente en la afectación de un vuelo de KLM en Bucarest.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/feab/live/224ee450-d951-11f1-b441-2b33b063138f.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
+     "title": "European skies on high alert as more airlines receive bomb threats – Europe live"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
+     "title": "Hoax or bomb threats? What we know about flight disruptions across Europe"
+    },
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/klm-flight-stranded-in-bucharest-after-bomb-threat/",
+     "title": "KLM flight stranded in Bucharest after bomb threat"
+    },
+    {
+     "name": "NL Times",
+     "label": "centro",
+     "link": "https://nltimes.nl/2026/11/06/klm-flight-grounded-bomb-threat-canceled-due-technical-fault",
+     "title": "KLM flight grounded by bomb threat canceled due to technical fault"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+     "title": "Who could be behind hoax bomb threats to European air travel?"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4793684/flights-diverted-europe-multiple-bomb-threats/",
+     "title": "Flights diverted in Europe after multiple bomb threats"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Las acciones tecnológicas globales caen por temores del sector de inteligencia artificial",
+   "resumen": "Las bolsas mundiales sufrieron caídas en Wall Street, Asia y Europa tras los resultados electorales en Estados Unidos. Los inversores reaccionaron con preocupación ante posibles restricciones al sector de la inteligencia artificial y dudas sobre las inversiones del sector.",
+   "enfoques": "The Guardian y DW vinculan abiertamente el desplome a la victoria demócrata en las elecciones intermedias de EE. UU., mientras que la BBC enfatiza el temor a un mayor escrutinio sobre la construcción de centros de datos.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b0d1/live/49c24750-d9d0-11f1-9e5a-c30c5e3d8c85.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+     "title": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/global-tech-stocks-plunge-over-fears-of-ai-curbs-in-us?traffic_source=rss",
+     "title": "Global tech stocks plunge over fears of AI curbs in US"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-rdf",
+     "title": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+     "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Un juez estadounidense frena temporalmente la construcción del arco de Trump",
+   "resumen": "Un juez federal emitió una orden de restricción que frena por 14 días las obras del arco de triunfo proyectado en Washington D. C. La decisión se produjo poco después de que una comisión de planificación aprobara los planos del monumento.",
+   "enfoques": "The Guardian califica el fallo como un revés importante para el presidente, mientras que Al Jazeera y DW se limitan a reportar el plazo de la suspensión de 14 días y la votación previa del panel.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/80501b103a6ec118c03b3ae74e80f2703d3be4e3/1131_0_5655_4526/master/5655.jpg?width=700&quality=85&auto=format&fit=max&s=300c5e81b655f63a75e90b1aed008e8f",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
+     "title": "Judge temporarily halts building work on Trump’s triumphal arch"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss",
+     "title": "US judge halts construction of Trump’s triumphal arch in Washington, DC"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-judge-temporarily-blocks-trump-s-arch-project-after-panel-approval/a-79871690?maca=en-rss-en-all-1573-rdf",
+     "title": "US judge temporarily blocks Trump's arch project after panel approval"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Nueva crisis de contaminación del aire afecta a Nueva Delhi este invierno",
+   "resumen": "La capital de India vuelve a registrar elevados niveles de contaminación atmosférica con la llegada del invierno. El gobierno local anunció un plan de acción de cuatro meses para intentar mitigar el problema.",
+   "enfoques": "DW cuestiona las razones por las que las intervenciones gubernamentales no han logrado resolver la crisis a largo plazo, mientras que la BBC pone el foco en si la ciudad está preparada para afrontar la contaminación.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f26c/live/86fa1990-d94e-11f1-a701-fddedf244c16.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/india-why-does-delhi-keep-failing-to-tackle-its-air-pollution-crisis/a-79873124?maca=en-rss-en-all-1573-rdf",
+     "title": "India: Why does Delhi keep failing to tackle its air pollution crisis?"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+     "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Condenan a prisión a un líder sectario en Kenia por homicidio",
+   "resumen": "Paul Mackenzie fue condenado en Kenia tras ordenar a sus seguidores ayunar hasta morir. La BBC reporta una sentencia a cadena perpetua por la muerte de 191 personas, mientras que DW señala una condena de 200 años de cárcel por el asesinato de 190 niños y un adulto.",
+   "enfoques": "BBC destaca la pena de cadena perpetua en su titular, mientras que DW enfatiza la suma de 200 años de prisión especificando la cifra de menores fallecidos.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/819f/live/03fb9610-d857-11f1-8ac8-af8395a95d7d.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112?maca=en-rss-en-all-1573-rdf",
+     "title": "Kenya cult leader Paul Mackenzie sentenced to 200 years"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+     "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Polémica en Colombia sobre un nombramiento vinculado a Gustavo Petro",
+   "resumen": "Medios colombianos informan sobre la divulgación de contenidos relacionados con la permanencia de Deicy Jiménez en el gobierno de Colombia. Semana afirma la existencia de un chat en el que el presidente Gustavo Petro ordena mantener el nombramiento, mientras La Silla Vacía analiza las líneas de defensa del caso.",
+   "enfoques": "Semana centra su cobertura en la existencia del chat con la orden de Petro, mientras que La Silla Vacía aborda el caso desde el análisis del vídeo publicado y las respuestas defensivas.",
+   "blind": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/ZXDANV7SEBHOTF5SKTEBZHVT3U.jpg?auth=8aed7e5eb7186991a4e0c2e5398ad23bcdd1eeb4672a9aa5b2328a3a3f3953a3&smart=true&width=1280&height=720",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "La Silla Vacía",
+     "label": "centro-izq",
+     "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/3-defensas-para-un-lider-pacto-petro-y-deicy-jimenez/",
+     "title": "3 defensas para un líder: Pacto, Petro y Deicy Jiménez"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/gustavo-petro-si-le-entrego-la-hoja-de-vida-de-deicy-jimenez-a-angie-rodriguez-aparece-el-chat/202629/",
+     "title": "Gustavo Petro sí le ordenó a Angie Rodríguez mantener nombramiento de Deicy Jiménez en “mi interior”. Aparece el chat"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Tesla dejará de fabricar el Cybertruck para centrarse en los Cybercabs",
+   "resumen": "Elon Musk anunció que Tesla dejará de producir el modelo Cybertruck en sus instalaciones. La empresa destinará dicho espacio de fabricación a la producción de los vehículos autónomos Cybercab.",
+   "enfoques": "TechCrunch especifica que la producción del Cybertruck se detendrá en 2027, mientras que la BBC ofrece una cobertura más general sobre la transición hacia los Cybercabs.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1994/live/ff7af2d0-d9bd-11f1-a00c-673f8daaffd9.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "TechCrunch",
+     "label": "centro-izq",
+     "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+     "title": "Tesla will stop making the Cybertruck in 2027"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+     "title": "Elon Musk appears to signal the end of the road for Cybertruck"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Solicitud de arresto domiciliario para el exprimer ministro malasio Najib Razak",
+   "resumen": "El exprimer ministro de Malasia, Najib Razak, solicitó cumplir su condena por malversación bajo arresto domiciliario tras el pago de una multa. Según DW, el fiscal general del país declaró que su traslado se encuentra suspendido temporalmente.",
+   "enfoques": "Al Jazeera afirma que el tribunal concedió el arresto domiciliario tras el pago de la multa, mientras que DW destaca que la fiscalía mantiene la medida en suspenso.",
+   "blind": "izquierda",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon?traffic_source=rss",
+     "title": "Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/malaysia-ex-leader-najib-seeks-to-leave-prison-for-house-arrest/a-79872493?maca=en-rss-en-all-1573-rdf",
+     "title": "Malaysia: Ex-leader Najib seeks to leave prison for house arrest"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "El Banco de Inglaterra sube los tipos de interés al 4%",
+   "resumen": "El Banco de Inglaterra incrementó la tasa de interés de referencia del 3,75% al 4%. Se trata del primer aumento de este tipo de interés en más de tres años.",
+   "enfoques": "BBC analiza el impacto del incremento en los préstamos y ahorros de los ciudadanos, mientras que The Telegraph se limita a informar sobre la decisión del banco central.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+     "title": "Interest rates hiked to 4% in first increase in over three years"
+    },
+    {
+     "name": "The Telegraph",
+     "label": "centro-der",
+     "link": "https://www.telegraph.co.uk/business/2026/11/05/interest-rates-bank-of-england-pound-dollar-bailey-ftse-100/",
+     "title": "Bank of England raises interest rates for first time in three years"
+    }
+   ]
+  },
+  {
+   "topic": "limburg",
+   "title": "Echt-Susteren aprueba un aumento del impuesto inmobiliario en su presupuesto",
+   "resumen": "El concejo municipal de Echt-Susteren aprobó el presupuesto para el próximo año. La medida incluye un incremento en la tasa del impuesto sobre bienes inmuebles que pagarán los propietarios de viviendas.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://prod-img.limburger.nl/public/ece-incoming/mcjtyf-ozb.jpg/alternates/BASE_SIXTEEN_NINE/ozb.jpg",
+   "image_source": "De Limburger",
+   "outlets": [
+    {
+     "name": "De Limburger",
+     "label": "~centro",
+     "link": "https://www.limburger.nl/regio/echt-susteren/ozb-stijging-van-20-procent-in-echt-susteren-een-feit-gemeenteraad-keurt-begroting-goed/164162752.html",
+     "title": "Ozb-stijging van 20 procent in Echt-Susteren een feit, gemeenteraad keurt begroting goed"
+    }
+   ]
+  }
+ ]
+}
