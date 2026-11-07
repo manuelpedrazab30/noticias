@@ -1,0 +1,266 @@
+{
+ "day": "2026-11-07",
+ "ai": "Gemini/gemini-3.5-flash-lite",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Destituyen y arrestan al presidente de Paraguay tras crisis bancaria",
+   "resumen": "El presidente de Paraguay, Santiago Peña, fue destituido por el Congreso tras el colapso del Ueno Bank, que dejó a millones sin acceso a sus cuentas y fondos públicos retenidos. Peña quedó bajo arresto domiciliario o protección militar tras las protestas ciudadanas.",
+   "enfoques": "The Guardian destaca la magnitud de la crisis señalando que afectó al 60% del país y menciona la protesta callejera, mientras que Al Jazeera y DW se centran en la reubicación bajo protección militar y los detalles del colapso financiero.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+     "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
+     "title": "Paraguay’s Pena under military protection in bank collapse chaos"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
+     "title": "Paraguay: President Santiago Pena under house arrest over bank crisis"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "title": "Paraguay's president impeached and under house arrest after bank collapse"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Tesla detendrá la producción del Cybertruck para priorizar los Cybercabs",
+   "resumen": "Elon Musk anunció que Tesla finalizará la producción del Cybertruck para utilizar el espacio de la fábrica en el desarrollo de los taxis autónomos Cybercabs. Según DW y TechCrunch, la decisión ocurre tras ventas poco destacadas y limitaciones regulatorias.",
+   "enfoques": "The Guardian y TechCrunch resaltan el fracaso comercial del vehículo y el cambio hacia la robótica y la inteligencia artificial, mientras que la BBC se centra principalmente en el anuncio de Musk sobre los taxis autónomos.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+     "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI"
+    },
+    {
+     "name": "TechCrunch",
+     "label": "centro-izq",
+     "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+     "title": "Tesla will stop making the Cybertruck in 2027"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf",
+     "title": "Tesla to 'wind down' production of flop Cybertruck"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+     "title": "Elon Musk appears to signal the end of the road for Cybertruck"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Elecciones en Nueva Zelanda muestran empate técnico entre principales partidos",
+   "resumen": "Los primeros resultados de las elecciones en Nueva Zelanda muestran a los partidos Nacional y Laboral empatados con cerca del 30 por ciento de los votos cada uno. Los medios señalan que ningún bloque asegura una mayoría y un partido minoritario definirá el gobierno.",
+   "enfoques": "",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=700&quality=85&auto=format&fit=max&s=3cc57e2df7b15ce3c153f61cbe77d785",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
+     "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results?traffic_source=rss",
+     "title": "Two main parties neck and neck after New Zealand vote, early count"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-half-the-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf",
+     "title": "New Zealand election too close to call with half the votes counted"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Donald Trump nombra a Stephen Miller como jefe de gabinete",
+   "resumen": "El presidente estadounidense Donald Trump designó a Stephen Miller como su nuevo jefe de gabinete en reemplazo de Susie Wiles. Según DW y The Guardian, la decisión generó fuertes críticas de los demócratas debido al historial de Miller en políticas migratorias estrictas.",
+   "enfoques": "The Guardian enfoca la noticia en las duras críticas de los demócratas que lo tachan de xenófobo, mientras que la BBC y DW se limitan a informar el nombramiento y su rol como asesor de inmigración.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
+     "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
+     "title": "Stephen Miller named by Trump as new White House chief of staff"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+     "title": "With Stephen Miller pick, Trump readies for a battle"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Estados Unidos realiza nuevos ataques contra objetivos en Irán",
+   "resumen": "El presidente Donald Trump confirmó que Estados Unidos llevó a cabo nuevos ataques limitados contra un sistema de defensa aérea en la isla de Qeshm, en Irán. El mandatario insistió en que estas acciones no constituyen una guerra.",
+   "enfoques": "",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/25f4aae3e6af6bcaedf563ee3e0b174bd7a2de94/466_0_4645_3718/master/4645.jpg?width=700&quality=85&auto=format&fit=max&s=7751e15098bd7febeab0101fb3ff94c8",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+     "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
+     "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "El papa Leo inicia gira por Sudamérica tras cirugía de pulmón",
+   "resumen": "El papa Leo llegó a Uruguay para dar inicio a una gira de doce días por tres países de Sudamérica. El viaje ocurre tres semanas después de que el pontífice se sometiera a una cirugía por cáncer de pulmón.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/15d3/live/886b05a0-da75-11f1-85ad-fd31eff31154.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf",
+     "title": "Pope Leo arrives in Uruguay at start of South America tour"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+     "title": "Pope in 'pretty good health' as he starts Latin America tour"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Encuentran en Bogotá a profesora desaparecida en Barranquilla",
+   "resumen": "La profesora Arleth Carolina fue encontrada en Bogotá tras más de dos años de reportarse su desaparición en Barranquilla. Las autoridades y medios locales reportaron el reencuentro con su madre, sin precisar detalles sobre su paradero durante este tiempo.",
+   "enfoques": "El Tiempo destaca las primeras imágenes del emotivo reencuentro con la familia, mientras que Semana califica el hecho como milagroso tras el tiempo transcurrido.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/4GCY3HRGJBGILB2TQ27ERGLKGA.jpeg?auth=0935fac4c42d4b37bc5feae6c6917c7913adbe7be0de9c87e8b6413e02363f0b&smart=true&width=1026&height=785",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/barranquilla/revelan-las-primeras-imagenes-de-la-profesora-arleth-carolina-tras-ser-hallada-luego-de-mas-de-dos-anos-desaparecida-asi-fue-el-emotivo-reencuentro-3599207",
+     "title": "Revelan las primeras imágenes de la profesora Arleth Carolina tras ser hallada en Bogotá luego de más de dos años desaparecida: emotivo reencuentro"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/bogota/articulo/luego-de-dos-anos-milagrosamente-aparece-en-bogota-docente-reportada-como-desaparecida-en-barranquilla/202615/",
+     "title": "Luego de dos años, milagrosamente aparece en Bogotá docente reportada como desaparecida en Barranquilla"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Facultad de Cornell aprueba moción de censura contra la directiva",
+   "resumen": "El personal académico de la Universidad de Cornell votó una moción de censura contra la liderazgo institucional. La medida responde a las críticas por la gestión de denuncias de agresiones sexuales en el campus.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4fd6/live/ad29b050-da2d-11f1-ab60-69d917fc430c.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/cornell-faculty-declares-no-confidence-in-university-leadership/a-79882895?maca=en-rss-en-all-1573-rdf",
+     "title": "Cornell faculty declares 'no confidence' in university leadership"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+     "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Activistas protestan e irrumpen en sitio de centros de datos en Ámsterdam",
+   "resumen": "Manifestantes irrumpieron y protestaron en un sitio de construcción de centros de datos de Microsoft en Ámsterdam para exigir una pausa en su desarrollo en Europa. Los grupos denuncian que la expansión de la infraestructura impulsada por la inteligencia artificial amenaza recursos como el agua y la energía.",
+   "enfoques": "DutchNews vincula la acción directamente a activistas pro-palestinos que ocuparon el lugar, mientras que DW enmarca la protesta en una campaña global de activistas climáticos contra los centros de datos.",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-rdf",
+     "title": "Data center protesters break into Microsoft site in Amsterdam"
+    },
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/activists-occupy-site-of-microsoft-data-centre-in-amsterdam/",
+     "title": "Activists occupy site of Microsoft data centre in Amsterdam"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Anuncian licitación millonaria para actualizar el modelo de aseo",
+   "resumen": "La Uaesp anunció el lanzamiento de una licitación valorada entre 12 y 14 billones de pesos para actualizar el modelo de aseo en la ciudad. Según la entidad, el proyecto busca adaptar el servicio a las necesidades actuales.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/inside-lr-con-armando-ojeda-acosta-director-de-la-uaeps-sobre-el-modelo-de-aseo-en-bogota-4518544",
+     "title": "“Lanzaremos licitación de entre $12 y $14 billones para actualizar el modelo de aseo”"
+    }
+   ]
+  }
+ ]
+}
