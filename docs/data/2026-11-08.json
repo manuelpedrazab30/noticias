@@ -1,0 +1,243 @@
+{
+ "day": "2026-11-08",
+ "ai": "Gemini/gemini-3.5-flash",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Un tiroteo en la plaza principal de Cracovia deja varios muertos",
+   "resumen": "Un tiroteo en la plaza principal de Cracovia dejó al menos cinco muertos y más de diez heridos. Posteriormente, las autoridades hallaron tres cuerpos sin vida en la vivienda del sospechoso.",
+   "enfoques": "Mientras The Guardian enfatiza las opiniones ultranacionalistas del atacante y el calificativo de acto de terrorismo dado por el ministro, el Washington Examiner se centra en el número inicial de víctimas reportadas por la policía.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+     "title": "Briton among six dead after gunman opens fire in Kraków market square"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-rdf",
+     "title": "Poland begins two days of mourning over Krakow shooting"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "title": "What we know so far after Krakow gun attack"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4796525/gunman-poland-krakow-mass-shooting/",
+     "title": "Gunman opens fire in Polish city of Krakow, killing 5 people and injuring at least 12"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "El presidente de Israel encarga a Gadi Eisenkot formar gobierno",
+   "resumen": "El presidente israelí Isaac Herzog designó al líder opositor Gadi Eisenkot para intentar formar un nuevo gobierno de coalición. La decisión se produce tras unas elecciones en las que ningún bloque obtuvo la mayoría parlamentaria.",
+   "enfoques": "Al Jazeera enfoca su reporte en comparar el perfil político de Eisenkot con el de Netanyahu, mientras que Washington Examiner y DW destacan las implicaciones parlamentarias y los plazos para la negociación.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss",
+     "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
+     "title": "Israeli president tasks Gadi Eisenkot with forming government"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+     "title": "Israel's president tasks opposition leader Eisenkot with forming government"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4796596/herzog-pick-israel-opposition-leader-coalition-gadi-eisenkot/",
+     "title": "Herzog picks Israeli opposition leader to form coalition government"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Ataque en un cantón militar de Bolívar deja tres soldados muertos",
+   "resumen": "Un ataque contra un cantón militar en Santa Rosa, en el sur de Bolívar, causó la muerte de tres soldados y decenas de heridos. La Silla Vacía señala que la agresión se realizó con drones, mientras la Defensoría exige respuestas gubernamentales.",
+   "enfoques": "Semana califica la acción como un ataque terrorista, mientras que La Silla Vacía precisa el uso de drones y menciona los grupos armados que delinquen en la zona.",
+   "blind": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/KFV36M4QIJD27H3H33RVVARDYQ.jpeg?auth=5ed36f4e0b0cdeb2a7851e405a8b2daa314b69e177a1d97d319334500108923f&smart=true&width=1600&height=902",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "La Silla Vacía",
+     "label": "centro-izq",
+     "link": "https://www.lasillavacia.com/en-vivo/tres-soldados-muertos-y-47-heridos-por-ataque-con-drones-en-bolivar/",
+     "title": "Tres soldados muertos y 47 heridos por ataque con drones en Bolívar"
+    },
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/defensoria-exige-respuesta-urgente-del-gobierno-tras-ataque-en-el-sur-de-bolivar-que-dejo-tres-militares-muertos-y-35-heridos-3599294",
+     "title": "Defensoría exige respuesta urgente del Gobierno tras ataque en el sur de Bolívar que dejó tres militares muertos y 35 heridos"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/cartagena/articulo/al-menos-tres-muertos-y-mas-de-30-heridos-tras-ataque-terrorista-en-canton-militar-en-santa-rosa-sur-de-bolivar/202635/",
+     "title": "Tres muertos y más de 30 heridos tras ataque terrorista en cantón militar en Santa Rosa, sur de Bolívar"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Meloni atribuye a piratas informáticos prorrusos la filtración de datos de Tajani",
+   "resumen": "La primera ministra de Italia, Giorgia Meloni, responsabilizó a piratas informáticos prorrusos por la filtración de datos personales del ministro de Exteriores, Antonio Tajani. El propio Tajani confirmó la publicación en línea de la información extraída.",
+   "enfoques": "El Washington Examiner destaca que el ataque estaría motivado por el apoyo de Italia a Ucrania, mientras que DW enmarca el hecho junto a recientes amenazas de bomba en vuelos europeos.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200?maca=en-rss-en-all-1573-rdf",
+     "title": "Italy's Meloni blames pro-Russian hackers for cyberattack on minister"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+     "title": "Italian foreign minister says hackers leaked his personal data"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4796453/meloni-blame-russia-hacker-leak-italy-foreign-minister/",
+     "title": "Meloni blames pro-Russian hackers for leaking Italian foreign minister’s personal data"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Los hutíes denuncian un ataque aéreo con 33 muertos en Yemen",
+   "resumen": "El grupo rebelde hutí denunció que un ataque aéreo provocó la muerte de al menos 33 personas cerca de Saná. Según la BBC, Arabia Saudita no ha emitido comentarios sobre la acusación.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/yemen-33-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf",
+     "title": "Yemen: 33 killed in strike near Sanaa, Houthis say"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+     "title": "Houthis say at least 33 killed in Saudi air strike"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Las elecciones en Nueva Zelanda concluyen sin un ganador claro",
+   "resumen": "Las elecciones generales en Nueva Zelanda registraron un empate técnico entre los principales partidos con más del 95 % de los votos escrutados. Los resultados oficiales definitivos se conocerán en las próximas semanas tras el recuento de los votos especiales.",
+   "enfoques": "The Guardian enfatiza el periodo de incertidumbre política y la falta de una victoria decisiva del partido gobernante, mientras DW se centra en el estrecho margen de votos entre los partidos.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=8f3b8896357b72317e0f0e7fb8b34aac",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+     "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf",
+     "title": "New Zealand election too close to call with over 95% of votes counted"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Publican el reporte de desempeño fiscal municipal de 2025 en Colombia",
+   "resumen": "El Departamento Nacional de Planeación presentó los resultados del desempeño fiscal de los municipios colombianos correspondientes a 2025. Según Portafolio, a pesar de la mejora del indicador nacional, el 64 % de las entidades territoriales continúa en riesgo o deterioro.",
+   "enfoques": "La República resalta los municipios con mejor desempeño en Antioquia y Cundinamarca, mientras que Portafolio centra su atención en el elevado porcentaje de municipios en riesgo fiscal.",
+   "blind": "derecha",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/11/07/6aef67b76b4b5.r_d.799-742-0.jpeg",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/regiones/desempeno-fiscal-706-municipios-siguen-en-riesgo-o-deterioro-pese-a-la-mejora-del-indicador-nacional-en-505918",
+     "title": "Desempeño fiscal: 706 municipios siguen en riesgo o deterioro pese a la mejora del indicador nacional en 2025"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/girardota-betulia-y-el-retiro-fueron-los-municipios-con-mejor-desempeno-fiscal-durante-2025-4519849",
+     "title": "Girardota, Betulia y El Retiro fueron los municipios con mejor desempeño fiscal durante 2025"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "El papa León XIV inicia su gira por Latinoamérica en Uruguay",
+   "resumen": "El papa León XIV inició su gira por Latinoamérica con una visita a Uruguay, donde celebró una misa multitudinaria. La visita se realiza semanas después de haber sido sometido a una cirugía por cáncer de pulmón.",
+   "enfoques": "DW destaca el objetivo del papa de reavivar el interés católico en Uruguay por ser un país secular, mientras BBC enfatiza su estado de salud tras la operación.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/15d3/live/886b05a0-da75-11f1-85ad-fd31eff31154.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-rdf",
+     "title": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+     "title": "Pope in 'pretty good health' as he starts Latin America tour"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Municipios neerlandeses piden fondos estatales para cubrir gastos en atención juvenil",
+   "resumen": "La Asociación de Municipios Neerlandeses exigió al gobierno central recursos adicionales para afrontar los elevados costos de la atención a la juventud. Según NOS, algunas municipalidades no pueden financiar las soluciones personalizadas necesarias.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://images.cdn.nos.nl/7/H/b/b/Z/j/xx1TBhTKm7DJrJizKQ3iuG7hfqsBLvsfquLtdN1/4x2x3408x1917-1024x576.webp",
+   "image_source": "NOS",
+   "outlets": [
+    {
+     "name": "NOS",
+     "label": "centro-der",
+     "link": "https://nos.nl/l/2638521",
+     "title": "Gemeenten nemen 'pijnlijke maatregelen' om extreme kosten jeugdzorg te betalen"
+    }
+   ]
+  }
+ ]
+}
