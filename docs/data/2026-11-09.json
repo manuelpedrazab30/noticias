@@ -1,0 +1,278 @@
+{
+ "day": "2026-11-09",
+ "ai": "Gemini/gemini-3.5-flash-lite",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Nvidia investiga al director ejecutivo por relación con presunta espía china",
+   "resumen": "El director ejecutivo de Nvidia, Jensen Huang, admitió haber tenido una relación y se disculpó tras las informaciones que lo vinculan con una presunta espía china. La empresa tecnológica anunció que llevará a cabo una investigación independiente sobre el caso.",
+   "enfoques": "Al Jazeera y The Guardian destacan la caída en las acciones de la compañía, mientras que DW y BBC ponen mayor énfasis en las repercusiones globales y las disculpas públicas de Huang.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/83e2/live/f1cb1e30-dc24-11f1-93e1-3b657b665bcf.png",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/2026/nov/09/first-thing-nvidia-stocks-tumble-as-ceo-investigated-over-spy-claims",
+     "title": "Nvidia stocks tumble as CEO investigated over spy claims | First Thing"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
+     "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?"
+    },
+    {
+     "name": "TechCrunch",
+     "label": "centro-izq",
+     "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+     "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338?maca=en-rss-en-all-1573-rdf",
+     "title": "Why Nvidia CEO's affair with alleged Chinese spy matters"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+     "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Muere en el hospital el sospechoso de tiroteo masivo en Cracovia",
+   "resumen": "El presunto autor del tiroteo en Cracovia que dejó seis muertos y varios heridos falleció en el hospital debido a las heridas sufridas. Las autoridades policiales confirmaron el deceso del sospechoso tras el enfrentamiento.",
+   "enfoques": "The Guardian menciona que la investigación por terrorismo continúa y detalla el número de heridos, mientras que los demás medios se centran principalmente en el fallecimiento del atacante.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/707b/live/625f7400-dc3b-11f1-b441-2b33b063138f.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
+     "title": "Kraków shooting suspect who killed six has died, Polish police say"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss",
+     "title": "Poland mass shooting assailant dies in hospital, police say"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf",
+     "title": "Krakow mass shooting suspect has died in hospital, police in Poland say"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+     "title": "Krakow shooting suspect has died in hospital, police say"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Trump admite que su política de deportación fue demasiado dura",
+   "resumen": "El presidente Donald Trump reconoció que su política de deportación pudo haber sido demasiado dura para los votantes. Según los informes, esta declaración se produce tras los resultados electorales y en medio de cambios en su gabinete.",
+   "enfoques": "The Guardian vincula la admisión de Trump con la incorporación de Stephen Miller a su equipo, mientras que DW y Al Jazeera enfocan la declaración como una autocrítica ante la pérdida de apoyo político.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=700&quality=85&auto=format&fit=max&s=8b9b1845576bebc1a772885a1ea1f315",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "title": "Deportation policy ‘might have been too tough’, says Trump, as Miller starts chief-of-staff role – US politics live"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss",
+     "title": "Trump says his immigration policy ‘too tough’ for voters"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-all-1573-rdf",
+     "title": "US President Donald Trump says deportation policy was 'too tough' for voters"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "El Papa critica las medidas de ajuste económico en Argentina",
+   "resumen": "El papa Leo XIV emitió críticas hacia las medidas de austeridad económica implementadas en Argentina. Durante su visita, el pontífice instó a proteger la democracia y aseguró que el crecimiento económico debe beneficiar a los sectores más pobres.",
+   "enfoques": "The Guardian califica el mensaje del pontífice como una crítica severa recibida con aplausos, en contraste con los enfoques más institucionales de BBC y DW.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3d83/live/ef505e30-dbf8-11f1-93e1-3b657b665bcf.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+     "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf",
+     "title": "Pope Leo urges Argentina's Milei to put people before the economy"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+     "title": "Pope delivers veiled rebuke of Milei's austerity measures"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Colisión de trenes en Egipto deja muertos y heridos",
+   "resumen": "Al menos siete personas murieron y más de cien resultaron heridas tras la colisión y descarrilamiento de dos trenes en la provincia de Guiza. Las autoridades desplegaron decenas de ambulancias en el lugar de los hechos.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/egypt-train-crash-leaves-several-dead-over-100-injured/a-79892916?maca=en-rss-en-all-1573-rdf",
+     "title": "Egypt train crash leaves several dead, over 100 injured"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+     "title": "Seven dead and more than 100 injured after trains collide in Egypt"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4796859/cairo-giza-egypt-train-crash-collision/",
+     "title": "Collision between two trains in Egypt kills seven and injures more than 100"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "El Congreso Nacional Africano registra su peor resultado electoral histórico",
+   "resumen": "El partido gobernante de Sudáfrica, el Congreso Nacional Africano, obtuvo los peores resultados electorales de su historia. Dirigentes de la formación calificaron el resultado de catastrófico y señalaron que el veredicto debe ser respetado.",
+   "enfoques": "DW menciona que los votantes atribuyen la derrota a la escasez de agua y electricidad, mientras que BBC resalta las declaraciones oficiales de los líderes del partido.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2630/live/78c708a0-db5c-11f1-adda-c54f54e3ce6a.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf",
+     "title": "South Africa elections: ANC marks its worst-ever performance"
+    },
+    {
+     "name": "TechCrunch",
+     "label": "centro-izq",
+     "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+     "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+     "title": "'Devastating message' as ANC records worst-ever result in South Africa election"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Contraloría ordena revisión prioritaria de contratos de la DNI",
+   "resumen": "La Contraloría ordenó una revisión prioritaria de cinco contratos de la Dirección Nacional de Inteligencia por más de 20.783 millones de pesos. Entre los procesos a verificar se encuentra la adquisición de un helicóptero no tripulado.",
+   "enfoques": "Portafolio detalla específicamente que entre los contratos evaluados también se incluyen sistemas antidrones, un dato omitido por La República.",
+   "blind": "derecha",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/09/19/6aaee9f5704cb.r_d.454-269-0.webp",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/ordenan-revision-prioritaria-de-5-contratos-de-la-direccion-nacional-de-inteligencia-por-mas-de-20-783-millones-505958",
+     "title": "Ordenan revisión prioritaria de 5 contratos de la Dirección Nacional de Inteligencia por más de $20.783 millones"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/contraloria-ordeno-revision-prioritaria-de-contratos-de-la-dni-por-mas-de-20-783-millones-4520417",
+     "title": "Contraloría ordenó revisión prioritaria de contratos de la DNI por más de $20.783 millones"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Expulsan a extranjeros en Barranquilla y Cartagena por alterar el orden público",
+   "resumen": "Migración Colombia informó la expulsión de 33 ciudadanos extranjeros que acumulaban medidas correctivas por alterar el orden público. Las personas fueron ubicadas en las ciudades de Barranquilla y Cartagena y entregadas a Venezuela.",
+   "enfoques": "El Tiempo especifica el número exacto de personas ubicadas en cada ciudad (28 en Barranquilla y cinco en Cartagena), mientras que Semana se limita a anunciar la medida general.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/SPUUGRONSBB2NEPNSZ3G4KX5FY.jpg?auth=741b854af11cf1f90efaccd54c17084ecc3ec334825f97a551130b3fb6ae5f4f&smart=true&width=1280&height=720",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/expulsan-de-colombia-a-33-extranjeros-que-acumulaban-152-medidas-correctivas-en-barranquilla-y-cartagena-por-alterar-el-orden-publico-3599500",
+     "title": "Migración Colombia expulsa a 33 extranjeros que acumulaban 152 medidas correctivas en Barranquilla y Cartagena por alterar el orden público"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/anuncian-la-expulsion-de-33-extranjeros-por-alterar-el-orden-en-barranquilla-y-cartagena/202647/",
+     "title": "Anuncian la expulsión de 33 extranjeros por alterar el orden en Barranquilla y Cartagena"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Gobierno neerlandés planea la construcción de un nuevo pueblo",
+   "resumen": "El gobierno de los Países Bajos avanza con los planes para construir una nueva localidad con 6.000 viviendas. El proyecto está previsto en el punto más bajo del territorio nacional.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/housing-minister-plans-new-village-at-netherlands-lowest-point/",
+     "title": "Housing minister plans new village at Netherlands’ lowest point"
+    }
+   ]
+  },
+  {
+   "topic": "limburg",
+   "title": "Desalojan complejo de apartamentos en Stein por fuga de gas",
+   "resumen": "Un complejo de apartamentos ubicado en la calle Heerstraat Centrum en Stein fue evacuado debido a una fuga de gas. Los servicios de bomberos se desplazaron al lugar con varias unidades para atender la emergencia.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://prod-img.limburger.nl/public/ece-incoming/s906cb-stein2.jpg/alternates/BASE_SIXTEEN_NINE/STEIN2.JPG",
+   "image_source": "De Limburger",
+   "outlets": [
+    {
+     "name": "De Limburger",
+     "label": "~centro",
+     "link": "https://www.limburger.nl/regio/stein/appartementencomplex-in-stein-ontruimd-vanwege-gaslek/164292816.html",
+     "title": "Appartementencomplex in Stein ontruimd vanwege gaslek"
+    }
+   ]
+  }
+ ]
+}
