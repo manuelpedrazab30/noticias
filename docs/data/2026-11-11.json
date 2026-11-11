@@ -1,0 +1,242 @@
+{
+ "day": "2026-11-11",
+ "ai": "Gemini/gemini-3.5-flash-lite",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "La Cámara de Representantes de EE. UU. bloquea la destitución de Pete Hegseth",
+   "resumen": "La Cámara baja bloqueó temporalmente el intento de someter a juicio político al secretario de Defensa, Pete Hegseth. El presidente Donald Trump celebró el resultado, mientras que el futuro del proceso sigue abierto según los reportes.",
+   "enfoques": "The Guardian y Al Jazeera destacaron la ausencia de legisladores demócratas en la votación, mientras que DW y la BBC se centraron en el bloqueo republicano y la postura de Trump.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+     "title": "GOP branded ‘sinking ship’ as Republicans block efforts to impeach Hegseth – US politics live"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
+     "title": "Did Democrats save Pete Hegseth from impeachment?"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf",
+     "title": "US Republicans derail push to impeach Defense Secretary Pete Hegseth"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Ataque con explosivo contra la sede de RCN en Cali",
+   "resumen": "Un artefacto explosivo fue lanzado frente a las instalaciones del medio RCN en Cali, generando daños materiales. Las autoridades policiales iniciaron la búsqueda de los sospechosos vinculados al hecho.",
+   "enfoques": "Semana enfatizó el rechazo institucional y calificó el hecho como un atentado terrorista, mientras que El Tiempo se centró en los detalles operativos de la captura de sospechosos y la acción antiexplosivos.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/D5MJPEAIPNEC5EE2RTAKOA72QY.jpg?auth=7694e501f3ec0de063bed48a0ec28bf7c6c6bbe1b927299c61a23864a94a34ab&smart=true&width=1280&height=720",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/cali/asi-capturaron-a-dos-sospechosos-por-el-atentado-contra-las-instalaciones-de-rcn-en-cali-expertos-antiexplosivos-buscan-mas-artefactos-3600098",
+     "title": "Así capturaron a dos sospechosos por el atentado contra las instalaciones de RCN en Cali: expertos antiexplosivos buscan más artefactos"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/cali/articulo/presidente-de-la-espriella-rechaza-atentado-terrorista-contra-rcn-en-cali-la-prensa-se-respeta/202642/",
+     "title": "Presidente De La Espriella rechaza atentado terrorista contra RCN en Cali: “La prensa se respeta”"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Concluyen negociaciones entre Ucrania y Rusia con acuerdo de intercambio de prisioneros",
+   "resumen": "Las conversaciones en Abu Dabi entre delegaciones de Ucrania y Rusia finalizaron con un acuerdo para un intercambio de prisioneros y el anuncio de futuros encuentros. Paralelamente, diplomáticos europeos buscaron participar en las negociaciones sin éxito inicial.",
+   "enfoques": "El Washington Examiner centró su cobertura en la exclusión de los líderes europeos de las conversaciones, mientras que The Guardian cubrió el acuerdo de prisioneros y las alertas de seguridad en Europa.",
+   "blind": "",
+   "image": "https://i.guim.co.uk/img/media/8ff01a4c4ade5aebad9c7204e9be34ace27263d1/992_0_5274_4219/master/5274.jpg?width=700&quality=85&auto=format&fit=max&s=e34742ceee126b9db01b57926c7583eb",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+     "title": "Ukraine-Russia talks end with deal on prisoner swap, but Moscow remains cool on European involvement – Europe live"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4798498/europeans-sit-hotel-ukraine-russia-talks/",
+     "title": "Europeans told to ‘sit there in the hotel’ during Ukraine-Russia talks in Abu Dhabi"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Thomas Markle regresa a custodia federal tras retirar su dispositivo de monitoreo",
+   "resumen": "Thomas Markle, padre de Meghan Markle, fue ingresado en prisión en EE. UU. tras presuntamente quitarse el brazalete electrónico de vigilancia. El hombre enfrenta cargos relacionados con la posesión de material de abuso sexual infantil.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
+     "title": "Thomas Markle, Meghan’s father, jailed after cutting off ankle monitor, DoJ says"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+     "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Disputa entre el Reino Unido y Argentina por proyecto petrolero en las Malvinas",
+   "resumen": "El Reino Unido y Argentina se enfrentan en una instancia tribunal en torno al proyecto petrolero Sea Lion en las islas Malvinas. El gobierno británico advirtió sobre consecuencias negativas si Argentina frena el desarrollo hidrocarburífero.",
+   "enfoques": "",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=700&quality=85&auto=format&fit=max&s=801d6e7a295bce768e6cf6ef522dec8e",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+     "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss",
+     "title": "What’s the Falklands oil project at the heart of latest UK-Argentina spat?"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Inicia huelga general en España por la crisis de la vivienda",
+   "resumen": "Trabajadores en España iniciaron una huelga general que afecta al transporte público y a diversas industrias. La protesta surge en reclamo de reformas en materia de vivienda ante el aumento de los alquileres previo a las elecciones.",
+   "enfoques": "",
+   "blind": "izquierda",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
+     "title": "Spain’s first general strike in 14 years begins"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf",
+     "title": "Spain: Housing crisis prompts general strike"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "El secretario del Tesoro de EE. UU. se traslada a base militar por amenazas",
+   "resumen": "El secretario del Tesoro estadounidense, Scott Bessent, se mudó a una base militar tras registrarse amenazas a su seguridad. Según los informes, el hecho ocurre en el contexto de las tensiones con Irán.",
+   "enfoques": "",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/36b9da6acba28c654b99b345f25e497170ef452b/117_48_3687_2950/master/3687.jpg?width=700&quality=85&auto=format&fit=max&s=a62fd2d181a7374a7f47330ae9897f0e",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
+     "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
+     "title": "US Treasury chief Bessent moved to military base after ‘Iranian threats’"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Superintendencia de Salud impone medida cautelar a EPS Sanitas",
+   "resumen": "La Supersalud ordenó a la EPS Sanitas implementar soluciones inmediatas debido a demoras y fallas en la entrega de medicamentos. La disposición prioriza la atención a pacientes con condiciones de riesgo vital, gestantes y menores.",
+   "enfoques": "Portafolio enfatizó los requerimientos específicos de documentación y control sobre la EPS, mientras que El Tiempo destacó la priorización en los grupos poblacionales vulnerables.",
+   "blind": "derecha",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/11/6af402f2476a1.png",
+   "image_source": "El Tiempo",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/supersalud-pone-contra-las-cuerdas-a-sanitas-ordena-soluciones-inmediatas-por-fallas-en-la-entrega-de-medicamentos-506111",
+     "title": "Supersalud pone contra las cuerdas a Sanitas: ordena soluciones inmediatas por fallas en la entrega de medicamentos"
+    },
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/supersalud-impuso-medida-cautelar-a-eps-sanitas-por-demoras-entregas-incompletas-de-medicamentos-y-fallas-en-la-atencion-farmaceutica-a-sus-afiliados-3600084",
+     "title": "Supersalud impuso medida cautelar a EPS Sanitas por demoras, entregas incompletas de medicamentos y fallas en la atención farmacéutica a sus afiliados"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "La inflación en EE. UU. sube un 0,4 % en octubre",
+   "resumen": "Los precios en Estados Unidos aumentaron un 0,4 % durante el mes de octubre, impulsados por los costos de vivienda, alimentos y energía. El incremento superó levemente las proyecciones previas del mercado.",
+   "enfoques": "The Guardian vinculó los datos económicos con el contexto político posterior a las pérdidas electorales de los republicanos, aspecto omitido por la BBC.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report",
+     "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+     "title": "US inflation higher than expected in October - here's what is happening with prices"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Tribunales ordenan reevaluar la seguridad en Siria para políticas de asilo",
+   "resumen": "El Consejo de Estado de los Países Bajos determinó que el ministerio de Asil y Migración debe realizar una nueva evaluación sobre la situación de seguridad en Siria. La decisión responde a que la política actual carece de la motivación suficiente.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://images.cdn.nos.nl/4/7/h/F/o/3/d5qgRuM6fVAZiEJ1rvsth2wnrhh2L6eJaXpsH8e/5x204x3872x2178-1024x576.webp",
+   "image_source": "NOS",
+   "outlets": [
+    {
+     "name": "NOS",
+     "label": "centro-der",
+     "link": "https://nos.nl/l/2638978",
+     "title": "Raad van State: minister van Asiel moet veiligheid Syrië opnieuw beoordelen"
+    }
+   ]
+  }
+ ]
+}
