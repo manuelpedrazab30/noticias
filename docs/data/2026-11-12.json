@@ -1,0 +1,290 @@
+{
+ "day": "2026-11-12",
+ "ai": "Gemini/gemini-flash-lite-latest",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Adolescente desaparecido en Australia es hallado con vida tras seis días",
+   "resumen": "Un joven de 17 años que llevaba seis días desaparecido fue encontrado con vida durante una búsqueda aérea en zonas boscosas de Australia. El menor se reunió con su madre tras el operativo de rescate.",
+   "enfoques": "The Guardian y BBC incluyeron las declaraciones humorísticas y emotivas de la madre sobre el incidente, mientras que Al Jazeera y DW se enfocaron en los detalles técnicos de la búsqueda aérea.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5218/live/acdfe640-de84-11f1-93e1-3b657b665bcf.png",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
+     "title": "‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/missing-teenager-found-in-bushland-during-aerial-search-in-australia?traffic_source=rss",
+     "title": "Missing teenager found in bushland during aerial search in Australia"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/australian-teen-found-alive-after-six-days-in-the-bush/a-79926046?maca=en-rss-en-all-1573-rdf",
+     "title": "Australian teen found alive after six days in the bush"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+     "title": "Australian teen missing in bush for six days rescued alive"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Demócrata Scott Colom gana escaño senatorial en Mississippi",
+   "resumen": "El demócrata Scott Colom ganó las elecciones senatoriales en Mississippi tras derrotar a la republicana Cindy Hyde-Smith. Con este resultado, se convierte en el primer senador afroamericano del estado en más de un siglo.",
+   "enfoques": "The Guardian enmarcó la victoria dentro de una ola de triunfos demócratas y BBC resaltó el contexto político de un estado ganado previamente por Trump, mientras que Al Jazeera enfatizó el periodo transcurrido desde el último senador afroamericano.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+     "title": "‘I had the courage to believe in Mississippi’ says Scott Colom after historic Senate win – US politics live"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
+     "title": "Who is Scott Colom, Mississippi’s first Black senator in 150 years?"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf",
+     "title": "Mississippi Senate race: Democrat Scott Colom defeats Republican Cindy Hyde-Smith"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+     "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Enviados de Estados Unidos se reúnen con Putin en Moscú",
+   "resumen": "Enviados especiales estadounidenses llegaron a Rusia para mantener reuniones con el presidente Vladimir Putin tras conversaciones en Abu Dabi. Paralelamente, se reportaron discusiones sobre un intercambio de prisioneros entre Rusia y Ucrania.",
+   "enfoques": "Washington Examiner destacó el acuerdo sobre un intercambio de prisioneros tras las conversaciones, a diferencia de los demás medios que centraron su cobertura en los encuentros diplomáticos con Putin.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+     "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-rdf",
+     "title": "Ukraine peace talks: US envoys arrive in Russia to meet with Putin"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+     "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4799883/russia-ukraine-prisoner-swap-peace-talks/",
+     "title": "Russia and Ukraine settle on large prisoner swap after no major developments from talks"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Contraloría advierte retrasos y falta de personal en el Metro de Bogotá",
+   "resumen": "La Contraloría General alertó sobre un déficit de aproximadamente 1.500 trabajadores en las obras del Metro de Bogotá. El organismo advirtió que persisten retrasos en estaciones, sistemas y espacio público.",
+   "enfoques": "La República detalló el posible impacto financiero con un gasto estimado de US$10 millones debido a la falta de personal.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/MLWR7DEAEJCQ3AF7KOVKGLC5PI.png?auth=84a3484f3fca97fcd9f2512bc145a32ef05ede7669e61dd03344b86c3be230d9&smart=true&width=1280&height=720",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/regiones/contraloria-alerta-retrasos-del-metro-de-bogota-antes-de-pruebas-faltan-1-500-trabajadores-506203",
+     "title": "Contraloría alerta retrasos del Metro de Bogotá antes de pruebas: faltan 1.500 trabajadores"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/falta-de-personal-en-el-metro-de-bogota-podria-generar-un-gasto-de-us-10-millones-4523174",
+     "title": "Falta de personal en el Metro de Bogotá podría generar un gasto de US$10 millones"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/bogota/articulo/metro-de-bogota-contraloria-general-alerta-por-falta-de-1500-trabajadores-y-retrasos-en-estaciones-y-obras-de-espacio-publico/202606/",
+     "title": "Metro de Bogotá: Contraloría General alerta por falta de 1.500 trabajadores y retrasos en estaciones y obras de espacio público"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Ataque aéreo israelí contra hospital en Gaza deja seis muertos",
+   "resumen": "Un ataque aéreo israelí impactó el hospital Nasser en el sur de Gaza, resultando en la muerte de al menos seis personas, incluidos personal médico. Según el ministerio de salud y autoridades del hospital, el ataque dejó múltiples heridos.",
+   "enfoques": "DW destacó la justificación militar israelí sobre el uso del hospital por parte de Hamás, mientras que The Guardian enfatizó las bajas de personal médico y pacientes reportadas por la dirección del centro asistencial.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+     "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-all-1573-rdf",
+     "title": "Israel targets senior Hamas member in Gaza hospital strike"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+     "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "España enfrenta huelga general y protestas por crisis de vivienda",
+   "resumen": "Ciudadanos en España realizaron protestas masivas y una huelga general debido a la crisis de vivienda y el costo de vida. Las movilizaciones incluyeron enfrentamientos con la policía durante las jornadas de protesta.",
+   "enfoques": "DW mencionó que la crisis ha provocado la convocatoria de elecciones anticipadas, mientras que Al Jazeera y BBC se centraron en las movilizaciones y el carácter general de la huelga por el costo de la vivienda.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2b36/live/846543e0-ddee-11f1-93e1-3b657b665bcf.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
+     "title": "Photos: Protesters clash with police after housing cost rallies in Spain"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-all-1573-rdf",
+     "title": "Spain: Housing crisis prompts general strike, mass nighttime protests"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/videos/c920xlpdl28eo?at_medium=RSS&at_campaign=rss",
+     "title": "Workers across Spain stage first general strike in 14 years"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Corte Constitucional avala emergencia económica para atender terremoto",
+   "resumen": "La Corte Constitucional declaró exequible la emergencia económica decretada por el Gobierno con una votación de siete a uno. El alto tribunal estableció que los recursos recaudados deberán destinarse exclusivamente a atender las afectaciones del terremoto.",
+   "enfoques": "La República y Portafolio detallaron el plazo de 20 días otorgado al Ministerio de Hacienda para establecer los recursos necesarios.",
+   "blind": "",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/01/29/697bf7e3356a1.r_d.347-135-0.png",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "La Silla Vacía",
+     "label": "centro-izq",
+     "link": "https://www.lasillavacia.com/en-vivo/con-restricciones-corte-avalo-la-emergencia-economica-de-abelardo/",
+     "title": "Con restricciones, Corte avaló la emergencia económica de Abelardo"
+    },
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/corte-constitucional-declaro-exequible-la-emergencia-economica-estas-son-las-condiciones-que-impuso-al-gobierno-506190",
+     "title": "Corte Constitucional declaró exequible la emergencia económica: estas son las condiciones que impuso al Gobierno"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/corte-constitucional-avalo-el-estado-de-emergencia-economica-decretado-por-el-gobierno-4522789",
+     "title": "Corte Constitucional avaló la Emergencia Económica decretada por el Gobierno"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Secuestran a escolta del alcalde de Caloto en el Cauca",
+   "resumen": "Hombres armados interceptaron la camioneta del alcalde de Caloto en el departamento del Cauca y secuestraron a uno de sus escoltas. Las autoridades informaron posteriormente sobre la liberación del escolta y la huida de un policía.",
+   "enfoques": "",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/RGUJTS26HJEC7ECUWMYA5QC2JA.jpeg?auth=82aac517dc7d9afddff26f1fbf02d1f889d765eade47ead486736e92fe6e25a7&smart=true&width=884&height=1097",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/cali/hombres-armados-interceptaron-la-camioneta-del-alcalde-de-caloto-uno-de-sus-escoltas-fue-secuestrado-3600405",
+     "title": "Hombres armados interceptaron la camioneta del alcalde de Caloto, Cauca, y uno de sus escoltas fue secuestrado: lo que se sabe"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/cali/articulo/secuestran-a-escolta-de-la-unp-en-caloto-cauca-hombres-armados-se-robaron-hasta-el-vehiculo/202602/",
+     "title": "Hombres armados secuestraron a un escolta del alcalde de Caloto, Cauca, y lo liberaron horas después: un policía logró huir"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Ideam pronostica lluvias en varias regiones del país",
+   "resumen": "El Ideam emitió un pronóstico de lluvias de distinta intensidad para varias regiones de Colombia. En contraste, se prevé tiempo seco en la ciudad de Bogotá.",
+   "enfoques": "La República especificó los rangos de temperatura esperados para Bogotá y el número de regiones afectadas.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/XTST33ASCRAQ7D2NQBXU3BK45E.jpg?auth=0214618973f15b2e0537b2adffbbb083a52a94d33b4a441cce51a0607fb797af&smart=true&width=1920&height=1080",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/ideam-advierte-sobre-lluvias-en-varias-zonas-del-pais-para-este-miercoles-11-de-noviembre-4522340",
+     "title": "Ideam advierte sobre lluvias en varias zonas del país para el 11 de noviembre"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/no-guarde-el-paraguas-ideam-revela-donde-se-concentraran-las-lluvias-este-jueves-12-de-noviembre/202645/",
+     "title": "No guarde el paraguas: Ideam revela dónde se concentrarán las lluvias este jueves 12 de noviembre"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Hogares en Países Bajos enfrentan aumento en tasas hipotecarias",
+   "resumen": "Alrededor de un millón de hogares en los Países Bajos pagarán más por sus hipotecas en los próximos dos años debido al vencimiento de sus tasas de interés fijas.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/nearly-1-million-households-face-higher-mortgages-dnb/",
+     "title": "Nearly 1 million households face higher mortgages: DNB"
+    }
+   ]
+  }
+ ]
+}
