@@ -1,0 +1,272 @@
+{
+ "day": "2026-11-13",
+ "ai": null,
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "What we know about the global Microsoft outage",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+     "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
+     "title": "Live: Microsoft struggles to restore services as outage hits global users"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf",
+     "title": "Microsoft rules out 'malicious activity' as cause for global outage"
+    },
+    {
+     "name": "TechCrunch",
+     "label": "centro-izq",
+     "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+     "title": "Microsoft’s Outlook email hit by new outage"
+    },
+    {
+     "name": "NL Times",
+     "label": "centro",
+     "link": "https://nltimes.nl/2026/11/13/dutch-municipalities-courts-universities-hit-global-microsoft-365-outage",
+     "title": "Dutch municipalities, courts and universities hit by global Microsoft 365 outage"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+     "title": "What we know about the global Microsoft outage"
+    },
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/global-microsoft-outage-leaves-dutch-users-without-email/",
+     "title": "Global Microsoft outage leaves Dutch users without email"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
+     "title": "US Senate summons Nvidia’s Huang, Lutnick to testify"
+    },
+    {
+     "name": "TechCrunch",
+     "label": "centro-izq",
+     "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+     "title": "Jensen Huang agrees to testify before Congress"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf",
+     "title": "US Senate asks Huang, Lutnick to testify on Nvidia"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+     "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Fuerte explosión en inmediaciones de la Escuela de Carabineros en Cali: autoridades no descartan un atentado; esto se sabe",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "derecha",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/12/6af683cda29ae.r_d.280-227-0.png",
+   "image_source": "El Tiempo",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/cali/fuerte-explosion-en-inmediaciones-de-la-escuela-de-carabineros-en-cali-autoridades-no-descartan-un-atentado-esto-se-sabe-3600712",
+     "title": "Fuerte explosión en inmediaciones de la Escuela de Carabineros en Cali: autoridades no descartan un atentado; esto se sabe"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/cali/articulo/esto-es-lo-que-se-sabe-de-un-atentado-terrorista-contra-una-patrulla-de-la-policia-en-cali/202654/",
+     "title": "Esto es lo que se sabe de un atentado terrorista contra una patrulla de la Policía en Cali"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://i.guim.co.uk/img/media/dc9a234fef04146303e642fa72a7e4133f5f0332/534_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=6bcb5b3999be0f1c05da2d75a23c4714",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
+     "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/",
+     "title": "SpaceX denies latest Zelensky Starshield claims"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/84f9/live/ddcb76c0-df51-11f1-8364-2717a13d3b08.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
+     "title": "Microsoft outage hits hospitals, GPs, schools and police across UK"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+     "title": "GPs, police and pharmacies among UK services affected by Microsoft outage"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss",
+     "title": "Russia and Ukraine report overnight attacks amid US diplomatic push"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+     "title": "Russian warship hit by Ukrainian drone in Gulf of Finland"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-disrupts-north-korea-s-400-million-crypto-scam-fbi-says/a-79935957?maca=en-rss-en-all-1573-rdf",
+     "title": "US disrupts North Korea's $400 million crypto scam, FBI says"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+     "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-rdf",
+     "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+     "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "UK economy grows at fastest rate for more than two years",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+     "title": "UK economy grows at fastest rate for more than two years"
+    },
+    {
+     "name": "The Telegraph",
+     "label": "centro-der",
+     "link": "https://www.telegraph.co.uk/business/2026/11/12/uk-economy-gdp-burnham-ai-healey-ftse-100-markets/",
+     "title": "AI fuels fastest economic growth in two years"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "AOW-leeftijd blijft in 2032 67 jaar en 3 maanden door stagnerende levensverwachting",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://images.cdn.nos.nl/8/A/6/S/R/i/yKzFG5qLfwBx85vgoAGD9H22ydUnB8nJ1D3xyYp/8x281x3984x2241-1024x576.webp",
+   "image_source": "NOS",
+   "outlets": [
+    {
+     "name": "NOS",
+     "label": "centro-der",
+     "link": "https://nos.nl/l/2639271",
+     "title": "AOW-leeftijd blijft in 2032 67 jaar en 3 maanden door stagnerende levensverwachting"
+    }
+   ]
+  }
+ ]
+}
