@@ -1,0 +1,266 @@
+{
+ "day": "2026-11-14",
+ "ai": "Gemini/gemini-3.5-flash",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Microsoft confirma la restauración de sus servicios tras una falla global",
+   "resumen": "Microsoft informó que ha restablecido completamente sus servicios globales tras una interrupción que afectó herramientas como Outlook y Teams. La falla técnica se prolongó por más de un día e impactó a empresas e instituciones públicas a nivel mundial.",
+   "enfoques": "Ars Technica resalta que expertos consideran el corte potencialmente peor que otros eventos recientes, mientras que The Guardian enfatiza la disculpa de Microsoft y el impacto directo en servicios públicos.",
+   "blind": "",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2191081646-1024x648.jpg",
+   "image_source": "Ars Technica",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+     "title": "Microsoft says services fully restored after global outage"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-rdf",
+     "title": "Microsoft says all services working again"
+    },
+    {
+     "name": "TechCrunch",
+     "label": "centro-izq",
+     "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+     "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+     "title": "Microsoft says services fully restored after day-long global outage"
+    },
+    {
+     "name": "Ars Technica",
+     "label": "centro",
+     "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+     "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Hallan millones de dólares en efectivo durante investigación por corrupción en Hungría",
+   "resumen": "Autoridades anticorrupción en Hungría incautaron millones de dólares en efectivo ocultos en bosques y edificaciones. Los hallazgos se produjeron en el marco de una investigación a un exministro acusado de recibir sobornos.",
+   "enfoques": "Los medios reportan variaciones menores en la cifra incautada, la cual oscila entre 18 y 20 millones de dólares.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
+     "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
+     "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/hungary-millions-in-hidden-cash-found-in-orban-graft-probe/a-79946923?maca=en-rss-en-all-1573-rdf",
+     "title": "Hungary: Millions in hidden cash found in Orban graft probe"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+     "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Estados Unidos levanta la suspensión nacional de vuelos tras varias horas",
+   "resumen": "La autoridad de aviación de Estados Unidos retiró la orden de paralización de salidas que afectó a los aeropuertos del país. Funcionarios gubernamentales atribuyeron la falla al uso de tecnología obsoleta y sobrecargada.",
+   "enfoques": "Ars Technica y The Guardian destacan las declaraciones del secretario de Transporte sobre la tecnología obsoleta, mientras que DW atribuye esa valoración de forma general a la administración.",
+   "blind": "",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
+   "image_source": "Ars Technica",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/live/2026/nov/13/us-flight-outage-live-updates-faa-lifts-nationwide-ground-stop-as-airport-chaos-continues",
+     "title": "Airport chaos continues after US ground stop lifted – as it happened"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-rdf",
+     "title": "US lifts nationwide ground stop for airports hours after halting all departures"
+    },
+    {
+     "name": "Ars Technica",
+     "label": "centro",
+     "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+     "title": "FAA has lifted its third-ever nationwide ground stop"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "La Casa Blanca anuncia reunión entre Trump, Putin y Xi Jinping",
+   "resumen": "La Casa Blanca informó que el presidente Donald Trump se reunirá en China con Xi Jinping y Vladimir Putin la próxima semana. El encuentro trilateral abordará la reducción de arsenales de armas nucleares.",
+   "enfoques": "DW resalta que un funcionario estadounidense anticipa que no se alcanzará un acuerdo en la reunión, aspecto no mencionado por BBC.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-rdf",
+     "title": "Trump to meet Xi, Putin for three-way huddle on nuclear arms talks"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "SpaceX falla en la recuperación del propulsor del cohete Starship",
+   "resumen": "La empresa SpaceX realizó el lanzamiento del cohete Starship pero no logró recuperar su propulsor. Mientras la nave espacial continuó hacia la órbita, el propulsor cayó al agua en lugar de ser capturado.",
+   "enfoques": "DW reporta que el propulsor explotó sobre el Golfo de México, mientras que BBC indica que este descendió en el océano tras abortarse el intento de captura.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf",
+     "title": "SpaceX launches Starship rocket, fails to recover booster"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+     "title": "Setback for SpaceX Starship rocket's double-catch test"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "El Gobierno colombiano cofinanciará estudios para la Línea 4 del Metro",
+   "resumen": "El Gobierno de Colombia aportará el 50 % de los recursos para los estudios y diseños de la Línea 4 del Metro de Bogotá mediante el Fondes. La inversión estimada alcanzará los 34.000 millones de pesos colombianos.",
+   "enfoques": "",
+   "blind": "derecha",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2025/03/10/67cf134fccd7e.jpeg",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/linea-4-del-metro-de-bogota-recibe-millonario-impulso-gobierno-nacional-confirma-cuanto-pondra-para-el-proyecto-506358",
+     "title": "Línea 4 del Metro de Bogotá recibe millonario impulso: Gobierno nacional confirma cuánto pondrá para el proyecto"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/estudios-de-la-linea-4-del-metro-de-bogota-4524952",
+     "title": "Gobierno, con Fondes, cofinanciará 50% de los estudios de la línea 4 del Metro de Bogotá"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Luis Felipe Henao fue nombrado nuevo gerente del Fondo Milagro",
+   "resumen": "El exministro de Vivienda Luis Felipe Henao fue designado como el nuevo gerente del Fondo Milagro. El nombramiento se produce tras la salida de su antecesor en la entidad.",
+   "enfoques": "Portafolio menciona que la salida del anterior gerente se debió a una controversia por salarios altos, dato no incluido por La República.",
+   "blind": "derecha",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2024/09/16/66e8bcfa1fe0f.jpeg",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/luis-felipe-henao-exministro-de-vivienda-y-directivo-de-ecopetrol-llega-a-la-gerencia-del-fondo-milagro-506360",
+     "title": "Luis Felipe Henao, exministro de Vivienda y directivo de Ecopetrol, llega a la gerencia del Fondo Milagro"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/presidente-de-la-espriella-designo-a-luis-felipe-henao-como-gerente-del-fondo-milagro-4524924",
+     "title": "De La Espriella designa a Luis Felipe Henao como el nuevo gerente del Fondo Milagro"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Colisión entre barco de carga y crucero deja heridos en Nueva Orleans",
+   "resumen": "Un barco de carga chocó contra un crucero en el río Misisipi a la altura de Nueva Orleans. Todas las personas a bordo fueron localizadas con vida, aunque más de 30 heridos requirieron atención hospitalaria.",
+   "enfoques": "DW afirma que el crucero volcó tras la colisión, mientras que BBC no incluye dicho detalle en sus reportes.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf",
+     "title": "Tanker collides with cruise ship on Mississippi in New Orleans"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+     "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Revelan detalles de auditoría forense en la petrolera estatal Ecopetrol",
+   "resumen": "La revista Semana dio a conocer información sobre una investigación forense realizada en la empresa Ecopetrol. Según el medio, el informe salpica a Ricardo Roa, Julián Caicedo y a personas cercanas a Verónica Alcocer.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/PUQNRCJOARC2ZNOAK7NJFUR74Y.jpg?auth=0f97455a23271e9b6e05e0b1508126bfa5fbaa75d04f9d44270e9b20fc0c4967&smart=true&width=2000&height=1125",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/exclusivo-los-detalles-de-la-auditoria-forense-de-ecopetrol-que-salpica-a-roa-julian-caicedo-y-al-circulo-de-veronica-alcocer/202656/",
+     "title": "Exclusivo: los detalles de la auditoría forense de Ecopetrol que salpica a Roa, Julián Caicedo y al círculo de Verónica Alcocer"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Líderes de la coalición neerlandesa continúan negociaciones tras reunión de crisis",
+   "resumen": "Los líderes de los partidos de gobierno en Países Bajos realizaron conversaciones de emergencia para intentar superar un desacuerdo político. Tras más de siete horas de diálogo, las negociaciones continúan para evitar la caída del gabinete.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/jetten-cabinet-survives-crisis-talks-but-deadlock-continues/",
+     "title": "Jetten cabinet survives crisis talks for now, deadlock continues"
+    },
+    {
+     "name": "NL Times",
+     "label": "centro",
+     "link": "https://nltimes.nl/2026/11/14/dutch-coalition-leaders-continue-crisis-talks-cabinet-risks-collapse",
+     "title": "Dutch coalition leaders continue crisis talks as Cabinet risks collapse"
+    }
+   ]
+  }
+ ]
+}
