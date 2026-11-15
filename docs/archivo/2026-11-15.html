@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Unbiased — domingo 15 de noviembre de 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,700;1,8..60,400;1,8..60,700&display=swap" rel="stylesheet">
+<style>
+  /* Tema oscuro: "papel" casi negro y cálido, "tinta" color hueso. */
+  :root {
+    color-scheme: dark;
+    --yellow: #ffc500;   /* único color: solo marca los puntos ciegos */
+    --ink: #ece8df;
+    --cream: #121110;
+    --white: #1b1a18;    /* superficie de la barra superior */
+    --panel: #26241f;
+    --rule: #3a3833;
+    --caption: #a8a399;
+    --mute: #77736b;
+    --serif: "Source Serif 4", "Source Serif Pro", Georgia, serif;
+    --sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { background: var(--cream); }
+  body { margin: 0; color: var(--ink); font: 16px/1.38 var(--serif); letter-spacing: .01em; }
+  a { color: inherit; text-decoration: none; }
+  a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .wrap { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+
+  .utility { background: var(--white); border-bottom: 1px solid var(--rule); }
+  .utility .wrap { display: flex; justify-content: space-between; gap: 12px; padding-top: 8px; padding-bottom: 8px;
+                   font: 700 13px/1.25 var(--sans); letter-spacing: .01em; text-transform: uppercase; }
+  .utility nav { display: flex; gap: 16px; }
+
+  .masthead { padding: 22px 0 16px; }
+  .wordmark { margin: 0; font-weight: 700; font-style: italic; font-size: 52px; line-height: 1; letter-spacing: -.02em; text-align: center; }
+  .sections { border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); padding: 8px 0;
+              text-align: center; font-size: 13px; letter-spacing: .075em; text-transform: uppercase; }
+  .sections span { color: var(--mute); padding: 0 10px; }
+
+  .eyebrow { margin: 0 0 6px; font-size: 13px; font-weight: 700; letter-spacing: .075em; text-transform: uppercase; }
+  .eyebrow small { font-weight: 400; color: var(--caption); letter-spacing: .05em; }
+  h2, h3, h4 { margin: 0 0 8px; font-weight: 400; text-wrap: balance; overflow-wrap: break-word; }
+  .h-display { font-size: clamp(40px, 5.4vw, 64px); line-height: 1.02; letter-spacing: -.02em; }
+  .h-lg { font-size: 28px; line-height: 1.2;  letter-spacing: -.02em; }
+  .h-md { font-size: 24px; line-height: 1.2;  letter-spacing: -.02em; }
+  .h-sm { font-size: 20px; line-height: 1.25; letter-spacing: -.02em; }
+  p { margin: 0 0 8px; }
+  .angles { font-style: italic; font-size: 15px; }
+  img { display: block; width: 100%; height: auto; object-fit: cover; background: var(--panel); filter: brightness(.9); }
+  .credit { font-size: 12px; color: var(--mute); margin: 4px 0 10px; }
+
+  .sources { font-size: 13px; line-height: 1.45; color: var(--caption); font-variant: small-caps; letter-spacing: .05em;
+             border-top: 1px solid var(--rule); padding-top: 6px; margin-top: 10px; }
+  /* Medidor de sesgo: barra de 5 tramos, de izquierda a derecha; claros los lados que cubren la historia */
+  .meter { display: flex; align-items: center; margin: 2px 0 6px;
+           font: 700 11px/1 var(--sans); letter-spacing: .06em; text-transform: uppercase; color: var(--caption); }
+  .meter::before { content: "Izq"; margin-right: 6px; }
+  .meter::after { content: "Der"; margin-left: 6px; }
+  .meter i { width: 28px; height: 9px; background: var(--rule); }
+  .meter i + i { box-shadow: inset 2px 0 0 var(--cream); }
+  .meter i.on { background: var(--ink); }
+  .lead .meter i { width: 40px; height: 12px; }
+  /* El único amarillo de la página: lo que de verdad importa para leer con criterio. */
+  .blind { display: inline-block; margin-top: 6px; padding: 1px 6px; background: var(--yellow);
+           font: 700 12px/1.4 var(--sans); letter-spacing: .02em; text-transform: uppercase; color: #000; }
+
+  .grid { display: grid; grid-template-columns: 1.55fr 1fr 300px; padding: 24px 0 8px; }
+  .grid.cols-2 { grid-template-columns: 1.55fr 1fr; }
+  .grid.cols-1 { grid-template-columns: 1fr; }
+  .grid > * { padding: 0 20px; }
+  .grid > *:first-child { padding-left: 0; }
+  .grid > *:last-child { padding-right: 0; }
+  .grid > * + * { border-left: 1px solid var(--rule); }
+  .story { padding-bottom: 16px; margin-bottom: 16px; border-bottom: 1px solid var(--rule); }
+  .story:last-child { border-bottom: 0; margin-bottom: 0; padding-bottom: 0; }
+  .lead img { aspect-ratio: 3 / 2; margin-top: 12px; }
+  .lead .summary { font-size: 18px; line-height: 1.44; }
+  .mid img { aspect-ratio: 16 / 10; margin-bottom: 4px; }
+
+  .card { margin-bottom: 20px; }
+  .card h3 { margin: 0; padding: 8px 12px; font-size: 13px; font-weight: 700; letter-spacing: .075em; text-transform: uppercase; }
+  .card .item { padding: 12px; border-bottom: 1px solid var(--rule); }
+  .card .item:last-of-type { border-bottom: 0; }
+  .card .sources { border-top: 0; padding-top: 0; margin-top: 4px; }
+  /* Colombia: amarillo (mitad), azul y rojo */
+  .card.co { background: #1f1c10; }
+  .card.co h3 { background: #003893; color: #fff; border-top: 10px solid #fcd116; border-bottom: 5px solid #ce1126; }
+  /* Países Bajos: rojo, blanco y azul en franjas iguales */
+  .card.nl { background: #151923; }
+  .card.nl h3 { background: #fff; color: #21468b; border-top: 7px solid #ae1c28; border-bottom: 7px solid #21468b; }
+
+  .row-title { border-top: 1px solid var(--ink); padding-top: 8px; margin-top: 40px; }
+  .features { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; padding: 12px 0 0; }
+  .features img { aspect-ratio: 4 / 3; border-radius: 8px; margin-bottom: 10px; }
+
+  footer { border-top: 1px solid var(--rule); margin-top: 56px; padding: 16px 0 40px;
+           font-size: 13px; color: var(--caption); letter-spacing: .05em; }
+  footer a { text-decoration: underline; text-underline-offset: 2px; }
+
+  /* Celular: una columna, titulares igual de grandes */
+  @media (max-width: 860px) {
+    .wrap { padding: 0 16px; }
+    .masthead { padding: 16px 0 12px; }
+    .wordmark { font-size: 44px; }
+    .sections { overflow-x: auto; white-space: nowrap; text-align: left; }
+    .grid, .grid.cols-2, .features { grid-template-columns: 1fr; }
+    .grid > * { padding: 0; }
+    .grid > * + * { border-left: 0; border-top: 1px solid var(--rule); padding-top: 16px; margin-top: 16px; }
+    .h-display { font-size: 40px; }
+    .utility .wrap { font-size: 12px; }
+    .utility nav { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="utility"><div class="wrap">
+  <span>Edición de la mañana · domingo 15 de noviembre de 2026</span>
+  <nav><a href="#archivo">Ediciones anteriores</a><a href="https://github.com/manuelpedrazab30/noticias#readme">Cómo funciona</a></nav>
+</div></div>
+<div class="wrap">
+  <header>
+    <div class="masthead"><h1 class="wordmark">Unbiased</h1></div>
+    <nav class="sections"><a href="#t-geopolitica">Geopolítica</a><span>|</span><a href="#t-economia">Economía</a><span>|</span><a href="#t-colombia">Colombia</a><span>|</span><a href="#t-paises_bajos">Países Bajos</a></nav>
+  </header>
+  <main>
+    <div class="grid cols-3"><article class="lead" id="t-geopolitica"><p class="eyebrow">Geopolítica <small>· 3 medios</small></p><h2 class="h-display">Zelenski señala propuesta de EE. UU. de ceder Dombás por la OTAN</h2><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg" alt="" referrerpolicy="no-referrer" fetchpriority="high"><p class="credit">Foto: BBC</p><div class="summary"><p>El presidente ucraniano afirmó que Estados Unidos planteó a Kiev ceder la región del Dombás a cambio de ingresar a la OTAN. Un funcionario estadounidense indicó a BBC que se discuten diversas ideas, mientras DW reporta que el acuerdo podría someterse a un referéndum.</p><p class="angles">Al Jazeera enfatiza que el territorio y la OTAN son líneas rojas para ambos países, mientras DW destaca la posibilidad de someter la propuesta a referéndum.</p></div><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i class="on"></i><i class="on"></i><i></i><i></i></span><a href="https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss">Al Jazeera</a>, c.-izq. · <a href="https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf">DW</a>, c.-izq. · <a href="https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article><section class="mid"><article class="story"><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: BBC</p><p class="eyebrow">Geopolítica <small>· 3 medios</small></p><h3 class="h-lg">Un fallo en la actualización de equipos provocó la cancelación de vuelos</h3><p>Autoridades estadounidenses atribuyeron la suspensión de miles de vuelos a tareas de mantenimiento rutinario y actualización de equipos. El gobierno investiga si la falla se debió a incompetencia o problemas técnicos, descartándose causas relacionadas con inteligencia artificial según TechCrunch.</p><p class="angles">The Guardian atribuye el problema al envejecimiento del sistema de control aéreo, mientras que TechCrunch destaca que no existen pruebas de fallos relacionados con inteligencia artificial.</p><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i class="on"></i><i class="on"></i><i class="on"></i><i></i><i></i></span><a href="https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos">The Guardian</a>, izq. · <a href="https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/">TechCrunch</a>, c.-izq. · <a href="https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article><article class="story"><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: BBC</p><p class="eyebrow">Geopolítica <small>· 3 medios</small></p><h3 class="h-md">Filipinas gana la primera edición del concurso Eurovision Asia en Bangkok</h3><p>La representante filipina Carmelle Collado ganó la primera edición del certamen musical Eurovision Asia celebrado en Bangkok con su tema &quot;Sobra-Sobra&quot;. La competencia contó con la participación de once países según reportó DW.</p><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i class="on"></i><i class="on"></i><i class="on"></i><i></i><i></i></span><a href="https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia">The Guardian</a>, izq. · <a href="https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf">DW</a>, c.-izq. · <a href="https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article><article class="story" id="t-colombia"><p class="eyebrow">Colombia <small>· 2 medios</small></p><h3 class="h-sm">Un autobús escolar se precipita a un abismo en Norte de Santander</h3><p>Un autobús que transportaba estudiantes cayó a un abismo en Norte de Santander dejando a más de una decena de menores heridos. Los organismos de socorro acudieron al lugar de la emergencia para atender a las víctimas y coordinar traslados médicos.</p><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i></i><i></i><i class="on"></i><i class="on"></i></span><a href="https://www.eltiempo.com/colombia/otras-ciudades/bus-que-transportaba-a-mas-de-20-estudiantes-cayo-a-un-abismo-en-norte-de-santander-al-menos-16-menores-resultaron-heridos-3601199">El Tiempo</a>, ~c.-der. · <a href="https://www.semana.com/nacion/articulo/bus-de-transporte-publico-cayo-a-un-abismo-en-san-calixto-norte-de-santander-reportan-mas-de-10-menores-heridos/202629/">Semana</a>, ~der.</div><span class="blind">Punto ciego · solo derecha</span></article></section><aside><section class="card co"><h3>Colombia</h3><div class="item"><h4 class="h-sm">Una explosión sacude un peaje en la vía entre Neiva y Bogotá</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i></i><i></i><i class="on"></i><i class="on"></i></span><a href="https://www.eltiempo.com/colombia/otras-ciudades/explosion-en-peaje-de-neiva-investigan-presunto-atentado-con-explosivos-en-la-via-que-comunica-a-la-capital-del-huila-con-bogota-3601221">El Tiempo</a>, ~c.-der. · <a href="https://www.semana.com/nacion/articulo/fuerte-explosion-en-peaje-de-neiva-ubicado-en-la-via-hacia-bogota/202639/">Semana</a>, ~der.</div><span class="blind">Punto ciego · solo derecha</span></div><div class="item" id="t-economia"><p class="eyebrow">Economía <small>· 1 medio</small></p><h4 class="h-sm">El BID aprueba 450 millones de dólares para el sector eléctrico</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i></i><i></i><i class="on"></i><i></i></span><a href="https://www.larepublica.co/economia/bid-aprueba-us-450-millones-para-impulsar-reformas-e-inversiones-en-el-sector-electrico-4525375">La República</a>, ~c.-der.</div></div></section><section class="card nl"><h3>Países Bajos y Maastricht</h3><div class="item" id="t-paises_bajos"><h4 class="h-sm">Partidos de gobierno en Países Bajos sostienen reuniones de crisis</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i></i><i></i><i class="on"></i><i></i></span><a href="https://nos.nl/l/2639533">NOS</a>, c.-der.</div></div></section></aside></div>
+    <p class="eyebrow row-title">También hoy</p><div class="features"><article><img src="https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f0d65607416fe8fe74941d3c4c56dfe" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: The Guardian</p><p class="eyebrow">Geopolítica <small>· 2 medios</small></p><h4 class="h-sm">Irán ataca objetivos militares estadounidenses en Bahréin</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i class="on"></i><i class="on"></i><i></i><i></i><i></i></span><a href="https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis">The Guardian</a>, izq. · <a href="https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss">Al Jazeera</a>, c.-izq.</div><span class="blind">Punto ciego · solo izquierda</span></article><article><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0fb0/live/ed275c50-e0dd-11f1-a701-fddedf244c16.jpg" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: BBC</p><p class="eyebrow">Geopolítica <small>· 2 medios</small></p><h4 class="h-sm">Condenan a muerte a tres hombres por un ataque a una iglesia</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i class="on"></i><i class="on"></i><i></i><i></i></span><a href="https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss">Al Jazeera</a>, c.-izq. · <a href="https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article><article><p class="eyebrow">Geopolítica <small>· 2 medios</small></p><h4 class="h-sm">Decenas de miles de personas protestan por el costo de vida</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i class="on"></i><i></i><i></i><i></i></span><a href="https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss">Al Jazeera</a>, c.-izq. · <a href="https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503?maca=en-rss-en-all-1573-rdf">DW</a>, c.-izq.</div><span class="blind">Punto ciego · solo izquierda</span></article></div>
+  </main>
+  <footer id="archivo">
+    <p>Orientación: AllSides y Media Bias/Fact Check · ~ = estimación propia</p>
+    <p>Ediciones anteriores: <a href="../archivo/2026-11-14.html">2026-11-14</a> · <a href="../archivo/2026-11-13.html">2026-11-13</a> · <a href="../archivo/2026-11-12.html">2026-11-12</a> · <a href="../archivo/2026-11-11.html">2026-11-11</a> · <a href="../archivo/2026-11-10.html">2026-11-10</a> · <a href="../archivo/2026-11-09.html">2026-11-09</a> · <a href="../archivo/2026-11-08.html">2026-11-08</a> · <a href="../archivo/2026-11-07.html">2026-11-07</a> · <a href="../archivo/2026-11-06.html">2026-11-06</a> · <a href="../archivo/2026-11-05.html">2026-11-05</a> · <a href="../archivo/2026-11-04.html">2026-11-04</a> · <a href="../archivo/2026-11-03.html">2026-11-03</a> · <a href="../archivo/2026-11-02.html">2026-11-02</a> · <a href="../archivo/2026-11-01.html">2026-11-01</a></p>
+  </footer>
+</div>
+</body>
+</html>

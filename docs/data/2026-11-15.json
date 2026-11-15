@@ -1,0 +1,242 @@
+{
+ "day": "2026-11-15",
+ "ai": "Gemini/gemini-3.5-flash",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Zelenski señala propuesta de EE. UU. de ceder Dombás por la OTAN",
+   "resumen": "El presidente ucraniano afirmó que Estados Unidos planteó a Kiev ceder la región del Dombás a cambio de ingresar a la OTAN. Un funcionario estadounidense indicó a BBC que se discuten diversas ideas, mientras DW reporta que el acuerdo podría someterse a un referéndum.",
+   "enfoques": "Al Jazeera enfatiza que el territorio y la OTAN son líneas rojas para ambos países, mientras DW destaca la posibilidad de someter la propuesta a referéndum.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
+     "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf",
+     "title": "Ukraine: Zelenskyy says security deal could go to referendum"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Un fallo en la actualización de equipos provocó la cancelación de vuelos",
+   "resumen": "Autoridades estadounidenses atribuyeron la suspensión de miles de vuelos a tareas de mantenimiento rutinario y actualización de equipos. El gobierno investiga si la falla se debió a incompetencia o problemas técnicos, descartándose causas relacionadas con inteligencia artificial según TechCrunch.",
+   "enfoques": "The Guardian atribuye el problema al envejecimiento del sistema de control aéreo, mientras que TechCrunch destaca que no existen pruebas de fallos relacionados con inteligencia artificial.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+     "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues"
+    },
+    {
+     "name": "TechCrunch",
+     "label": "centro-izq",
+     "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+     "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+     "title": "Copper wire upgrade behind US flight suspension, transport secretary says"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Filipinas gana la primera edición del concurso Eurovision Asia en Bangkok",
+   "resumen": "La representante filipina Carmelle Collado ganó la primera edición del certamen musical Eurovision Asia celebrado en Bangkok con su tema \"Sobra-Sobra\". La competencia contó con la participación de once países según reportó DW.",
+   "enfoques": "BBC enfatiza el mensaje de empoderamiento femenino de la canción, mientras DW y The Guardian entregan detalles adicionales sobre la edad de la intérprete y la sede del evento.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+     "title": "Philippines’ Carmelle wins first Eurovision contest in Asia"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf",
+     "title": "Philippines wins first Eurovision Song Contest Asia"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+     "title": "Philippines wins first Eurovision Song Contest Asia"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Irán ataca objetivos militares estadounidenses en Bahréin",
+   "resumen": "Irán ejecutó ataques aéreos dirigidos contra instalaciones y radares de Estados Unidos ubicados en Bahréin. Las fuerzas de defensa de Bahréin afirmaron haber frustrado varias de las incursiones aéreas en su territorio.",
+   "enfoques": "Al Jazeera sostiene que los ataques iraníes se dirigieron a un sistema de radar estadounidense, mientras que The Guardian señala un ataque contra una base aérea y detalla estimaciones del arsenal de misiles de Irán.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=700&quality=85&auto=format&fit=max&s=2f0d65607416fe8fe74941d3c4c56dfe",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+     "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
+     "title": "Iran says it targets US radar in Bahrain. What do we know?"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Un autobús escolar se precipita a un abismo en Norte de Santander",
+   "resumen": "Un autobús que transportaba estudiantes cayó a un abismo en Norte de Santander dejando a más de una decena de menores heridos. Los organismos de socorro acudieron al lugar de la emergencia para atender a las víctimas y coordinar traslados médicos.",
+   "enfoques": "El Tiempo reporta que el autobús trasladaba más de 20 estudiantes dejando al menos 16 heridos, mientras que Semana ubica el suceso en San Calixto y señala más de 10 lesionados.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/R42SFW4K6BGQTC75Q35IELWFH4.jpg?auth=eac32b60cf94677f937dcb722daea0b312d79b21bc4fcf166e75adb520c0d765&smart=true&width=1640&height=924",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/bus-que-transportaba-a-mas-de-20-estudiantes-cayo-a-un-abismo-en-norte-de-santander-al-menos-16-menores-resultaron-heridos-3601199",
+     "title": "Bus que transportaba a más de 20 estudiantes cayó a un abismo en Norte de Santander: al menos 16 menores resultaron heridos"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/bus-de-transporte-publico-cayo-a-un-abismo-en-san-calixto-norte-de-santander-reportan-mas-de-10-menores-heridos/202629/",
+     "title": "Bus de transporte público cayó a un abismo en San Calixto, Norte de Santander: reportan más de 10 menores heridos"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Una explosión sacude un peaje en la vía entre Neiva y Bogotá",
+   "resumen": "Las autoridades investigan una fuerte detonación ocurrida en una estación de peaje localizada en la carretera que conecta a Neiva con Bogotá. El Tiempo reportó que el hecho se registró durante la madrugada del domingo 15 de noviembre.",
+   "enfoques": "El Tiempo resalta la hora del suceso e indica que se investiga un presunto atentado con explosivos, mientras Semana únicamente reporta la ocurrencia de la explosión.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/BTALQDG3ERHXJPVIUMCNNZ4G4E.png?auth=8bccaff8703d5a5a3a44a4550c142393066181dd903059827c8401e9557d5f83&smart=true&width=843&height=603",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-en-peaje-de-neiva-investigan-presunto-atentado-con-explosivos-en-la-via-que-comunica-a-la-capital-del-huila-con-bogota-3601221",
+     "title": "Explosión en peaje de Neiva: investigan presunto atentado con explosivos en la vía que comunica a la capital del Huila con Bogotá"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/fuerte-explosion-en-peaje-de-neiva-ubicado-en-la-via-hacia-bogota/202639/",
+     "title": "Fuerte explosión en peaje de Neiva, ubicado en la vía hacia Bogotá"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Condenan a muerte a tres hombres por un ataque a una iglesia",
+   "resumen": "Tres hombres fueron condenados a la pena capital en Jordania por su responsabilidad en un tiroteo perpetrado en una iglesia. La agresión dejó un saldo de nueve personas muertas y decenas de heridos durante la realización de un funeral.",
+   "enfoques": "Al Jazeera precisa que la condena fue a la horca en la gobernación de Karak, mientras que BBC enfatiza que el ataque ocurrió en un templo ortodoxo griego dejando 34 heridos.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0fb0/live/ed275c50-e0dd-11f1-a701-fddedf244c16.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
+     "title": "Jordan sentences three men to death by hanging after deadly church attack"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+     "title": "Three men sentenced to death in Jordan over fatal church mass shooting"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Decenas de miles de personas protestan por el costo de vida",
+   "resumen": "Miles de personas se movilizaron en ciudades europeas para manifestarse contra el incremento del costo de la vida. DW reporta que unas 106.000 personas marcharon en Francia durante su quinto fin de semana consecutivo de movilizaciones.",
+   "enfoques": "Al Jazeera resalta enfrentamientos de los manifestantes con la policía en Francia y Alemania, mientras DW centra su reporte en la menor participación registrada en territorio francés.",
+   "blind": "izquierda",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
+     "title": "Police confront protesters in clashes across France and Germany"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503?maca=en-rss-en-all-1573-rdf",
+     "title": "Tens of thousands continue to protest across France"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "El BID aprueba 450 millones de dólares para el sector eléctrico",
+   "resumen": "El Banco Interamericano de Desarrollo autorizó una financiación de 450 millones de dólares destinada a impulsar inversiones en el sector eléctrico. Los recursos permitirán ampliar la oferta de energía, fortalecer la cobertura rural y facilitar nuevas conexiones.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/bid-aprueba-us-450-millones-para-impulsar-reformas-e-inversiones-en-el-sector-electrico-4525375",
+     "title": "BID aprueba US$450 millones para impulsar inversiones dentro del sector eléctrico"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Partidos de gobierno en Países Bajos sostienen reuniones de crisis",
+   "resumen": "Los partidos D66, VVD y CDA iniciaron conversaciones de emergencia para definir el futuro del gabinete tras el deterioro del confianza mutua. Paralelamente, en Pekín comenzó la primera prueba de la temporada de la Copa del Mundo de patinaje de velocidad.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://images.cdn.nos.nl/8/D/L/M/i/3/Fb5fUDsWNTMsDFfSXLteB5QHbBVADyw2VnDZ7SB/0x0x1920x1080-1024x576.webp",
+   "image_source": "NOS",
+   "outlets": [
+    {
+     "name": "NOS",
+     "label": "centro-der",
+     "link": "https://nos.nl/l/2639533",
+     "title": "Wekdienst 15/11: Crisisgesprekken kabinet gaan verder • Wereldbeker schaatsen Peking"
+    }
+   ]
+  }
+ ]
+}
