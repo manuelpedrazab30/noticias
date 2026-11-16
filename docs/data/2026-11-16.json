@@ -1,0 +1,230 @@
+{
+ "day": "2026-11-16",
+ "ai": "Gemini/gemini-3.5-flash",
+ "stories": [
+  {
+   "topic": "economia",
+   "title": "El presidente Abelardo De La Espriella cumple 100 días de Gobierno",
+   "resumen": "El presidente Abelardo De La Espriella presentó los avances de sus primeros 100 días de gestión a través de una alocución oficial. Diversos sectores y mandatarios regionales evaluaron los logros alcanzados y los compromisos pendientes en el Plan de Desarrollo.",
+   "enfoques": "Mientras La República enfatiza los logros reportados por la Presidencia, El Tiempo destaca la perspectiva de los mandatarios regionales sobre los desafíos pendientes.",
+   "blind": "derecha",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/17/6ad3c6c04efbd.r_d.340-172-0.jpeg",
+   "image_source": "El Tiempo",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/alocucion-de-presidente-abelardo-de-la-espriella-en-sus-100-dias-de-gobierno-506431",
+     "title": "Alocución de presidente Abelardo De La Espriella, en sus 100 días de Gobierno"
+    },
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/el-presidente-abelardo-de-la-espriella-y-las-regiones-en-100-dias-del-gobierno-estos-son-los-resultados-y-los-desafios-3601333",
+     "title": "El presidente Abelardo De La Espriella y las regiones en 100 días del Gobierno: estos son los resultados y los desafíos"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/estos-son-los-resultados-que-ha-dejado-el-gobierno-de-abelardo-de-la-espriella-en-100-dias-4525649",
+     "title": "Estos son los resultados que ha dejado el Gobierno de Abelardo de la Espriella en 100 días"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Cinco países de la Unión Europea planean centro de deportación en Ruanda",
+   "resumen": "Alemania, Dinamarca, Austria, Grecia y los Países Bajos prevén anunciar la creación de un centro de deportación en Ruanda para solicitantes de asilo rechazados. La decisión sigue a la aprobación de regulaciones europeas que facilitan los traslados fuera del bloque comunitario.",
+   "enfoques": "DW destaca el marco regulatorio europeo y el antecedente del Reino Unido, mientras que BBC se enfoca principalmente en la lista de países participantes.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/germany-to-join-other-eu-states-in-announcing-rwanda-deportation-hub/a-79959158?maca=en-rss-en-all-1573-rdf",
+     "title": "Germany to join other EU states in announcing Rwanda deportation hub"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+     "title": "Five EU countries expected to announce migrant deportation centre in Rwanda"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "De La Espriella anuncia que no gravará con IVA la canasta familiar",
+   "resumen": "El presidente De La Espriella anunció que mantendrá la canasta familiar exenta de IVA en las reformas fiscales. Sin embargo, el proyecto de Ley de Rescate mantendrá otras modificaciones sobre este impuesto para las que se buscarán consensos en el Congreso.",
+   "enfoques": "Portafolio resalta los cambios fiscales previstos en la Ley de Rescate, mientras que Semana centra su cobertura en las reacciones políticas de estrategas y analistas.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/VG3KXZ2KZJGJTFENPMEOLIJV4Y.jpg?auth=f2648f056e8c769884d655f61196a34b1c44d5caabaaded491b5e093d438cd24&smart=true&width=1280&height=720",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/de-la-espriella-promete-no-gravar-la-canasta-familiar-pero-la-ley-de-rescate-plantea-cambios-en-el-iva-506433",
+     "title": "De La Espriella promete no gravar la canasta familiar, pero la Ley de Rescate plantea cambios en el IVA"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/el-mensaje-de-carlos-suarez-estratega-del-presidente-luego-que-de-la-espriella-descartara-gravar-con-iva-la-canasta-familiar/202612/",
+     "title": "El mensaje de Carlos Suárez, estratega del presidente, luego que De La Espriella descartara gravar con IVA la canasta familiar"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Elon Musk pide la restitución de Jensen Huang en Nvidia",
+   "resumen": "Elon Musk y otras figuras de la industria tecnológica firmaron una carta pública para pedir la restitución de Jensen Huang en la junta de Nvidia. El exejecutivo fue apartado de su cargo tras un vínculo personal con una presunta espía china.",
+   "enfoques": "The Guardian detalla los motivos del despido y la postura del Departamento del Tesoro de EE. UU., mientras que BBC aborda el hecho centrándose en la campaña de apoyo.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/36dc/live/86b75570-e1b8-11f1-9a3f-99aca912798e.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+     "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+     "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Jürgen Klopp critica a Gianni Infantino y pide su reemplazo en FIFA",
+   "resumen": "El entrenador alemán Jürgen Klopp solicitó la salida del presidente de la FIFA, Gianni Infantino, criticando la conducción del organismo. La declaración se produce en el marco del vencimiento del plazo para presentar candidaturas a la presidencia de la entidad.",
+   "enfoques": "BBC resalta las comparaciones realizadas por Klopp con Sepp Blatter, mientras que DW enfatiza la falta de candidatos opuestos para competir en el proceso electoral.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/klopp-wants-infantino-out-as-fifa-candidate-deadline-looms/a-79958229?maca=en-rss-en-all-1573-rdf",
+     "title": "Klopp wants Infantino out as FIFA candidate deadline looms"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
+     "title": "Klopp says Infantino worse than Blatter"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Fuerzas aliadas en Yemen se repliegan para proteger la ciudad de Adén",
+   "resumen": "Fuerzas respaldadas por Arabia Saudita y el gobierno yemení iniciaron el traslado de tropas desde el estrecho de Bab al-Mandeb. La maniobra militar busca reforzar la defensa de la capital provisional de Adén ante el avance de las milicias hutíes.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf",
+     "title": "Yemen: Anti-Houthi forces pull back as rebels advance"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+     "title": "Yemeni forces retreat to defend port city from Houthis"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Dos tiroteos masivos dejan 17 muertos en Sudáfrica",
+   "resumen": "Un total de 17 personas murieron a causa de dos tiroteos registrados en las provincias sudafricanas de Gauteng y KwaZulu-Natal. Las autoridades policiales han abierto investigaciones para determinar los responsables de ambos hechos.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/south-africa-17-killed-in-separate-mass-shooting-incidents/a-79956966?maca=en-rss-en-all-1573-rdf",
+     "title": "South Africa: 17 killed in separate mass shooting incidents"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+     "title": "Two mass shootings in South Africa leave 17 dead"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Jordania bloquea la aplicación Telegram por razones de seguridad nacional",
+   "resumen": "El gobierno de Jordania prohibió el acceso a la plataforma Telegram al considerar que sus contenidos amenazan la seguridad del país. La medida se implementó tras un ataque contra una iglesia ortodoxa griega que causó siete muertos.",
+   "enfoques": "DW subraya las acusaciones de radicalización y la cifra de víctimas, mientras que Al Jazeera enmarca la prohibición en una operación de seguridad más amplia.",
+   "blind": "izquierda",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
+     "title": "Jordan bans Telegram over national security concerns"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/jordan-bans-telegram-app-over-radicalisation-claims/a-79956706?maca=en-rss-en-all-1573-rdf",
+     "title": "Jordan bans Telegram app over 'radicalisation' claims"
+    }
+   ]
+  },
+  {
+   "topic": "limburg",
+   "title": "El mercado de alquiler en Países Bajos registra escasez y alza de precios",
+   "resumen": "Según De Limburger, el mercado inmobiliario de alquiler en los Países Bajos afronta una caída en la oferta disponible de viviendas y un aumento en las tarifas. El informe señala que las personas que buscan inmuebles en el segmento medio enfrentan las mayores dificultades.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://prod-img.limburger.nl/public/ece-incoming/k6dh2d-woningmarkt/alternates/BASE_SIXTEEN_NINE/Woningmarkt",
+   "image_source": "De Limburger",
+   "outlets": [
+    {
+     "name": "De Limburger",
+     "label": "~centro",
+     "link": "https://www.limburger.nl/economie/huurmarkt-loopt-vast-persoonlijke-gevolgen-vaak-ingrijpend/164609883.html",
+     "title": "Huurmarkt loopt vast: persoonlijke gevolgen vaak ingrijpend"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Países Bajos planea casco obligatorio para menores en bicicletas eléctricas",
+   "resumen": "Según DutchNews, el gobierno de los Países Bajos proyecta obligar a los menores de 18 años a usar casco cuando circulen en bicicletas eléctricas o \"fatbikes\". La normativa entraría en vigor a partir de septiembre de 2027.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/helmets-to-be-compulsory-for-under-18s-on-fatbikes/",
+     "title": "Helmets to be compulsory for under-18s on fatbikes"
+    }
+   ]
+  }
+ ]
+}
