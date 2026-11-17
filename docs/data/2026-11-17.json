@@ -1,0 +1,248 @@
+{
+ "day": "2026-11-17",
+ "ai": "Gemini/gemini-3.5-flash-lite",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Ataque ucraniano daña parcialmente el puente de Crimea",
+   "resumen": "Ucrania atacó el puente de Crimea, causando daños significativos en la infraestructura que conecta con Rusia. Zelenski calificó la acción como un ataque sin precedentes, mientras que el Kremlin afirmó que la estructura será restaurada.",
+   "enfoques": "Washington Examiner resalta la escala histórica de los ataques nocturnos de Ucrania, mientras que medios como DW y The Guardian enfatizan las declaraciones de Zelenski y las respuestas oficiales de Moscú.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+     "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/ukraine-updates-russia-crimea-bridge-appears-destroyed-after-strike/live-79964446?maca=en-rss-en-all-1573-rdf",
+     "title": "Ukraine updates: Russia-Crimea bridge appears destroyed after strike"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+     "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4804403/ukraine-strikes-crimeas-kerch-bridge-historic-attacks/",
+     "title": "Ukraine strikes Crimea’s Kerch Bridge in historic attacks"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Líderes mundiales participan en la cumbre de la ASEAN en Manila",
+   "resumen": "El presidente de Estados Unidos, Donald Trump, y otros líderes internacionales arribaron a Manila para participar en la cumbre de la ASEAN. Durante el encuentro, se discutieron temas de cooperación regional y económica.",
+   "enfoques": "The Guardian centra su cobertura en las protestas y arrestos contra la llegada de Donald Trump, en contraste con Al Jazeera y DW que reportan la agenda oficial de la cumbre.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e32efe5a80b135911f142603ea6a3562",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+     "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
+     "title": "US President Trump arrives in Manila ahead of ASEAN summit"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/india-news-modi-proposes-e-visas-for-asean-tourists/live-79964913?maca=en-rss-en-all-1573-rdf",
+     "title": "India news: Modi proposes e-visas for ASEAN tourists"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Debate sobre la Ley de Rescate Económico y el IVA en Colombia",
+   "resumen": "El gobierno de Colombia analiza modificaciones a la tarifa general del IVA dentro de la Ley de Rescate Económico. Sectores políticos y gremiales han solicitado frenar nuevos impuestos a la salud y a la canasta familiar.",
+   "enfoques": "",
+   "blind": "derecha",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2025/02/24/67bc898a8d15a.jpeg",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/tras-descartar-iva-a-canasta-familiar-piden-mas-cambios-a-ley-de-rescate-no-cuenten-conmigo-para-mas-impuestos-506488",
+     "title": "Tras descartar IVA a canasta familiar, piden más cambios a ley de rescate: 'No cuenten conmigo para más impuestos'"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/como-cambia-la-ley-de-rescate-economico-sin-la-propuesta-de-iva-a-los-alimentos-4525730",
+     "title": "¿Cómo cambia la Ley de Rescate Económico sin las propuestas de IVA a la canasta familiar?"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Philippe Diallo desafía a Gianni Infantino por la presidencia de la FIFA",
+   "resumen": "El dirigente del fútbol francés Philippe Diallo anunció su candidatura para competir por la presidencia de la FIFA contra Gianni Infantino. Diallo cuenta con el respaldo de la UEFA y otros sectores del fútbol europeo.",
+   "enfoques": "",
+   "blind": "izquierda",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss",
+     "title": "Infantino’s FIFA challenger Diallo claims to have support beyond Europe"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/france-s-philippe-diallo-to-challenge-infantino-for-fifa-presidency/a-79962843?maca=en-rss-en-all-1573-rdf",
+     "title": "France's Philippe Diallo to challenge Infantino for FIFA presidency"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Tensiones en Cisjordania por incidentes violentos y nuevas sanciones",
+   "resumen": "Una mujer palestina de 72 años murió en Cisjordania, registrándose versiones encontradas entre palestinos e israelíes sobre un ataque de colonos y disparos del ejército. Por su parte, el gobierno británico anunció sanciones contra empresas israelíes por la construcción de asentamientos.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+     "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+     "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Líder opositor de Mozambique enfrenta juicio por protestas postelectorales",
+   "resumen": "El líder opositor mozambiqueño Venâncio Mondlane se enfrenta a un juicio formal con múltiples cargos, incluido el de instigación al terrorismo. Los cargos derivan de las protestas desarrolladas tras las elecciones de 2024.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests?traffic_source=rss",
+     "title": "Mozambique’s opposition leader stands trial over deadly 2024 protests"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+     "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Candidatos de la Lista de Estudiantes asumen sus bancas en el parlamento serbio",
+   "resumen": "Los candidatos del movimiento Lista de Estudiantes prestaron juramento como miembros del parlamento de Serbia tras las recientes elecciones. El nuevo bloque opositor dispone de un plazo de 90 días para formar gobierno.",
+   "enfoques": "The Guardian menciona las amenazas de protestas masivas por parte del líder populista Aleksandar Vučić, un detalle omitido por DW.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/3fd406c80b12642e836ed680f572f9f3958bdec9/516_0_6882_5504/master/6882.jpg?width=700&quality=85&auto=format&fit=max&s=8b6370f6b0c1e44de7c05f6588b157aa",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
+     "title": "Serbia’s Student List candidates sworn in as MPs after election triumph"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/students-list-candidates-take-seats-as-serbian-parliament-opens/a-79969166?maca=en-rss-en-all-1573-rdf",
+     "title": "Students' List candidates take seats as Serbian parliament opens"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Fedegán solicita auditoría a contrato del Ministerio de Agricultura",
+   "resumen": "El presidente de Fedegán solicitó a la Procuraduría y a la Contraloría revisar un proceso de contratación del Ministerio de Agricultura. Se advirtieron posibles riesgos en la planeación y en los plazos establecidos para evaluar la administración parafiscal.",
+   "enfoques": "",
+   "blind": "derecha",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/09/27/6ab927ae0ee3d.r_d.726-341-0.jpeg",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/agro/piden-intervencion-fiscal-en-auditoria-de-658-millones-contratada-por-ministerio-de-agricultura-506485",
+     "title": "Piden intervención fiscal en auditoría de $658 millones contratada por Ministerio de Agricultura"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/lafaurie-cuestiona-auditoria-de-658-865-millones-al-fng-y-pide-vigilancia-a-la-procuraduria-4526110",
+     "title": "Lafaurie cuestiona auditoría de $658.865 millones al FNG y pide vigilancia a la Procuraduría"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Fiscalía de Colombia extingue dominio a bienes del grupo armado 'Los Pelusos'",
+   "resumen": "La Fiscalía ejecutó la extinción de dominio de 17 bienes pertenecientes al grupo armado ilegal 'Los Pelusos'. Los activos incautados, valorados en 10.100 millones de pesos, pasaron a la administración del Estado.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/17/6afc50d9b7ed7.jpeg",
+   "image_source": "El Tiempo",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/fiscalia-golpea-las-finanzas-del-grupo-armado-ilegal-los-pelusos-con-la-extincion-de-dominio-de-17-bienes-por-10-100-millones-3601578",
+     "title": "Fiscalía golpea las finanzas del grupo armado ilegal ‘Los Pelusos’ con la extinción de dominio de 17 bienes por $10.100 millones"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "El gabinete de Rob Jetten supera crisis y continúa en el gobierno",
+   "resumen": "El gabinete minoritario liderado por Rob Jetten se mantendrá en funciones tras superar cuatro días de conversaciones de crisis. Los partidos de la coalición acordaron nuevas reglas internas para garantizar la estabilidad política.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/jetten-cabinet-survives-crisis-as-coalition-agrees-to-carry-on/",
+     "title": "Jetten cabinet survives crisis as coalition agrees to carry on"
+    },
+    {
+     "name": "NL Times",
+     "label": "centro",
+     "link": "https://nltimes.nl/2026/11/17/jetten-cabinet-continue-less-bickering-new-ground-rules-support",
+     "title": "Jetten I Cabinet to continue with \"less bickering,\" new ground rules for support"
+    }
+   ]
+  }
+ ]
+}
