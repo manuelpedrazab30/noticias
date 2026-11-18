@@ -1,0 +1,290 @@
+{
+ "day": "2026-11-18",
+ "ai": "Gemini/gemini-3.5-flash-lite",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Demócratas ganan elección senatorial en Alaska",
+   "resumen": "La demócrata Mary Peltola ganó la última elección senatorial pendiente en Alaska frente al republicano Dan Sullivan. Este resultado otorga a los demócratas una mayoría de 56 escaños en el Senado.",
+   "enfoques": "The Guardian y Al Jazeera destacan la importancia estratégica de este escaño para las futuras elecciones y la mayoría demócrata, mientras que DW y BBC se centran en los detalles de la votación y el fin del conteo.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+     "title": "Peltola’s Alaska win ‘a gift for all America,’ says Schumer – US politics live"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss",
+     "title": "Why Democrat Mary Peltola’s US Senate win in Alaska matters"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf",
+     "title": "US Democrats flip Alaska Senate seat as Mary Peltola wins race"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+     "title": "Democrats win Alaska Senate race two weeks after midterms counting began"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Líderes de EE. UU., China y Rusia se reúnen en la cumbre APEC",
+   "resumen": "Donald Trump, Xi Jinping y Vladimir Putin se saludaron en Shenzhen, China, antes de su esperada cumbre trilateral. Los mandatarios abordarán temas de comercio, Ucrania, Irán y control de armas.",
+   "enfoques": "The Guardian enfatiza las declaraciones de Putin sobre Europa y las tensiones geopolíticas, en contraste con los reportes más neutrales de BBC, Al Jazeera y DW.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+     "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss",
+     "title": "Trump arrives in China ahead of trilateral summit with Xi, Putin"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/apec-summit-xi-trump-and-putin-gather-in-shenzhen-china/live-79964719?maca=en-rss-en-all-1573-rdf",
+     "title": "APEC summit: Xi, Trump and Putin gather in Shenzhen, China"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+     "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Filtración de documentos expone los negocios de Deutsche Bank",
+   "resumen": "Una investigación internacional basada en filtraciones internas reveló que Deutsche Bank ignoró advertencias sobre clientes de alto riesgo, incluidos Jeffrey Epstein, Donald Trump y oligarcas rusos. El banco alemán ha defendido su gestión pasada, mientras que Alemania exige transparencia total según el Washington Examiner.",
+   "enfoques": "El Washington Examiner resalta la presión política de Alemania y la caída de las acciones, mientras que The Guardian y DW se enfocan en la responsabilidad interna del banco por priorizar ganancias.",
+   "blind": "",
+   "image": "https://i.guim.co.uk/img/media/21474d52763b44585b74c4c50325ba4c99235bdd/247_0_2961_2369/master/2961.jpg?width=700&quality=85&auto=format&fit=max&s=6aac815ea41dc0dc88afa6d9a887ee1a",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
+     "title": "Deutsche Bank dismissed warnings about dealings with risky clients, reports claim"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/18/what-do-deutsche-bank-leaks-reveal-about-trump-epstein-and-russia?traffic_source=rss",
+     "title": "What do Deutsche Bank leaks reveal about Trump, Epstein and Russia?"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/deutsche-bank-under-fire-after-internal-documents-made-public/a-79974543?maca=en-rss-en-all-1573-rdf",
+     "title": "Deutsche Bank under fire after internal documents made public"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4806152/germany-demands-full-transparency-deutsche-bank-leak-epstein-russia-trump/",
+     "title": "Germany demands ‘full transparency’ from Deutsche Bank after leak reveals dealings with Epstein and Russia"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Nvidia reporta altas ventas y confirma salida de su director",
+   "resumen": "Nvidia duplicó sus ingresos trimestrales en su primer informe tras la salida de Jensen Huang, quien no será reinstalado como director ejecutivo. Según TechCrunch, la compañía enfrenta además una investigación de la SEC y planea abandonar el mercado en China.",
+   "enfoques": "TechCrunch profundiza en la investigación de la SEC y la salida del mercado chino, mientras que DW, BBC y The Guardian priorizan los resultados financieros positivos y la ratificación sobre el liderazgo de la empresa.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+     "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang"
+    },
+    {
+     "name": "TechCrunch",
+     "label": "centro-izq",
+     "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+     "title": "Nvidia is abandoning China after Jensen Huang’s ouster"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-rdf",
+     "title": "Nvidia beats Q3 expectations in first report post-Jensen Huang"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+     "title": "Nvidia says it won't reinstate Huang as it reports soaring sales"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Estados Unidos pierde su estatus de eliminación del sarampión",
+   "resumen": "Estados Unidos perdió su estatus oficial de eliminación del sarampión tras 26 años, registrando más de 5,400 casos y 10 muertes. La Organización Panamericana de la Salud confirmó la pérdida de esta condición también en México y Bolivia.",
+   "enfoques": "The Guardian destaca las críticas de expertos hacia la administración de Trump y los pedidos de dimisión de RFK Jr., aspecto ausente en la cobertura de BBC y DW.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/2026/nov/18/us-measles-elimination-status-experts",
+     "title": "‘I’m heartbroken’: experts dismayed as US loses long-held measles elimination status"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-and-mexico-lose-measles-free-status/a-79973966?maca=en-rss-en-all-1573-rdf",
+     "title": "US and Mexico lose measles-free status"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+     "title": "US loses measles elimination status after 26 years amid record case numbers"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "La Corte Internacional de Justicia emite fallo sobre genocidio en Myanmar",
+   "resumen": "La Corte Internacional de Justicia se prepara para dictaminar sobre el caso de genocidio presentado por Gambia contra Myanmar. The Guardian señala que crecen los temores sobre posibles sanciones de Estados Unidos a los jueces si hay un fallo adverso.",
+   "enfoques": "",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=700&quality=85&auto=format&fit=max&s=21ad8aa4d42ffde7743ab688025d217b",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+     "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss",
+     "title": "ICJ to rule on Rohingya genocide case: What to expect"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Banco de Bogotá advierte sobre desaceleración y estanflación",
+   "resumen": "El Banco de Bogotá informó que la economía colombiana creció apenas un 0,5% en el tercer trimestre, mientras que la inflación subió al 6,3%. Esto genera un escenario de riesgo de estanflación para el país.",
+   "enfoques": "",
+   "blind": "derecha",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/10/14/6acfb917d3e96.r_d.836-470-0.png",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/economia-colombiana-entraria-en-estanflacion-y-creceria-apenas-1-5-en-2027-segun-banco-de-bogota-506557",
+     "title": "Economía colombiana entraría en estanflación y crecería apenas 1,5% en 2027, según Banco de Bogotá"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/banco-de-bogota-advierte-desaceleracion-del-pib-colombiano-y-riesgo-de-estanflacion-4526948",
+     "title": "Banco de Bogotá advierte desaceleración del PIB colombiano y riesgo de estanflación"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Empresa Italika abrirá planta ensambladora en Barranquilla",
+   "resumen": "La multinacional mexicana Italika instalará una planta ensambladora de motocicletas en Barranquilla, generando cerca de 1.000 empleos. El anuncio fue realizado por el presidente Abelardo De La Espriella tras reunirse con el empresario Ricardo Salinas Pliego.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/18/6afd9585b1988.jpeg",
+   "image_source": "El Tiempo",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/barranquilla/multinacional-mexicana-italika-llegara-a-barranquilla-con-planta-ensambladora-de-motocicletas-y-cerca-de-1-000-empleos-3601919",
+     "title": "Multinacional mexicana Italika llegará a Barranquilla con planta ensambladora de motocicletas y cerca de 1.000 empleos"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Ataque ucraniano causa daños parciales en el puente de Crimea",
+   "resumen": "Un ataque con drones y misiles ucranianos provocó el colapso parcial del puente de Crimea, una ruta de suministro clave para Rusia. La empresa de armas neerlandesa Destinus confirmó públicamente que sus misiles fueron utilizados en la operación.",
+   "enfoques": "Los medios neerlandeses (DutchNews y NL Times) destacan de manera específica la participación y adjudicación de la empresa de armas de su país en el ataque.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+     "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine"
+    },
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/russian-embassy-responds-to-nl-role-in-crimea-bridge-attack/",
+     "title": "Russian embassy responds to NL role in Crimea bridge attack"
+    },
+    {
+     "name": "NL Times",
+     "label": "centro",
+     "link": "https://nltimes.nl/2026/11/18/dutch-arms-manufacturer-says-ukraine-used-its-missiles-attack-crimean-bridge",
+     "title": "Dutch arms manufacturer says Ukraine used its missiles to attack Crimean Bridge"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4804752/ukraine-attack-crimea-bridge-partial-collapse/",
+     "title": "Ukraine’s ‘unprecedented’ attack on Crimean bridge causes partial collapse"
+    }
+   ]
+  },
+  {
+   "topic": "limburg",
+   "title": "Tribunal declara en quiebra a la empresa Vynova en Beek",
+   "resumen": "El tribunal convirtió el aplazamiento de pagos concedido la semana pasada en una quiebra formal para las empresas Vynova Netherlands y LVM Netherlands en Beek.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://prod-img.limburger.nl/public/ece-incoming/vyrvdu-file81f3m1a6huufastb11s5/alternates/BASE_SIXTEEN_NINE/file81f3m1a6huufastb11s5",
+   "image_source": "De Limburger",
+   "outlets": [
+    {
+     "name": "De Limburger",
+     "label": "~centro",
+     "link": "https://www.limburger.nl/economie/vynova-in-beek-voor-tweede-keer-in-een-jaar-failliet/164730809.html",
+     "title": "Vynova in Beek voor tweede keer in een jaar failliet"
+    }
+   ]
+  }
+ ]
+}
