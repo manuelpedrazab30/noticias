@@ -1,0 +1,284 @@
+{
+ "day": "2026-11-19",
+ "ai": "Gemini/gemini-3.5-flash-lite",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "La Corte Internacional de Justicia determina que Myanmar cometió genocidio contra los rohingya",
+   "resumen": "La Corte Internacional de Justicia ha dictaminado que Myanmar es culpable de cometer genocidio contra la minoría rohingya durante una campaña militar. Según DW, el tribunal también pidió el pago de reparaciones y el retorno seguro de los refugiados.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://i.guim.co.uk/img/media/16e3b91946d9a70788aadd1f8242b43c0244fe94/443_0_2913_2329/master/2913.jpg?width=700&quality=85&auto=format&fit=max&s=18bd1d5044bb0e3cd9ce52df4557f22b",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+     "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss",
+     "title": "ICJ rules Myanmar committed genocide against the Rohingya"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-all-1573-rdf",
+     "title": "Myanmar committed genocide against Rohingya, top UN court rules"
+    },
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/un-court-in-the-hague-finds-myanmar-guilty-of-genocide/",
+     "title": "UN court in The Hague rules Myanmar committed genocide"
+    },
+    {
+     "name": "NL Times",
+     "label": "centro",
+     "link": "https://nltimes.nl/2026/11/19/myanmar-committed-genocide-rohingya-people-international-court-justice-rules",
+     "title": "Myanmar committed genocide on Rohingya people, International Court of Justice rules"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Nuevo ataque contra el puente de Crimea interrumpe el transporte",
+   "resumen": "Un funcionario ruso y gobernadores instalados informaron sobre un nuevo ataque contra el puente de Crimea que afectó los servicios de transporte. Según la BBC, el presidente ruso prometió una respuesta severa, mientras que Kiev disputa la naturaleza civil de la infraestructura.",
+   "enfoques": "DW y The Guardian destacan las consecuencias logísticas y políticas del ataque, mientras que la BBC enfatiza la reacción del Kremlin y las tensiones con Ucrania.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+     "title": "Crimea bridge has been attacked again, says Russian-installed governor"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/crimean-bridge-has-been-attacked-again-russian-official-says/a-79986700?maca=en-rss-en-all-1573-rdf",
+     "title": "Crimean Bridge has been attacked again, Russian official says"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+     "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Líderes de Estados Unidos, Rusia y China se reúnen en la cumbre de APEC",
+   "resumen": "Donald Trump, Vladimir Putin y Xi Jinping sostuvieron una reunión trilateral en el marco de la cumbre de APEC en China. Los mandatarios discutieron sobre armas nucleares y la situación en Ucrania.",
+   "enfoques": "Al Jazeera y The Guardian resaltan las declaraciones amistosas de Trump hacia Putin y Xi, mientras que DW se centra en el cierre de los diálogos con una declaración de paz.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/fe3fd3648dd9414ddf04cdd936e7a16097507170/200_0_1799_1440/master/1799.jpg?width=700&quality=85&auto=format&fit=max&s=74982f348a0178af5c69079a0c5750fc",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china",
+     "title": "First Thing: Trump, Xi and Putin hold historic trilateral meeting in China"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
+     "title": "Trump calls for nuclear arms reduction at APEC summit"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/apec-summit-trump-xi-putin-talks-end-with-peace-declaration/live-79964719?maca=en-rss-en-all-1573-rdf",
+     "title": "APEC summit: Trump, Xi, Putin talks end with 'peace declaration'"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Demócratas de la Cámara de Representantes nominan a Hakeem Jeffries como líder",
+   "resumen": "Los demócratas de la Cámara de Representantes nominaron a Hakeem Jeffries para ser el próximo orador de la cámara. Jeffries se encaminará a ser el primer legislador negro en liderar dicho órgano cuando su partido asuma el control.",
+   "enfoques": "The Guardian destaca los llamados internos de Jeffries a enfocarse en la oposición política, mientras que la BBC y DW subrayan el hito histórico de su nombramiento.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+     "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-rdf",
+     "title": "US House Democrats nominate Hakeem Jeffries for speaker"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "El ejército israelí realiza una operación terrestre en Gaza más allá de la línea amarilla",
+   "resumen": "Las fuerzas militares de Israel llevaron a cabo una incursión terrestre en la zona central de Gaza controlada por Hamas. Según la BBC, Hamas condenó la acción como una violación flagrante del alto el fuego, mientras el ejército indicó que buscaba desmantelar un túnel.",
+   "enfoques": "The Guardian enmarca la operación dentro del contexto político local israelí y el frágil acuerdo de alto el fuego, a diferencia de DW, que destaca la crisis alimentaria y de refugio.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+     "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-rdf",
+     "title": "Israel launches new ground operation in Gaza"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+     "title": "Israeli military completes ground operation in Gaza beyond Yellow Line"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Parlamento de Dinamarca aprueba acuerdo de seguridad con Groenlandia y Estados Unidos",
+   "resumen": "El parlamento danés aprobó un pacto de seguridad ártico que otorga a Estados Unidos un mayor acceso militar. Según DW y Al Jazeera, la medida busca calmar las tensiones tras las amenazas del presidente estadounidense de anexar la isla.",
+   "enfoques": "The Guardian resalta las declaraciones del ministro de exteriores danés sobre la necesidad de reconstruir la confianza con Estados Unidos.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/b6c8d2f794bc298e739a3d685877d86179db3d6f/1419_0_7094_5675/master/7094.jpg?width=700&quality=85&auto=format&fit=max&s=28ac5dedcf54163fb716b873fd9427c6",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us",
+     "title": "Danish MPs approve Greenland security pact with US"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
+     "title": "Denmark parliament approves security deal with Greenland and US"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/denmark-ratifies-security-deal-with-us-and-greenland/a-79988989?maca=en-rss-en-all-1573-rdf",
+     "title": "Denmark ratifies security deal with US and Greenland"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "El jefe del Pentágono firma un acuerdo militar en Venezuela",
+   "resumen": "El secretario del Pentágono, Pete Hegseth, firmó un acuerdo de cooperación en defensa durante una visita a Caracas. Según DW y el Washington Examiner, el pacto busca restablecer la asociación militar bilateral tras años de tensiones.",
+   "enfoques": "Al Jazeera enfoca la cobertura en el impacto del acuerdo sobre la influencia estadounidense y la seguridad regional, mientras que el Washington Examiner y DW detallan los antecedentes de la relación bilateral.",
+   "blind": "",
+   "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/Hegseth-Venezuela.jpg?w=700",
+   "image_source": "Washington Examiner",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
+     "title": "Why is Pete Hegseth strengthening US military ties with Venezuela?"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-pentagon-chief-hegseth-signs-military-deal-in-venezuela/a-79985607?maca=en-rss-en-all-1573-rdf",
+     "title": "US Pentagon chief Hegseth signs military deal in Venezuela"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/policy/defense/4807785/pete-hegseth-venezuela-trip-new-military-agreement/",
+     "title": "Hegseth signs new military agreement during unannounced trip to Venezuela"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Gobierno retira modificaciones al IVA en la Ley de Rescate Económico",
+   "resumen": "El Ministerio de Hacienda confirmó que no se modificará el IVA de la canasta básica, los agroinsumos ni los servicios de salud dentro del proyecto de ley. La iniciativa proyecta recortes de gasto y un ajuste fiscal significativo.",
+   "enfoques": "",
+   "blind": "derecha",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/09/25/6ab6de1323ac7.png",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/asi-cambia-la-ley-de-rescate-fiscal-gobierno-retira-iva-a-canasta-basica-salud-y-agroinsumos-506643",
+     "title": "Así cambia la Ley de Rescate Fiscal: Gobierno retira IVA a canasta básica, salud y agroinsumos"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/como-se-puede-cubrir-el-recaudo-que-se-esperaba-del-iva-a-la-canasta-familiar-4527792",
+     "title": "Los 'reversazos' que han marcado el debate alrededor de la Ley de Rescate del gobierno"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Controversia sobre supuesta negativa a plan de seguridad conjunto con Estados Unidos",
+   "resumen": "Surgieron versiones encontradas sobre la postura gubernamental respecto a propuestas de operaciones conjuntas con Washington. Según La República, el mandatario desmintió las informaciones sobre un rechazo a dichas iniciativas.",
+   "enfoques": "La Silla Vacía destaca las proyecciones legislativas de la propuesta según reportes de prensa internacional, mientras que La República enfatiza la desmentida oficial y el fortalecimiento de la cooperación.",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "La Silla Vacía",
+     "label": "centro-izq",
+     "link": "https://www.lasillavacia.com/en-vivo/abelardo-rechaza-la-propuesta-de-washington-para-operaciones-conjuntas/",
+     "title": "NYT: Abelardo rechaza plan de Washington para operaciones conjuntas"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/de-la-espriella-desmiente-a-the-new-york-times-sobre-supuesto-rechazo-a-plan-militar-4528071",
+     "title": "De la Espriella desmiente a NYT sobre supuesto rechazo a plan militar"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Anuncian huelgas de autobuses y trenes regionales en Países Bajos",
+   "resumen": "Los conductores de transporte público regional en Países Bajos realizarán huelgas tras el rechazo de los sindicatos a la propuesta final de los empleadores.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/regional-bus-and-train-strikes-return-on-monday-and-tuesday/",
+     "title": "Regional bus and train strikes return on Monday and Tuesday"
+    }
+   ]
+  }
+ ]
+}
