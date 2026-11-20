@@ -1,0 +1,254 @@
+{
+ "day": "2026-11-20",
+ "ai": "Gemini/gemini-flash-lite-latest",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "La Corte Internacional de Justicia determina que Myanmar cometió genocidio contra los rohingyas",
+   "resumen": "La Corte Internacional de Justicia dictaminó que Myanmar cometió genocidio contra la minoría rohingya en un caso presentado por Gambia. La decisión generó reacciones internacionales divididas, con la cautela de Estados Unidos y las preocupaciones de China sobre la extralimitación judicial.",
+   "enfoques": "The Guardian destaca la división geopolítica y las reacciones de Estados Unidos y China, mientras que los demás medios se centran en el fallo de la corte.",
+   "blind": "",
+   "image": "https://i.guim.co.uk/img/media/5988d82b73797347e49b6c59007fbef9ae747fbb/264_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=a0361b3769d9dade685e2c1ff3740e23",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+     "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
+     "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?"
+    },
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/un-court-in-the-hague-finds-myanmar-guilty-of-genocide/",
+     "title": "UN court in The Hague rules Myanmar committed genocide"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4808809/icj-rule-myanmar-genocide-rohingya/",
+     "title": "ICJ rules Myanmar committed genocide against Rohingya"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Misiles y drones rusos impactan territorio polaco durante ataques a Ucrania",
+   "resumen": "Autoridades informaron que misiles y un dron ruso impactaron en Polonia en medio de un ataque aéreo masivo contra Ucrania. Según la BBC y DW, el primer ministro polaco indicó que los hechos ocurrieron durante ejercicios militares occidentales en la región.",
+   "enfoques": "The Guardian y la BBC recogen las declaraciones del primer ministro polaco calificando el hecho como una provocación intencional o un acto no accidental, mientras DW se limita a informar la violación del espacio aéreo.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/60d1/live/638e94f0-e4dd-11f1-9cc5-e9713e77fd78.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
+     "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf",
+     "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Reino Unido y la Unión Europea alcanzan acuerdo de reajuste",
+   "resumen": "Reino Unido y la Unión Europea acordaron un trato de reajuste en áreas como alimentos, bienes animales, movilidad y tarifas estudiantiles. Según The Guardian, aún continúan las negociaciones en algunos sectores específicos.",
+   "enfoques": "The Guardian enfatiza que el acuerdo actual es contingente y está sujeto a futuras negociaciones sobre las tasas de matrícula universitaria.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/b27d3ee34f879e3cdf8410a75595717f4585e5ed/358_0_2972_2378/master/2972.jpg?width=700&quality=85&auto=format&fit=max&s=faf787d7511ffc9e0ffdbdddfbb181a0",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+     "title": "UK says EU reset deal agreed but talks will continue ‘in some areas’ – live"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
+     "title": "EU and UK seal reset deal"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Rusia lanza ataque aéreo contra cruces en Kiev tras atentado en el puente de Crimea",
+   "resumen": "Rusia lanzó un ataque aéreo masivo contra puentes en Kiev. Al Jazeera señala que la ofensiva responde a la promesa de Moscú de una respuesta dolorosa al ataque ucraniano contra el puente de Crimea.",
+   "enfoques": "Al Jazeera enmarca explícitamente el ataque como una represalia por el puente de Crimea, mientras que la BBC lo vincula temporalmente con dicho evento.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+     "title": "Russia unleashes retaliatory barrage on Kyiv bridges"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+     "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Campaña 'Be Ready' impulsa aumento de ventas minoristas por acopio de alimentos",
+   "resumen": "Las ventas minoristas en Gran Bretaña aumentaron el mes pasado debido a que los ciudadanos compraron productos como comida en lata y leche de larga duración. Según la BBC, el incremento responde a la campaña gubernamental 'Be Ready'.",
+   "enfoques": "The Guardian atribuye el aumento directamente a los 'preppers' que siguen las recomendaciones de emergencia, mientras que la BBC destaca los datos oficiales sobre el consumo de estos productos.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b2f3/live/616b7460-e4bd-11f1-bd65-4bcf15946188.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
+     "title": "Household rush to stockpile emergency supplies sends British retail sales soaring"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+     "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Advierten sobre presión en la sostenibilidad de la deuda pública de Colombia",
+   "resumen": "Informes económicos advierten que los altos intereses y el bajo crecimiento ponen en riesgo la sostenibilidad de la deuda pública de Colombia. Se señala que la brecha entre el costo de la deuda y el crecimiento económico presiona las finanzas del país.",
+   "enfoques": "Portafolio menciona específicamente al Banco de Bogotá como la fuente de la advertencia sobre la estabilización de las obligaciones hacia 2026.",
+   "blind": "derecha",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/10/28/6ae21d3ba69ad.png",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/la-deuda-publica-de-colombia-enfrenta-presion-intereses-superan-el-crecimiento-economico-en-506738",
+     "title": "La deuda pública de Colombia enfrenta presión: intereses superan el crecimiento económico en 2026"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/altos-intereses-y-bajo-crecimiento-ponen-en-riesgo-la-sostenibilidad-de-la-deuda-publica-4528357",
+     "title": "Altos intereses y bajo crecimiento ponen en riesgo la sostenibilidad de la deuda pública"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Explosión de artefacto cerca de un CAI policial en Cali",
+   "resumen": "Un artefacto explosivo detonó cerca de un CAI de la Policía en Cali durante la noche del jueves. Los reportes preliminares indican que no se registraron personas lesionadas y las autoridades investigan las circunstancias del hecho.",
+   "enfoques": "",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/HZ63WI4ZMRE6DC2F5YPX7Q2FYU.jpeg?auth=92baaa5746a46abf6cf3cdcb19180477c76b78621a1000f05086289e1a982b0e&smart=true&width=1320&height=744",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/cali/fuerte-explosion-cerca-de-un-cai-de-la-policia-genero-preocupacion-en-cali-durante-la-noche-del-jueves-19-de-noviembre-esto-se-sabe-3602611",
+     "title": "Fuerte explosión cerca de un CAI de la Policía generó preocupación en Cali durante la noche del jueves 19 de noviembre: esto se sabe"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/cali/articulo/lanzan-artefacto-explosivo-cerca-de-un-cai-de-la-policia-en-cali/202609/",
+     "title": "Lanzan artefacto explosivo cerca de un CAI de la Policía en Cali"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Joven activista colombiano gana el Premio Internacional de la Paz Infantil",
+   "resumen": "El joven activista colombiano Francisco Javier Vera Manzanares fue galardonado con el Premio Internacional de la Paz Infantil. La distinción reconoce su labor como activista ambiental.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/LUHXTKOUWNBYPCTE3XSCTXRWIQ.jpg?auth=78b2e0b8dbbd68abe04a11d382edd949a66b1986139c5d349ad14a94ea8e4f2b&smart=true&width=1219&height=675",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/exiled-colombian-climate-activist-wins-childrens-peace-prize/",
+     "title": "Exiled Colombian climate activist wins children’s peace prize"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/francisco-javier-vera-el-joven-activista-de-colombia-gano-importante-premio-internacional/202628/",
+     "title": "Francisco Javier Vera, el joven activista de Colombia, ganó importante premio internacional"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Investigan a la congresista Verónica Estrada por presuntos títulos falsos",
+   "resumen": "La representante a la Cámara Verónica Estrada es investigada por la Procuraduría debido a la presunta falsificación de títulos universitarios y certificados. Portafolio añade que desde el partido Pacto Histórico se le pidió la renuncia.",
+   "enfoques": "Portafolio destaca la solicitud de renuncia por parte de su colectividad política, mientras que La Silla Vacía se enfoca en la investigación preliminar de la Procuraduría.",
+   "blind": "",
+   "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2026/11/image-41.png?fit=1204%2C1600&quality=80&strip=all&ssl=1",
+   "image_source": "La Silla Vacía",
+   "outlets": [
+    {
+     "name": "La Silla Vacía",
+     "label": "centro-izq",
+     "link": "https://www.lasillavacia.com/en-vivo/procuraduria-investiga-a-veronica-estrada-por-presuntos-titulos-falsos/",
+     "title": "Procuraduría investiga a Verónica Estrada por presuntos títulos falsos"
+    },
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/pacto-historico-pidio-la-renuncia-a-veronica-estrada-congresista-que-falsifico-su-titulo-de-ingeniera-506737",
+     "title": "Pacto Histórico pidió la renuncia a Verónica Estrada, congresista que falsificó su título de ingeniera"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Inicia juicio penal contra Tata Steel por supuesta contaminación de aire",
+   "resumen": "Comenzó el juicio penal en un tribunal de Ámsterdam contra la empresa Tata Steel. La compañía enfrenta cargos por contaminación de aire deliberada e ilegal en torno a su planta en IJmuiden.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/tata-steel-goes-on-trial-accused-of-deliberate-air-pollution/",
+     "title": "Tata Steel goes on trial accused of deliberate air pollution"
+    },
+    {
+     "name": "NL Times",
+     "label": "centro",
+     "link": "https://nltimes.nl/2026/11/20/trial-starts-tata-steel-accused-intentional-unlawful-air-pollution",
+     "title": "Trial starts against Tata Steel, accused of intentional and unlawful air pollution"
+    }
+   ]
+  }
+ ]
+}
