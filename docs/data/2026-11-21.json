@@ -1,0 +1,225 @@
+{
+ "day": "2026-11-21",
+ "ai": "Gemini/gemini-3.5-flash-lite",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Policías franceses condenados por agresión racista a Michel Zecler",
+   "resumen": "Un tribunal declaró culpables a tres agentes de policía por agredir al productor musical Michel Zecler en el año 2020. La corte determinó que el ataque constituyó un delito motivado por racismoy violencia intencional.",
+   "enfoques": "The Guardian destaca que el incidente ocurrió durante la pandemia y generó indignación sobre la brutalidad policial tras ser captado en cámaras, mientras que Al Jazeera y BBC se centran en el fallo judicial y las consecuencias legales.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+     "title": "French police officers found guilty of racist assault on black music producer"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
+     "title": "French police officers guilty of Michel Zecler assault: What happens now?"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+     "title": "French police officers sentenced for beating of music producer Michel Zecler"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Hombre condenado por provocar el incendio forestal Palisades en Los Ángeles",
+   "resumen": "Un hombre de 30 años fue declarado culpable de cargos federales de incendio premeditado por los incendios forestales de Palisades. El veredicto se dictó tras un nuevo juicio en el que se determinó su responsabilidad en el fuego que destruyó edificios y causó muertes.",
+   "enfoques": "The Guardian detalla que el primer juicio terminó con un jurado anulado y menciona el nombre del acusado, mientras que BBC y DW se centran en la gravedad del veredicto y las consecuencias destructivas del incendio.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+     "title": "Man accused of sparking deadly Los Angeles wildfire found guilty"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-rdf",
+     "title": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+     "title": "Man convicted of starting Palisades fire in Los Angeles"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Sismo de magnitud cercana a 7 sacude Perú y se siente en Colombia",
+   "resumen": "Un temblor de magnitud 6,9 registrado en Perú este viernes 20 de noviembre fue percibido en varias zonas de Colombia. El Servicio Geológico Colombiano emitió boletines con detalles sobre el epicentro y la profundidad del movimiento telúrico.",
+   "enfoques": "El Tiempo y Portafolio enfatizan las ciudades colombianas donde se sintió el sismo, mientras que Semana se centra en la magnitud y el epicentro en Perú.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/TGJNC75U6FA3VNAMBH4HZFTJVU.jpg?auth=0aee8276a51a939c289c0442dce9d617690ecb49dfe9c444bff7b62f82a5c11b&smart=true&width=2000&height=1125",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-de-magnitud-6-9-en-peru-estas-son-las-ciudades-de-colombia-donde-se-sintio-con-mayor-fuerza-3602928",
+     "title": "Fuerte temblor de magnitud 6,9 en Perú este viernes 20 de noviembre: estas son las ciudades de Colombia donde se sintió con mayor intensidad"
+    },
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/regiones/sismo-de-magnitud-6-9-en-peru-se-sintio-en-bogota-y-otras-zonas-de-colombia-este-viernes-20-de-noviembre-506806",
+     "title": "Sismo de magnitud 6,9 en Perú se sintió en Bogotá y otras zonas de Colombia este viernes 20 de noviembre"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/terremoto-de-69-en-peru-se-sintio-en-colombia-su-magnitud-y-epicentro/202625/",
+     "title": "Terremoto de 6.7 en Perú se sintió en Colombia: su magnitud y epicentro"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Cumbre climática COP31 entra en prórroga ante desacuerdos sobre combustibles fósiles",
+   "resumen": "Las negociaciones en la cumbre climática de la ONU se extendieron debido a la falta de un acuerdo global definitivo. Los países participantes permanecen divididos sobre las medidas para enfrentar el calentamiento global.",
+   "enfoques": "DW detalla que el borrador actual no menciona la eliminación gradual de los combustibles fósiles, mientras que la BBC enfatiza el bloqueo general en las negociaciones.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-rdf",
+     "title": "COP31: UN Climate summit runs into overtime as deal remains elusive"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Pasajera detenida por agredir a trabajadora de Avianca en Cartagena",
+   "resumen": "Una pasajera fue capturada tras agredir a una colaboradora de la aerolínea Avianca durante el abordaje de un vuelo entre Cartagena y Cali. La empresa se pronunció sobre el incidente y solicitó sanciones ante este tipo de situaciones.",
+   "enfoques": "El Tiempo destaca la denuncia inicial de una congresista y la petición de la aerolínea de legislar contra pasajeros conflictivos, mientras que Semana califica el hecho como un escándalo y confirma el arresto.",
+   "blind": "derecha",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/20/6b00d02cc7a86.r_d.50-167-0.png",
+   "image_source": "El Tiempo",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/pasajera-fue-capturada-por-agredir-a-una-trabajadora-de-avianca-durante-el-abordaje-de-un-vuelo-cartagena-cali-revelan-la-razon-del-conflicto-3602869",
+     "title": "Pasajera fue capturada por agredir y golpear a trabajadora de Avianca durante el abordaje de un vuelo Cartagena-Cali: revelan la razón del conflicto"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/escandalo-en-vuelo-de-avianca-pasajera-fue-arrestada-tras-presuntamente-agredir-a-una-colaboradora-la-aerolinea-se-pronuncio/202654/",
+     "title": "Escándalo en vuelo de Avianca: pasajera fue arrestada tras presuntamente agredir a una colaboradora; la aerolínea se pronunció"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Grand Theft Auto VI alcanza ventas récord de 3.800 millones de dólares en su estreno",
+   "resumen": "El videojuego Grand Theft Auto VI recaudó 3.800 millones de dólares en su primer día de lanzamiento a la venta, según anunció el desarrollador Rockstar Games. La cifra supera récords previos de la industria del entretenimiento y de estrenos cinematográficos.",
+   "enfoques": "The Guardian destaca que la recaudación supera las ganancias en taquilla de la película más taquillera de la historia, mientras que la BBC enfatiza de manera general que es el mayor lanzamiento de la historia del entretenimiento.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
+     "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "OCDE proyecta que el PIB de Colombia crecerá un 2,1% en 2027",
+   "resumen": "La economía colombiana experimentará una desaceleración en 2027 con un crecimiento proyectado del 2,1%, según los datos de la OCDE. Esta cifra representa una reducción respecto a los años anteriores debido a condiciones financieras restrictivas.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/pib-del-pais-crecera-2-1-el-proximo-ano-0-5-menos-que-el-ano-pasado-segun-la-ocde-4529755",
+     "title": "PIB del país crecerá 2,1% en 2027, 0,5% menos que el año pasado, según la Ocde"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Universidad de Leiden cancela colaboración con universidad china por riesgo de datos",
+   "resumen": "La Universidad de Leiden decidió suspender un acuerdo de colaboración con la institución china Xi'an Jiaotong. La medida se tomó tras recibir críticas del personal y por temores de que información sensible llegara al gobierno chino.",
+   "enfoques": "NL Times especifica que el acuerdo cancelado incluía hospedar a 200 estudiantes chinos, detalle omitido por NOS.",
+   "blind": "",
+   "image": "https://images.cdn.nos.nl/6/7/q/W/K/w/YNx8U3VC9qFKWuCfccL95rKmEjfMQD7QiVsrbZ1/8x212x3984x2241-1024x576.webp",
+   "image_source": "NOS",
+   "outlets": [
+    {
+     "name": "NL Times",
+     "label": "centro",
+     "link": "https://nltimes.nl/2026/11/21/leiden-university-cancels-deal-host-200-chinese-students-amid-data-leak-concerns",
+     "title": "Leiden University cancels deal to host 200 Chinese students amid data-leak concerns"
+    },
+    {
+     "name": "NOS",
+     "label": "centro-der",
+     "link": "https://nos.nl/l/2640396",
+     "title": "Universiteit Leiden stopt samenwerking met Chinese universiteit na zorgen over lekken data"
+    }
+   ]
+  },
+  {
+   "topic": "tecnologia",
+   "title": "Acreedores de SpaceX rechazan el envío de garantías financieras al espacio",
+   "resumen": "Los prestamistas y tenedores de bonos de SpaceX manifestaron su oposición a que componentes valiosos utilizados como garantía sean trasladados al espacio. Los acreedores prefieren que dichos activos permanezcan en la Tierra.",
+   "enfoques": "TechCrunch enmarca el debate dentro de la viabilidad del financiamiento para futuros centros de datos espaciales, mientras que Ars Technica se enfoca directamente en la negativa de los prestamistas respecto a su garantía.",
+   "blind": "",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
+   "image_source": "Ars Technica",
+   "outlets": [
+    {
+     "name": "TechCrunch",
+     "label": "centro-izq",
+     "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+     "title": "Chips can survive the space environment — can their financing?"
+    },
+    {
+     "name": "Ars Technica",
+     "label": "centro",
+     "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+     "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space"
+    }
+   ]
+  }
+ ]
+}
