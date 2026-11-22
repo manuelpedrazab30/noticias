@@ -1,0 +1,260 @@
+{
+ "day": "2026-11-22",
+ "ai": "Gemini/gemini-3.5-flash",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Incendio en fábrica de dulces en Indonesia deja tres muertos y desaparecidos",
+   "resumen": "Un incendio en una fábrica de confitería en Indonesia dejó al menos tres personas muertas y 36 desaparecidas. Las autoridades investigan las causas del fuego, el cual destruyó gran parte de las instalaciones.",
+   "enfoques": "Mientras que Al Jazeera destaca que al menos 15 personas fueron rescatadas, The Guardian enfatiza la llegada de familiares a la entrada de la fábrica.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+     "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
+     "title": "Indonesia factory fire kills three, 36 missing"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-all-1573-rdf",
+     "title": "Dozens missing as deadly fire hits Indonesian candy factory"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+     "title": "Three killed and dozens missing after fire at Indonesian factory"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Buque ruso se incendia tras ataque con drones en el mar Báltico",
+   "resumen": "Un buque de carga ruso con destino a Kaliningrado se incendió tras un ataque con drones cerca de Finlandia. Según las fuerzas de defensa finlandesas, Ucrania estaría presuntamente detrás de la agresión.",
+   "enfoques": "DW enfatiza la sospecha de una incursión de un helicóptero ruso en el espacio aéreo finlandés relacionada con el ataque, mientras que BBC y Al Jazeera se centran principalmente en el incendio y el origen del dron.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
+     "title": "Russian ship attacked by drone in Baltic Sea off Finland"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-all-1573-rdf",
+     "title": "Russian helicopter suspected of violating Finnish airspace"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "title": "Russia-bound ship still on fire after attack in Gulf of Finland"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Autoridades declaran alerta por contaminación del aire en sectores de Bogotá",
+   "resumen": "La Secretaría de Ambiente declaró alerta por contaminación del aire en cuatro sectores de Bogotá tras 36 horas de mediciones desfavorables. Las autoridades recomendaron el uso de tapabocas y evitar el ejercicio al aire libre en las zonas afectadas.",
+   "enfoques": "La República y Portafolio detallan que la medida se dio tras 36 horas de monitoreo en estaciones específicas del suroccidente, mientras que Semana enfatiza las restricciones asociadas a la alerta.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/252LNOHDBJFZVEZPJDFT5UGEFY.png?auth=9715b4e09e0d06c783f17fe6a001d8afeaa0ecb2aec35d5ecbdb0d9bcc72da3b&smart=true&width=1280&height=720",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/regiones/alerta-por-aire-contaminado-en-bogota-piden-evitar-ejercicio-al-aire-libre-y-recomiendan-uso-de-tapabocas-506828",
+     "title": "Alerta por aire contaminado en Bogotá: piden evitar ejercicio al aire libre y recomiendan uso de tapabocas"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/secretaria-de-ambiente-declaro-en-alerta-fase-1-cuatro-zonas-de-bogota-por-contaminacion-4530074",
+     "title": "Secretaría de Ambiente declaró en Alerta Fase 1 cuatro zonas de Bogotá por contaminación"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/bogota/articulo/alerta-por-contaminacion-del-aire-en-bogota-estas-son-las-zonas-con-mayores-restricciones/202641/",
+     "title": "Alerta por contaminación del aire en Bogotá: estas son las zonas con mayores restricciones"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Dimite el ministro de Educación de Corea del Sur tras un escándalo",
+   "resumen": "El ministro de Educación de Corea del Sur, Choi Kyo-jin, renunció a su cargo tras un escándalo de trampas con inteligencia artificial en los exámenes de ingreso universitario. El funcionario admitió no haber preparado adecuadamente las medidas preventivas para las pruebas.",
+   "enfoques": "The Guardian resalta detalles de las medidas de seguridad del examen como la prohibición de teléfonos y revisión de ropa, mientras que la BBC se centra en el caos generado por las medidas de última hora.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+     "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+     "title": "South Korea education minister resigns over exam cheating scandal"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Ataque contra unidad militar en el departamento de Cesar deja varios heridos",
+   "resumen": "Un batallón del Ejército en el departamento de Cesar fue objeto de un ataque militar. El Tiempo reporta al menos 13 militares heridos, mientras que Semana informa que un soldado murió y 12 resultaron lesionados.",
+   "enfoques": "Semana califica el suceso como un ataque terrorista e informa sobre un soldado fallecido, mientras que El Tiempo destaca la activación de la red hospitalaria regional para atender a los heridos.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/I5OCMJ6BWFG7VL7KYFPAMVPSXQ.jpeg?auth=c4aa671e562777884bdc07597aa3deb065abbb47b363886db93c0910e63f5b9b&smart=true&width=1280&height=1280",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/ataque-contra-batallon-del-ejercito-en-la-jagua-de-ibirico-cesar-reportan-al-menos-13-militares-heridos-y-activan-red-hospitalaria-en-la-region-3603124",
+     "title": "Ataque contra batallón del Ejército en La Jagua de Ibirico, Cesar: reportan al menos 13 militares heridos y activan red hospitalaria en la región"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/un-soldado-muerto-y-12-heridos-deja-ataque-terrorista-contra-el-ejercito-en-el-departamento-de-cesar/202605/",
+     "title": "Un soldado muerto y 12 heridos deja ataque terrorista contra el Ejército en el departamento de Cesar"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Max Verstappen gana el Gran Premio de Las Vegas de Fórmula 1",
+   "resumen": "Max Verstappen obtuvo la victoria en el Gran Premio de Las Vegas de Fórmula 1. El piloto consiguió su cuarta victoria de la temporada en una carrera marcada por múltiples cambios de liderazgo.",
+   "enfoques": "Al Jazeera resalta que es la tercera victoria de Verstappen en Las Vegas en cuatro años y menciona a sus rivales Antonelli y Russell, mientras que NL Times se enfoca en que es su cuarta victoria del año.",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
+     "title": "Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years"
+    },
+    {
+     "name": "NL Times",
+     "label": "centro",
+     "link": "https://nltimes.nl/2026/11/22/verstappen-takes-fourth-win-year-las-vegas-grand-prix",
+     "title": "Verstappen takes fourth win of year at Las Vegas Grand Prix"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Fuerzas mexicanas detienen al presunto líder criminal apodado Chapo Isidro",
+   "resumen": "El capo mexicano Fausto Isidro Meza Flores, alias \"Chapo Isidro\", fue detenido tras un tiroteo con las autoridades en Sinaloa. El capturado figuraba en la lista de los prófugos más buscados por el FBI acusado de tráfico de drogas.",
+   "enfoques": "DW enfatiza la participación de las fuerzas especiales militares y la pertenencia del detenido al cartel de los Beltrán Leyva, mientras que BBC destaca las acusaciones de tortura que pesan en su contra.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf",
+     "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+     "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Declaran alerta roja en tres quebradas de Medellín por lluvias",
+   "resumen": "Una tormenta eléctrica provocó la declaración de alerta roja en tres quebradas de Medellín. Las lluvias completan seis días consecutivos en la ciudad, donde las autoridades pidieron tomar rutas alternas ante emergencias.",
+   "enfoques": "El Tiempo resalta las declaraciones del alcalde Federico Gutiérrez y la activación de líneas de emergencia, mientras que Semana pone el foco en la acumulación de seis días seguidos de precipitaciones.",
+   "blind": "derecha",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/21/6b023b6b5829b.png",
+   "image_source": "El Tiempo",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/medellin/emergencia-por-tormenta-electrica-en-medellin-federico-gutierrez-da-nuevo-reporte-de-afectaciones-por-lluvias-con-tres-quebradas-en-nivel-rojo-3603084",
+     "title": "Emergencia por tormenta eléctrica en Medellín: Federico Gutiérrez da nuevo reporte de afectaciones por lluvias, con tres quebradas en nivel rojo"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/medellin/articulo/alerta-roja-en-tres-quebradas-de-medellin-por-tormenta-electrica-asi-esta-la-ciudad-en-el-sexto-dia-consecutivo-de-lluvias/202647/",
+     "title": "Alerta roja en tres quebradas de Medellín por tormenta eléctrica: así está la ciudad en el sexto día consecutivo de lluvias"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "El FBI investiga un posible ciberataque a su base de datos",
+   "resumen": "El FBI investiga un presunto pirateo a la base de datos del Centro Nacional de Información Criminal. La plataforma es utilizada por agencias federales y locales para compartir información sobre antecedentes penales.",
+   "enfoques": "TechCrunch incluye comentarios de Donald Trump sobre la gravedad del incidente, mientras que la BBC se limita a informar sobre la investigación del organismo policial.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "TechCrunch",
+     "label": "centro-izq",
+     "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+     "title": "Trump says reported FBI database hack is ‘not good’"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+     "title": "FBI reportedly investigating apparent hack of its criminal database"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Congresista Verónica Estrada nombra abogado defensor tras acusaciones por títulos falsos",
+   "resumen": "La congresista Verónica Estrada designó a Santiago Trespalacios como su abogado defensor ante las investigaciones por presunta falsedad en títulos académicos. La parlamentaria anunció que atenderá a las autoridades, pero no dará declaraciones por recomendación legal.",
+   "enfoques": "La Silla Vacía destaca además que el presidente Petro afirmó no conocer a la congresista cuando aspiraba por el Pacto Histórico, aspecto no mencionado por Portafolio.",
+   "blind": "",
+   "image": "https://www.youtube.com/embed/5VhYwkTAPGE",
+   "image_source": "La Silla Vacía",
+   "outlets": [
+    {
+     "name": "La Silla Vacía",
+     "label": "centro-izq",
+     "link": "https://www.lasillavacia.com/en-vivo/veronica-estrada-se-pronuncia-ya-tiene-abogado-defensor/",
+     "title": "Verónica Estrada se pronuncia: ya tiene abogado defensor"
+    },
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/el-abogado-que-luz-veronica-estrada-designo-para-su-defensa-por-el-caso-de-titulos-academicos-falsos-506841",
+     "title": "El abogado que Luz Verónica Estrada designo para su defensa por el caso de títulos académicos falsos"
+    }
+   ]
+  }
+ ]
+}
