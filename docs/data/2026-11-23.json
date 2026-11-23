@@ -1,0 +1,278 @@
+{
+ "day": "2026-11-23",
+ "ai": "Groq/openai/gpt-oss-120b",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Nvidia reinstaura a Jensen Huang como CEO",
+   "resumen": "Nvidia's board reinstated Jensen Huang as chief executive. The reinstatement followed his resignation earlier in the month amid reports of personal affairs.",
+   "enfoques": "Al Jazeera subraya el salto del 31 % en la acción, DW enfatiza el escándalo de espionaje, Ars Technica menciona la ausencia de riesgo de seguridad y TechCrunch destaca el respaldo de funcionarios estadounidenses.",
+   "blind": "",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg",
+   "image_source": "Ars Technica",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+     "title": "Jensen Huang reinstated as Nvidia CEO"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss",
+     "title": "Nvidia board Reinstates Jensen Huang as CEO"
+    },
+    {
+     "name": "TechCrunch",
+     "label": "centro-izq",
+     "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+     "title": "Nvidia reverses course and brings Jensen Huang back as CEO"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-rdf",
+     "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal"
+    },
+    {
+     "name": "Ars Technica",
+     "label": "centro",
+     "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+     "title": "Jensen Huang reinstated as Nvidia CEO, board chair"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Ucrania usa drones navales contra buques rusos en Libia",
+   "resumen": "Ukraine reported using naval drones to strike two Russian vessels off the coast of Libya, sinking the warship Merkury. A Russian cargo ship was also hit in the attack.",
+   "enfoques": "BBC destaca la advertencia del Kremlin, The Guardian menciona la negación de Albania, Washington Examiner subraya la expansión del conflicto, y DW señala la reunión de la OTAN sobre una supuesta violación del espacio aéreo polaco.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/927f/live/24790470-e740-11f1-99b6-a35a62fa4264.png",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+     "title": "Kremlin warns of ‘escalation’ as Albania denies Ukrainian drones that sank Russian ships launched from its territory – Europe live"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+     "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/ukraine-updates-kyiv-claims-strike-that-sank-russian-ship-off-libya/live-80015859?maca=en-rss-en-all-1573-rdf",
+     "title": "Ukraine updates: Kyiv claims strike that sank Russian ship off Libya"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4811959/ukraine-strike-russian-warship-tanker-libya/",
+     "title": "Ukraine claims strike on Russian warship and cargo tanker in Libyan port"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Fallece Alberto Montoya Puyana, exalcalde de Bucaramanga",
+   "resumen": "Alberto Montoya Puyana, reconocido arquitecto, falleció. Fue el primer alcalde de Bucaramanga elegido por voto popular.",
+   "enfoques": "El Tiempo señala que la noticia la dio el expresidente Álvaro Uribe, Semana menciona su pasado como rector de la UNAB y Portafolio resalta los proyectos de infraestructura que impulsó.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/K2HL7FN47ND55LDRIHMUOBLPFY.jpg?auth=3b8425cfd469d58bf66edd3f3d9b0859add6bc0c64e38e82a5aac04ce2b81bc4&smart=true&width=1920&height=1080",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/santander/murio-alberto-montoya-puyana-un-reconocido-arquitecto-y-quien-habria-sido-el-primer-alcalde-de-bucaramanga-elegido-por-voto-popular-3603285",
+     "title": "Murió Alberto Montoya Puyana, reconocido arquitecto y el primer alcalde de Bucaramanga elegido por voto popular"
+    },
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/murio-exalcalde-de-bucaramanga-y-exrector-de-la-unab-centroabastos-terminal-y-anillo-vial-las-obras-que-impulso-506888",
+     "title": "Murió exalcalde de Bucaramanga y exrector de la Unab: Centroabastos, terminal y anillo vial, las obras que impulsó"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/murio-alberto-montoya-puyana-primer-alcalde-de-bucaramanga-elegido-por-voto-popular-y-exrector-de-la-unab/202627/",
+     "title": "Murió Alberto Montoya Puyana, primer alcalde de Bucaramanga elegido por voto popular y exrector de la UNAB"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "COP31 en Antalya concluye sin acuerdo climático",
+   "resumen": "The COP31 climate summit in Antalya concluded without a deal. It was the longest-running UN climate negotiation to date.",
+   "enfoques": "BBC ofrece un resumen de los principales puntos, Al Jazeera enfatiza el fracaso de los estados miembros para acordar acciones rápidas, y DW destaca la disputa sobre la inclusión de los combustibles fósiles y las críticas a los países productores de petróleo.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/55f7/live/e38ff1a0-e71f-11f1-99b6-a35a62fa4264.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse?traffic_source=rss",
+     "title": "COP31: What next after UN climate talks collapse"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/cop31-climate-deal-not-adopted-summit-president-says/live-79999516?maca=en-rss-en-all-1573-rdf",
+     "title": "COP31: Climate deal 'not adopted,' summit president says"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+     "title": "Five takeaways from the failed climate talks COP31"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Drones con explosivos atacan estación policial en Curumaní",
+   "resumen": "Drones equipped with explosives attacked a police station in Curumaní, Cesar. The attack caused strong explosions reported by local sources.",
+   "enfoques": "El Tiempo incluye imágenes de la tensión y la evacuación de vecinos, mientras que Semana se limita a describir las explosiones.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/ZTZ6JERRCVHCRF33D422W2TTF4.jpg?auth=65dab8fafcecb9cfba4215b384513130824cde66382fe40975273d12fca68d2d&smart=true&width=1408&height=768",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-nuevo-ataque-con-drones-contra-estacion-de-policia-en-curumani-en-el-cesar-explosivos-quedaron-grabados-por-la-comunidad-esto-se-sabe-3603303",
+     "title": "Reportan nuevo ataque con drones contra estación de policía en Curumaní, en el Cesar: explosivos quedaron grabados por la comunidad; esto se sabe"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/drones-con-explosivos-atacan-estacion-de-la-policia-en-curumani-cesar-reportan-fuertes-explosiones/202627/",
+     "title": "Drones con explosivos atacan estación de la Policía en Curumaní, Cesar: reportan fuertes explosiones"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Robo del único camión de basura en Mercaderes, Cauca",
+   "resumen": "The sole garbage collection truck in Mercaderes, Cauca, was stolen. Mayor Edilson Gómez announced a reward of up to 20 million pesos for information.",
+   "enfoques": "El Tiempo menciona la posible emergencia municipal, mientras que Semana se centra en los escenarios de preocupación que advierte el alcalde.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/5I5CJHIYXBGTNMSOL5EC7ELFZE.jpg?auth=88cfca6d63ca10f5b221cb7eb181e07b8add1f3d99578bc738c8dec198855c75&smart=true&width=1280&height=720",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/cali/quien-se-robo-el-unico-camion-de-basuras-de-mercaderes-cauca-la-desaparicion-que-motivo-una-recompensa-puede-generar-una-emergencia-en-el-municipio-3603323",
+     "title": "¿Quién se robó el único camión de basuras de Mercaderes, Cauca? La desaparición que motivó una recompensa puede generar una emergencia en el municipio"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/roban-el-unico-camion-recolector-de-basura-de-un-municipio-del-cauca-alcalde-advierte-sobre-los-escenarios-que-mas-preocupan/202646/",
+     "title": "Roban el único camión recolector de basura de un municipio del Cauca: alcalde advierte sobre los escenarios que más preocupan"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Lluvias intensas provocan avalanchas y evacuaciones en Totoró",
+   "resumen": "Torrential rains triggered avalanches in Totoró, Cauca. The events forced the evacuation of about 100 people and left one person missing.",
+   "enfoques": "El Tiempo señala la destrucción de varios puentes, mientras que Semana destaca la alerta para varias comunidades del Cauca.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/2MAM4OP525CRJDYHLHANPNBK4M.jpg?auth=84bc7b637a01638105c4710b3f8d618b05e66932c5d5f1ba0b781a95d03e4ee1&smart=true&width=1920&height=1080",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/cali/alerta-en-el-cauca-por-creciente-del-rio-palace-avalancha-obliga-a-evacuar-a-100-personas-y-deja-un-desaparecido-3603298",
+     "title": "Alerta en el Cauca por creciente del río Palacé: avalancha obliga a evacuar a 100 personas y deja un desaparecido"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/torrenciales-lluvias-desatan-avalanchas-en-totoro-crecientes-ponen-en-alerta-a-varias-comunidades-del-cauca/202603/",
+     "title": "Torrenciales lluvias desatan avalanchas en Totoró: crecientes ponen en alerta a varias comunidades del Cauca"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Three killed and dozens missing after fire at Indonesian factory",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/search-continues-for-dozens-missing-after-indonesia-candy-factory-fire?traffic_source=rss",
+     "title": "Search continues for dozens missing after Indonesia candy factory fire"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+     "title": "Three killed and dozens missing after fire at Indonesian factory"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Nuevos detalles de ataque de drones en Comando de Policía de Cúcuta, Norte de Santander: reportan dos civiles heridos; explosivos cayeron en viviendas",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/2PXM456OVBCGPA45PZ37NCGTTQ.png?auth=c94935687b13122ac8943dca3df6b358318e18061adc63b750ab1be49af88b33&smart=true&width=637&height=423",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/nuevos-detalles-del-ataque-con-drones-con-explosivos-en-el-comando-de-la-policia-de-cucuta-norte-de-santander-dos-civiles-quedaron-heridos-3603267",
+     "title": "Nuevos detalles de ataque de drones en Comando de Policía de Cúcuta, Norte de Santander: reportan dos civiles heridos; explosivos cayeron en viviendas"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/cucuta/articulo/confirman-dos-civiles-heridos-tras-ataque-terrorista-contra-instalaciones-de-la-policia-de-norte-de-santander-en-cucuta/202639/",
+     "title": "Confirman dos civiles heridos tras ataque terrorista contra instalaciones de la Policía de Norte de Santander en Cúcuta"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Empleadas domésticas en Colombia: solo tres de cada 10 reciben el salario mínimo, según recientes cálculos",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2024/07/22/669e9e2df24b5.r_d.383-253-1.jpeg",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/empleo/empleadas-domesticas-en-colombia-solo-tres-de-cada-10-reciben-el-salario-minimo-segun-recientes-calculos-506892",
+     "title": "Empleadas domésticas en Colombia: solo tres de cada 10 reciben el salario mínimo, según recientes cálculos"
+    }
+   ]
+  }
+ ]
+}
