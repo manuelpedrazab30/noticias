@@ -1,0 +1,248 @@
+{
+ "day": "2026-11-24",
+ "ai": null,
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/merkury-fire_benghazi-libya_20261122_054739_ssc4_rgb_flat_50cm_1920px_logo_geo-1152x648.jpg",
+   "image_source": "Ars Technica",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss",
+     "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+     "title": "What strike on Russian ship in Libya says about spread of Ukraine war"
+    },
+    {
+     "name": "Ars Technica",
+     "label": "centro",
+     "link": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+     "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4811959/ukraine-strike-russian-warship-tanker-libya/",
+     "title": "Ukraine claims strike on Russian warship and cargo tanker in Libyan port"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-525166886-1152x648.jpg",
+   "image_source": "Ars Technica",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-all-1573-rdf",
+     "title": "What happens if a nuclear weapon explodes in space?"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+     "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports"
+    },
+    {
+     "name": "Ars Technica",
+     "label": "centro",
+     "link": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
+     "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Hombres armados tienen a varias personas retenidas en un famoso almacen de cadena en Cartagena: se reportan disparos y caos: Policía atiende situación",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/OFPJO3TVFRFAHMKBZMVIH6ELK4.png?auth=07b2365cce758cf3e9e4cd53ffd4342c5d1aa6f704c7261b76ff1be78eb69b79&smart=true&width=702&height=474",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/hombres-armados-tienen-a-varias-personas-retenidas-en-un-famoso-almacen-de-cadena-en-cartagena-se-reportan-disparos-y-caos-policia-atiende-situacion-3603743",
+     "title": "Hombres armados tienen a varias personas retenidas en un famoso almacen de cadena en Cartagena: se reportan disparos y caos: Policía atiende situación"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/cartagena/articulo/hombres-armados-se-toman-almacen-exito-castellana-en-cartagena-hay-varios-rehenes-y-reportan-disparos/202629/",
+     "title": "Hombres armados se toman almacén Éxito Castellana, en Cartagena: hay varios rehenes y reportan disparos"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "izquierda",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss",
+     "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/cas-reinstates-senegal-as-2025-afcon-champions/a-80021027?maca=en-rss-en-all-1573-rdf",
+     "title": "CAS reinstates Senegal as 2025 AFCON champions"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "What Jensen Huang's return teaches China's Xi about Trump",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/47a8/live/2d61caf0-e7d5-11f1-939f-471cde339c0e.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+     "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+     "title": "What Jensen Huang's return teaches China's Xi about Trump"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Car bomb tears through Colombian city wounding more than 20",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/17c0/live/f8f77110-e811-11f1-99a1-253766e7ad8b.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/colombia-car-bomb-attack-injures-at-least-23/a-80033956?maca=en-rss-en-all-1573-rdf",
+     "title": "Colombia: Car bomb attack injures at least 23"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+     "title": "Car bomb tears through Colombian city wounding more than 20"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
+     "title": "Israeli air strike kills senior Hamas military official in Gaza"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+     "title": "Israeli air strike kills Hamas internal security chief in Gaza"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Trump’s Nvidia intervention: What’s at stake?",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "izquierda",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/trumps-nvidia-intervention-whats-at-stake?traffic_source=rss",
+     "title": "Trump’s Nvidia intervention: What’s at stake?"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/germany-s-wadephul-shocked-by-trump-s-nvidia-intervention/a-80033954?maca=en-rss-en-all-1573-rdf",
+     "title": "Germany's Wadephul 'shocked' by Trump's Nvidia intervention"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Carf advierte que Ley de Rescate Fiscal dejaría un faltante de $9,6 billones",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "derecha",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/03/16/69b86c2e2bbaa.png",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/carf-advierte-que-la-ley-de-rescate-economico-no-bastaria-para-estabilizar-la-deuda-publica-hacia-506974",
+     "title": "Carf advierte que la Ley de Rescate Económico no bastaría para estabilizar la deuda pública hacia 2030"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/carf-advierte-que-ley-de-rescate-no-seria-suficiente-dejaria-un-faltante-de-9-6-billones-4531489",
+     "title": "Carf advierte que Ley de Rescate Fiscal dejaría un faltante de $9,6 billones"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "Hof: Nederland moet doorgaan met maken bindende klimaatdoelen",
+   "resumen": "",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://images.cdn.nos.nl/1/5/t/c/P/k/qpe6RsvHc2aD9oSbEzRAQuxq15GCtRqcVhrQzTE/8x212x3984x2241-1024x576.webp",
+   "image_source": "NOS",
+   "outlets": [
+    {
+     "name": "NOS",
+     "label": "centro-der",
+     "link": "https://nos.nl/l/2640838",
+     "title": "Hof: Nederland moet doorgaan met maken bindende klimaatdoelen"
+    }
+   ]
+  }
+ ]
+}
