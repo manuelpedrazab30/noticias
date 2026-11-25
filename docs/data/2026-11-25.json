@@ -1,0 +1,242 @@
+{
+ "day": "2026-11-25",
+ "ai": "Gemini/gemini-3.5-flash",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Las fuerzas de seguridad colombianas liberan a rehenes en un supermercado de Cartagena",
+   "resumen": "Las fuerzas de seguridad de Colombia ingresaron a un supermercado en Cartagena y liberaron a los rehenes retenidos tras un intento de robo. Un asaltante falleció durante la operación policial.",
+   "enfoques": "DW enfatiza el deterioro de la seguridad en el país, mientras que The Guardian destaca el rol del presidente al anunciar el rescate.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+     "title": "All hostages rescued after Colombian security forces storm supermarket, says president"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/colombian-security-forces-storm-supermarket-free-hostages/a-80043016?maca=en-rss-en-all-1573-rdf",
+     "title": "Colombian security forces storm supermarket, free hostages"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+     "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Islas Salomón firma un acuerdo de seguridad con Australia",
+   "resumen": "Islas Salomón y Australia firmaron un acuerdo que convierte al país australiano en su principal socio de seguridad. El pacto establece que el archipiélago deberá consultar a Canberra antes de acordar nuevos tratados de seguridad o infraestructura.",
+   "enfoques": "DW y BBC resaltan que el acuerdo busca contrarrestar la influencia de China, mientras que Al Jazeera se centra en la exigencia de consultar a Canberra.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/33d1/live/b36a7310-e87d-11f1-98e2-c97dce6bef0d.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
+     "title": "Solomon Islands signs security deal with Australia"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646?maca=en-rss-en-all-1573-rdf",
+     "title": "Australia, Solomon Islands sign sweeping pact seen as countering China"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+     "title": "Solomon Islands ends controversial security pact with China for Australian treaty"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Estados Unidos anuncia nuevos aranceles comerciales para varios países",
+   "resumen": "Estados Unidos planea imponer nuevos aranceles comerciales a varios de sus principales socios, incluidos China y la Unión Europea. Según The Guardian, las medidas se proponen para frenar lo que la administración califica de prácticas comerciales desleales.",
+   "enfoques": "The Guardian enfatiza la postura de la administración Trump contra las prácticas desleales y cita análisis sobre el costo de vida, mientras que BBC presenta una cobertura general.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
+     "title": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – business live"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "title": "US announces new tariffs on host of countries including China"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "El Ejército de Estados Unidos detonará explosivos con plomo en Iowa",
+   "resumen": "El Ejército de Estados Unidos planea detonar de forma controlada barriles de químicos inestables con plomo en Iowa. La operación busca eliminar el peligro de los explosivos, aunque genera preocupación pública por los posibles efectos ambientales y de salud.",
+   "enfoques": "DW resalta la confusión ciudadana ante el cambio de directrices sobre el polvo de plomo, mientras que The Guardian destaca la publicación de mapas con la trayectoria de la nube tóxica.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/c49064139167d115c04bf871cf34391b10d10b62/490_0_5419_4335/master/5419.jpg?width=700&quality=85&auto=format&fit=max&s=4625bf708c545f0b8a8f3fa27cd39125",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
+     "title": "Iowa lead detonation: US army to blow up bomb-making chemicals despite concerns - live updates"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/us-army-to-detonate-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-all-1573-rdf",
+     "title": "US Army to detonate unstable lead-based explosives in Iowa"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Rehenes liberados en Cartagena se reencuentran con sus familias",
+   "resumen": "Los rehenes liberados de un supermercado en Cartagena se reencontraron con sus familiares tras finalizar su cautiverio. Los ciudadanos acudieron al Comando de Policía local donde sus allegados los esperaban.",
+   "enfoques": "",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/QEPJN56QPBHMBBNDVZFCHCPZ3Y.jpg?auth=444170ca6d137f99ce8bcfb383817041e87956ecc8003d29249c1a89dbcd6461&smart=true&width=1920&height=1080",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-entre-lagrimas-y-abrazos-asi-fueron-los-emotivos-reencuentros-de-los-rehenes-del-exito-con-sus-familias-tras-18-horas-de-cautiverio-3604112",
+     "title": "Cartagena: entre lágrimas y abrazos, así fueron los emotivos reencuentros de los rehenes del Éxito con sus familias tras 18 horas de cautiverio"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/cartagena/articulo/entre-lagrimas-llamadas-y-abrazos-asi-fue-el-reencuentro-de-los-rehenes-del-exito-de-cartagena-con-sus-familias/202610/",
+     "title": "Entre lágrimas, llamadas y abrazos: así fue el reencuentro de los rehenes del Éxito de Cartagena con sus familias"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Fuerzas especiales rescatan a los secuestrados en un supermercado de Cartagena",
+   "resumen": "Las fuerzas especiales colombianas ejecutaron un operativo de rescate que logró la liberación de los secuestrados en un supermercado de Cartagena. Durante la acción oficial, un delincuente murió y otros asaltantes fueron capturados.",
+   "enfoques": "Semana resalta el reconocimiento del Ministerio de Defensa a la Fuerza Pública, mientras que La Silla Vacía precisa la cifra de 46 liberados y el viaje del presidente para autorizar la misión.",
+   "blind": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/DMUDQHCBKRAQ3J7MJDOOPFWJ2E.jpeg?auth=aa2e87c42b1df8dfcd3afac80a4a19de726d0f7eb3bcd7ce81d99e4e1e06f45a&smart=true&width=1600&height=900",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "La Silla Vacía",
+     "label": "centro-izq",
+     "link": "https://www.lasillavacia.com/en-vivo/fuerzas-especiales-rescatan-a-todos-los-rehenes-del-exito-en-cartagena/",
+     "title": "Fuerzas Especiales rescataron a todos los rehenes del Éxito en Cartagena"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/cartagena/articulo/en-video-el-momento-exacto-que-hombres-de-las-fuerzas-especiales-se-tomaron-el-control-del-exito-de-cartagena/202645/",
+     "title": "En video, el momento exacto en que hombres de las fuerzas especiales tomaron el control del Éxito de Cartagena"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Seis personas mueren al estrellarse una avioneta en Mississippi",
+   "resumen": "Una avioneta Cessna 210 se estrelló en el golfo de México frente a las costas de Mississippi. La Guardia Costera halló los cuerpos de cuatro adultos y dos niños en el fuselaje de la aeronave.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cb6d/live/6e173110-e899-11f1-801d-b916df288324.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/2026/nov/25/mississippi-plane-crash-gulf-mexico",
+     "title": "Plane crash off coast of Mississippi kills six, including two children"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+     "title": "Two children among six dead after plane crash off Mississippi coast"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Recicladores participarán en la mesa de concertación del salario mínimo",
+   "resumen": "Los recicladores de oficio formarán parte de la mesa de concertación para la discusión del salario mínimo en Colombia. Cifras oficiales señalan que el sector cuenta con 74.313 trabajadores vinculados a 1.161 organizaciones registradas.",
+   "enfoques": "",
+   "blind": "derecha",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/11/18/6afdda42ce85a.jpeg",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/finanzas/salario-minimo-2027-este-es-el-nuevo-grupo-de-trabajadores-que-hara-parte-de-la-mesa-de-concertacion-507055",
+     "title": "Salario mínimo 2027: este es el nuevo grupo de trabajadores que hará parte de la mesa de concertación"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/recicladores-de-oficio-participaran-en-la-mesa-de-concertacion-del-salario-minimo-4532654",
+     "title": "Recicladores de oficio participarán en la mesa de concertación del mínimo"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Medios reportan un incremento en los costos de los alimentos",
+   "resumen": "Según la BBC, la inflación de los alimentos en India se está expandiendo y afecta los presupuestos familiares. Por su parte, Al Jazeera reporta que en Estados Unidos los consumidores están pagando más por la comida durante Acción de Gracias.",
+   "enfoques": "BBC enfoca su reporte en la situación económica de India, mientras que Al Jazeera aborda el impacto de los precios durante las festividades en Estados Unidos.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss",
+     "title": "The rising cost of Thanksgiving"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+     "title": "The rising cost of putting food on the table in India"
+    }
+   ]
+  },
+  {
+   "topic": "paises_bajos",
+   "title": "El Banco Central neerlandés advierte sobre riesgos para el sistema financiero",
+   "resumen": "El banco central neerlandés DNB emitió una advertencia sobre severas amenazas para el sistema financiero. La entidad señaló que la inteligencia artificial, los ciberataques y la deuda representan riesgos convergentes.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "DutchNews",
+     "label": "centro",
+     "link": "https://www.dutchnews.nl/2026/11/dnb-warns-ai-cyberattacks-and-debt-could-rock-financial-system/",
+     "title": "DNB warns AI, cyberattacks and debt could rock financial system"
+    }
+   ]
+  }
+ ]
+}
