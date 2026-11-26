@@ -1,0 +1,242 @@
+{
+ "day": "2026-11-26",
+ "ai": "Gemini/gemini-3.5-flash",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Los líderes de la Unión Europea debaten el presupuesto y la ayuda a Ucrania",
+   "resumen": "Los líderes de los 27 países de la Unión Europea celebran una cumbre para abordar el presupuesto comunitario y la ayuda a Ucrania. Según The Guardian, existen fuertes divisiones sobre la propuesta presupuestaria y tres países buscan eximirse de un préstamo a Ucrania.",
+   "enfoques": "The Guardian enfatiza los desacuerdos entre los líderes de la UE y las posturas contrarias al presupuesto, mientras DW presenta los temas de la cumbre de forma más general.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/97af9c3749d929490d31c0c42c1effc6430fc97c/1139_0_4298_3440/master/4298.jpg?width=700&quality=85&auto=format&fit=max&s=a0c19bb8ee84d4596e9273ab73cf0648",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+     "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/eu-leaders-seek-agreement-on-long-term-budget-and-ukraine-at-summit/live-80056415?maca=en-rss-en-all-1573-rdf",
+     "title": "EU leaders seek agreement on long-term budget and Ukraine at summit"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Norse Atlantic Airways suspende sus vuelos por falta de liquidez",
+   "resumen": "La aerolínea noruega Norse Atlantic Airways ha suspendido todos sus vuelos debido a una situación financiera crítica. La compañía advirtió que se declarará en bancarrota si no consigue financiación urgente a corto plazo.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea",
+     "title": "Norse Atlantic Airways suspends all flights as it makes urgent funding plea"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+     "title": "Norse Atlantic suspends all flights as it faces potential collapse"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Judicializan a dos hombres por un secuestro en Cartagena",
+   "resumen": "La Fiscalía imputó cargos a dos hombres por su presunta participación en una toma de rehenes en un supermercado de Cartagena. Según Semana, los dos detenidos negaron las acusaciones y afirmaron que ellos también eran rehenes.",
+   "enfoques": "El Tiempo enfoca su reporte en los detalles de la investigación de la Fiscalía, mientras Semana resalta la versión de los capturados.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/5HIFWW7R5BDSXIGOTLBZJ4MOKI.png?auth=e08dd2134bac936357a5e9e0252cc30688c3db227776bf18b88d754ced8c8fb9&smart=true&width=992&height=661",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/el-monto-de-dinero-que-llevaba-en-el-bolsillo-uno-de-los-secuestradores-en-cartagena-cuando-fue-capturado-este-es-el-delito-que-les-imputaron-3604412",
+     "title": "El monto de dinero que llevaba en el bolsillo uno de los secuestradores en Cartagena cuando fue capturado: este es el delito que les imputaron"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/capturados-por-secuestro-en-cartagena-negaron-los-cargos-imputados-por-la-fiscalia-y-afirmaron-ser-rehenes/202605/",
+     "title": "Capturados por secuestro en Cartagena negaron los cargos imputados por la Fiscalía y afirmaron ser rehenes"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Un avión de FedEx se sale de la pista en Miami",
+   "resumen": "Un avión de carga de la empresa FedEx se salió de la pista de aterrizaje en el aeropuerto de Miami. El incidente obligó al cierre de pistas y generó retrasos en los vuelos durante la víspera de Acción de Gracias.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/fedex-plane-overshoots-runway-at-miami-airport-on-thanksgiving-eve/a-80056541?maca=en-rss-en-all-1573-rdf",
+     "title": "FedEx plane overshoots runway at Miami airport on Thanksgiving eve"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+     "title": "Miami runway incident disrupts flights on Thanksgiving eve"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Fallece Andy Taylor, guitarrista de la banda Duran Duran",
+   "resumen": "El guitarrista de Duran Duran, Andy Taylor, falleció a los 65 años. Integrantes del grupo y seguidores expresaron públicamente sus condolencias tras confirmarse la noticia.",
+   "enfoques": "DW menciona el diagnóstico de cáncer que padecía el músico desde 2022, mientras BBC centra su reporte en los tributos de sus compañeros de banda.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7c5d/live/e49fa530-e996-11f1-b880-15b494ba858d.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-rdf",
+     "title": "Duran Duran guitarist Andy Taylor dies at 65"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+     "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Estados Unidos propone nuevos aranceles comerciales a catorce socios",
+   "resumen": "El gobierno de Estados Unidos propuso aplicar nuevos aranceles a 14 socios comerciales, entre ellos China y la Unión Europea. Según The Guardian, el gobierno chino calificó la medida como manipulación política y afirmó que se reserva el derecho a responder.",
+   "enfoques": "The Guardian destaca las reacciones de rechazo en China y Brasil ante el anuncio, mientras BBC se centra en el alcance general de la medida.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+     "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "title": "US announces new tariffs on host of countries including China"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Un barco cisterna se hunde cerca de Ibiza y causa un fallecido",
+   "resumen": "Un buque cisterna que cargaba diésel se hundió frente a la costa de Ibiza y provocó la muerte de un tripulante. Las autoridades rescataron a 17 personas y pusieron en marcha un plan de contingencia ante un posible impacto ambiental.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/87e9/live/68ba1950-e978-11f1-acd8-af22a7ebb474.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-all-1573-rdf",
+     "title": "Crew member dies after diesel tanker sinks off Ibiza coast"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+     "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Colombia descarta su ingreso al grupo de los BRICS",
+   "resumen": "El gobierno de Colombia descartó realizar gestiones para ingresar al bloque de los BRICS y al Nuevo Banco de Desarrollo. La decisión frena los trámites con la organización y mantiene el trabajo del país con otras entidades multilaterales.",
+   "enfoques": "La República señala que la medida revoca gestiones del gobierno anterior, mientras Portafolio indica que se detienen los planes del actual presidente Gustavo Petro.",
+   "blind": "derecha",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2025/07/06/686ac76b1c85d.jpeg",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/colombia-frena-el-plan-de-petr-de-ingresar-a-los-brics-y-descarta-nuevas-gestiones-para-entrar-al-banco-del-grupo-507124",
+     "title": "Colombia frena el plan de Petro de ingresar a los Brics y descarta nuevas gestiones para entrar al banco del grupo"
+    },
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/colombia-descarto-ingresar-al-grupo-de-los-brics-y-al-nuevo-banco-de-desarrollo-4533594",
+     "title": "Colombia descartó ingresar al Grupo de los Brics y al Nuevo Banco de Desarrollo"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Al menos 31 muertos tras incendiarse un camión en Egipto",
+   "resumen": "Al menos 31 personas murieron en una autopista cerca de El Cairo tras volcar e incendiarse un camión cisterna con combustible. El incidente requirió la atención de decenas de ambulancias y las autoridades advierten que la cifra de fallecidos podría aumentar.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/52d5/live/d4056860-e96c-11f1-a094-5fdc692f3e33.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-rdf",
+     "title": "Egypt: At least 31 dead after fuel truck overturns on highway"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&at_campaign=rss",
+     "title": "Deadly fire erupts near Cairo killing dozens of people"
+    }
+   ]
+  },
+  {
+   "topic": "tecnologia",
+   "title": "La FCC autoriza a SpaceX a lanzar un millón de satélites",
+   "resumen": "La Comisión Federal de Comunicaciones aprobó la propuesta de SpaceX para desplegar un millón de satélites destinados al procesamiento de datos e inteligencia artificial. Según TechCrunch, el regulador descartó las objeciones de opositores al considerar que quedaban fuera de su ámbito de competencia.",
+   "enfoques": "TechCrunch destaca la resolución de las objeciones por parte de la FCC, BBC acentúa el uso para inteligencia artificial y Ars Technica resalta la magnitud del incremento en el número de satélites.",
+   "blind": "",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind-1152x648.jpeg",
+   "image_source": "Ars Technica",
+   "outlets": [
+    {
+     "name": "TechCrunch",
+     "label": "centro-izq",
+     "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+     "title": "FCC approves SpaceX plan to put AI data centers in space"
+    },
+    {
+     "name": "Ars Technica",
+     "label": "centro",
+     "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+     "title": "The FCC has authorized SpaceX to deploy 1 million satellites"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+     "title": "Musk's plan to send a million SpaceX data satellites into space approved"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Unbiased — jueves 26 de noviembre de 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,700;1,8..60,400;1,8..60,700&display=swap" rel="stylesheet">
+<style>
+  /* Tema oscuro: "papel" casi negro y cálido, "tinta" color hueso. */
+  :root {
+    color-scheme: dark;
+    --yellow: #ffc500;   /* único color: solo marca los puntos ciegos */
+    --ink: #ece8df;
+    --cream: #121110;
+    --white: #1b1a18;    /* superficie de la barra superior */
+    --panel: #26241f;
+    --rule: #3a3833;
+    --caption: #a8a399;
+    --mute: #77736b;
+    --serif: "Source Serif 4", "Source Serif Pro", Georgia, serif;
+    --sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { background: var(--cream); }
+  body { margin: 0; color: var(--ink); font: 16px/1.38 var(--serif); letter-spacing: .01em; }
+  a { color: inherit; text-decoration: none; }
+  a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .wrap { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+
+  .utility { background: var(--white); border-bottom: 1px solid var(--rule); }
+  .utility .wrap { display: flex; justify-content: space-between; gap: 12px; padding-top: 8px; padding-bottom: 8px;
+                   font: 700 13px/1.25 var(--sans); letter-spacing: .01em; text-transform: uppercase; }
+  .utility nav { display: flex; gap: 16px; }
+
+  .masthead { padding: 22px 0 16px; }
+  .wordmark { margin: 0; font-weight: 700; font-style: italic; font-size: 52px; line-height: 1; letter-spacing: -.02em; text-align: center; }
+  .sections { border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); padding: 8px 0;
+              text-align: center; font-size: 13px; letter-spacing: .075em; text-transform: uppercase; }
+  .sections span { color: var(--mute); padding: 0 10px; }
+
+  .eyebrow { margin: 0 0 6px; font-size: 13px; font-weight: 700; letter-spacing: .075em; text-transform: uppercase; }
+  .eyebrow small { font-weight: 400; color: var(--caption); letter-spacing: .05em; }
+  h2, h3, h4 { margin: 0 0 8px; font-weight: 400; text-wrap: balance; overflow-wrap: break-word; }
+  .h-display { font-size: clamp(40px, 5.4vw, 64px); line-height: 1.02; letter-spacing: -.02em; }
+  .h-lg { font-size: 28px; line-height: 1.2;  letter-spacing: -.02em; }
+  .h-md { font-size: 24px; line-height: 1.2;  letter-spacing: -.02em; }
+  .h-sm { font-size: 20px; line-height: 1.25; letter-spacing: -.02em; }
+  p { margin: 0 0 8px; }
+  .angles { font-style: italic; font-size: 15px; }
+  img { display: block; width: 100%; height: auto; object-fit: cover; background: var(--panel); filter: brightness(.9); }
+  .credit { font-size: 12px; color: var(--mute); margin: 4px 0 10px; }
+
+  .sources { font-size: 13px; line-height: 1.45; color: var(--caption); font-variant: small-caps; letter-spacing: .05em;
+             border-top: 1px solid var(--rule); padding-top: 6px; margin-top: 10px; }
+  /* Medidor de sesgo: barra de 5 tramos, de izquierda a derecha; claros los lados que cubren la historia */
+  .meter { display: flex; align-items: center; margin: 2px 0 6px;
+           font: 700 11px/1 var(--sans); letter-spacing: .06em; text-transform: uppercase; color: var(--caption); }
+  .meter::before { content: "Izq"; margin-right: 6px; }
+  .meter::after { content: "Der"; margin-left: 6px; }
+  .meter i { width: 28px; height: 9px; background: var(--rule); }
+  .meter i + i { box-shadow: inset 2px 0 0 var(--cream); }
+  .meter i.on { background: var(--ink); }
+  .lead .meter i { width: 40px; height: 12px; }
+  /* El único amarillo de la página: lo que de verdad importa para leer con criterio. */
+  .blind { display: inline-block; margin-top: 6px; padding: 1px 6px; background: var(--yellow);
+           font: 700 12px/1.4 var(--sans); letter-spacing: .02em; text-transform: uppercase; color: #000; }
+
+  .grid { display: grid; grid-template-columns: 1.55fr 1fr 300px; padding: 24px 0 8px; }
+  .grid.cols-2 { grid-template-columns: 1.55fr 1fr; }
+  .grid.cols-1 { grid-template-columns: 1fr; }
+  .grid > * { padding: 0 20px; }
+  .grid > *:first-child { padding-left: 0; }
+  .grid > *:last-child { padding-right: 0; }
+  .grid > * + * { border-left: 1px solid var(--rule); }
+  .story { padding-bottom: 16px; margin-bottom: 16px; border-bottom: 1px solid var(--rule); }
+  .story:last-child { border-bottom: 0; margin-bottom: 0; padding-bottom: 0; }
+  .lead img { aspect-ratio: 3 / 2; margin-top: 12px; }
+  .lead .summary { font-size: 18px; line-height: 1.44; }
+  .mid img { aspect-ratio: 16 / 10; margin-bottom: 4px; }
+
+  .card { margin-bottom: 20px; }
+  .card h3 { margin: 0; padding: 8px 12px; font-size: 13px; font-weight: 700; letter-spacing: .075em; text-transform: uppercase; }
+  .card .item { padding: 12px; border-bottom: 1px solid var(--rule); }
+  .card .item:last-of-type { border-bottom: 0; }
+  .card .sources { border-top: 0; padding-top: 0; margin-top: 4px; }
+  /* Colombia: amarillo (mitad), azul y rojo */
+  .card.co { background: #1f1c10; }
+  .card.co h3 { background: #003893; color: #fff; border-top: 10px solid #fcd116; border-bottom: 5px solid #ce1126; }
+  /* Países Bajos: rojo, blanco y azul en franjas iguales */
+  .card.nl { background: #151923; }
+  .card.nl h3 { background: #fff; color: #21468b; border-top: 7px solid #ae1c28; border-bottom: 7px solid #21468b; }
+
+  .row-title { border-top: 1px solid var(--ink); padding-top: 8px; margin-top: 40px; }
+  .features { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; padding: 12px 0 0; }
+  .features img { aspect-ratio: 4 / 3; border-radius: 8px; margin-bottom: 10px; }
+
+  footer { border-top: 1px solid var(--rule); margin-top: 56px; padding: 16px 0 40px;
+           font-size: 13px; color: var(--caption); letter-spacing: .05em; }
+  footer a { text-decoration: underline; text-underline-offset: 2px; }
+
+  /* Celular: una columna, titulares igual de grandes */
+  @media (max-width: 860px) {
+    .wrap { padding: 0 16px; }
+    .masthead { padding: 16px 0 12px; }
+    .wordmark { font-size: 44px; }
+    .sections { overflow-x: auto; white-space: nowrap; text-align: left; }
+    .grid, .grid.cols-2, .features { grid-template-columns: 1fr; }
+    .grid > * { padding: 0; }
+    .grid > * + * { border-left: 0; border-top: 1px solid var(--rule); padding-top: 16px; margin-top: 16px; }
+    .h-display { font-size: 40px; }
+    .utility .wrap { font-size: 12px; }
+    .utility nav { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="utility"><div class="wrap">
+  <span>Edición de la mañana · jueves 26 de noviembre de 2026</span>
+  <nav><a href="#archivo">Ediciones anteriores</a><a href="https://github.com/manuelpedrazab30/noticias#readme">Cómo funciona</a></nav>
+</div></div>
+<div class="wrap">
+  <header>
+    <div class="masthead"><h1 class="wordmark">Unbiased</h1></div>
+    <nav class="sections"><a href="#t-geopolitica">Geopolítica</a><span>|</span><a href="#t-economia">Economía</a><span>|</span><a href="#t-colombia">Colombia</a><span>|</span><a href="#t-tecnologia">Tecnología</a></nav>
+  </header>
+  <main>
+    <div class="grid cols-3"><article class="lead" id="t-tecnologia"><p class="eyebrow">Tecnología <small>· 3 medios</small></p><h2 class="h-display">La FCC autoriza a SpaceX a lanzar un millón de satélites</h2><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind-1152x648.jpeg" alt="" referrerpolicy="no-referrer" fetchpriority="high"><p class="credit">Foto: Ars Technica</p><div class="summary"><p>La Comisión Federal de Comunicaciones aprobó la propuesta de SpaceX para desplegar un millón de satélites destinados al procesamiento de datos e inteligencia artificial. Según TechCrunch, el regulador descartó las objeciones de opositores al considerar que quedaban fuera de su ámbito de competencia.</p><p class="angles">TechCrunch destaca la resolución de las objeciones por parte de la FCC, BBC acentúa el uso para inteligencia artificial y Ars Technica resalta la magnitud del incremento en el número de satélites.</p></div><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i class="on"></i><i class="on"></i><i></i><i></i></span><a href="https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/">TechCrunch</a>, c.-izq. · <a href="https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/">Ars Technica</a>, centro · <a href="https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article><section class="mid"><article class="story" id="t-geopolitica"><img src="https://i.guim.co.uk/img/media/97af9c3749d929490d31c0c42c1effc6430fc97c/1139_0_4298_3440/master/4298.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a0c19bb8ee84d4596e9273ab73cf0648" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: The Guardian</p><p class="eyebrow">Geopolítica <small>· 2 medios</small></p><h3 class="h-lg">Los líderes de la Unión Europea debaten el presupuesto y la ayuda a Ucrania</h3><p>Los líderes de los 27 países de la Unión Europea celebran una cumbre para abordar el presupuesto comunitario y la ayuda a Ucrania. Según The Guardian, existen fuertes divisiones sobre la propuesta presupuestaria y tres países buscan eximirse de un préstamo a Ucrania.</p><p class="angles">The Guardian enfatiza los desacuerdos entre los líderes de la UE y las posturas contrarias al presupuesto, mientras DW presenta los temas de la cumbre de forma más general.</p><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i class="on"></i><i class="on"></i><i></i><i></i><i></i></span><a href="https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates">The Guardian</a>, izq. · <a href="https://www.dw.com/en/eu-leaders-seek-agreement-on-long-term-budget-and-ukraine-at-summit/live-80056415?maca=en-rss-en-all-1573-rdf">DW</a>, c.-izq.</div><span class="blind">Punto ciego · solo izquierda</span></article><article class="story"><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: BBC</p><p class="eyebrow">Geopolítica <small>· 2 medios</small></p><h3 class="h-md">Norse Atlantic Airways suspende sus vuelos por falta de liquidez</h3><p>La aerolínea noruega Norse Atlantic Airways ha suspendido todos sus vuelos debido a una situación financiera crítica. La compañía advirtió que se declarará en bancarrota si no consigue financiación urgente a corto plazo.</p><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i class="on"></i><i></i><i class="on"></i><i></i><i></i></span><a href="https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea">The Guardian</a>, izq. · <a href="https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article><article class="story" id="t-colombia"><p class="eyebrow">Colombia <small>· 2 medios</small></p><h3 class="h-sm">Judicializan a dos hombres por un secuestro en Cartagena</h3><p>La Fiscalía imputó cargos a dos hombres por su presunta participación en una toma de rehenes en un supermercado de Cartagena. Según Semana, los dos detenidos negaron las acusaciones y afirmaron que ellos también eran rehenes.</p><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i></i><i></i><i class="on"></i><i class="on"></i></span><a href="https://www.eltiempo.com/colombia/otras-ciudades/el-monto-de-dinero-que-llevaba-en-el-bolsillo-uno-de-los-secuestradores-en-cartagena-cuando-fue-capturado-este-es-el-delito-que-les-imputaron-3604412">El Tiempo</a>, ~c.-der. · <a href="https://www.semana.com/nacion/articulo/capturados-por-secuestro-en-cartagena-negaron-los-cargos-imputados-por-la-fiscalia-y-afirmaron-ser-rehenes/202605/">Semana</a>, ~der.</div><span class="blind">Punto ciego · solo derecha</span></article></section><aside><section class="card co"><h3>Colombia</h3><div class="item" id="t-economia"><p class="eyebrow">Economía <small>· 2 medios</small></p><h4 class="h-sm">Colombia descarta su ingreso al grupo de los BRICS</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i></i><i></i><i class="on"></i><i></i></span><a href="https://www.portafolio.co/economia/gobierno/colombia-frena-el-plan-de-petr-de-ingresar-a-los-brics-y-descarta-nuevas-gestiones-para-entrar-al-banco-del-grupo-507124">Portafolio</a>, ~c.-der. · <a href="https://www.larepublica.co/economia/colombia-descarto-ingresar-al-grupo-de-los-brics-y-al-nuevo-banco-de-desarrollo-4533594">La República</a>, ~c.-der.</div><span class="blind">Punto ciego · solo derecha</span></div></section></aside></div>
+    <p class="eyebrow row-title">También hoy</p><div class="features"><article><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: BBC</p><p class="eyebrow">Geopolítica <small>· 2 medios</small></p><h4 class="h-sm">Un avión de FedEx se sale de la pista en Miami</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i class="on"></i><i class="on"></i><i></i><i></i></span><a href="https://www.dw.com/en/fedex-plane-overshoots-runway-at-miami-airport-on-thanksgiving-eve/a-80056541?maca=en-rss-en-all-1573-rdf">DW</a>, c.-izq. · <a href="https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article><article><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7c5d/live/e49fa530-e996-11f1-b880-15b494ba858d.jpg" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: BBC</p><p class="eyebrow">Geopolítica <small>· 2 medios</small></p><h4 class="h-sm">Fallece Andy Taylor, guitarrista de la banda Duran Duran</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i class="on"></i><i class="on"></i><i></i><i></i></span><a href="https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-rdf">DW</a>, c.-izq. · <a href="https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article><article><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: BBC</p><p class="eyebrow">Geopolítica <small>· 2 medios</small></p><h4 class="h-sm">Estados Unidos propone nuevos aranceles comerciales a catorce socios</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i class="on"></i><i></i><i class="on"></i><i></i><i></i></span><a href="https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat">The Guardian</a>, izq. · <a href="https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article><article><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/87e9/live/68ba1950-e978-11f1-acd8-af22a7ebb474.jpg" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: BBC</p><p class="eyebrow">Geopolítica <small>· 2 medios</small></p><h4 class="h-sm">Un barco cisterna se hunde cerca de Ibiza y causa un fallecido</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i class="on"></i><i class="on"></i><i></i><i></i></span><a href="https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-all-1573-rdf">DW</a>, c.-izq. · <a href="https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article><article><img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/52d5/live/d4056860-e96c-11f1-a094-5fdc692f3e33.jpg" alt="" referrerpolicy="no-referrer" loading="lazy"><p class="credit">Foto: BBC</p><p class="eyebrow">Geopolítica <small>· 2 medios</small></p><h4 class="h-sm">Al menos 31 muertos tras incendiarse un camión en Egipto</h4><div class="sources"><span class="meter" title="Orientación de los medios, de izquierda a derecha"><i></i><i class="on"></i><i class="on"></i><i></i><i></i></span><a href="https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-rdf">DW</a>, c.-izq. · <a href="https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&amp;at_campaign=rss">BBC</a>, centro</div></article></div>
+  </main>
+  <footer id="archivo">
+    <p>Orientación: AllSides y Media Bias/Fact Check · ~ = estimación propia</p>
+    <p>Ediciones anteriores: <a href="../archivo/2026-11-25.html">2026-11-25</a> · <a href="../archivo/2026-11-24.html">2026-11-24</a> · <a href="../archivo/2026-11-23.html">2026-11-23</a> · <a href="../archivo/2026-11-22.html">2026-11-22</a> · <a href="../archivo/2026-11-21.html">2026-11-21</a> · <a href="../archivo/2026-11-20.html">2026-11-20</a> · <a href="../archivo/2026-11-19.html">2026-11-19</a> · <a href="../archivo/2026-11-18.html">2026-11-18</a> · <a href="../archivo/2026-11-17.html">2026-11-17</a> · <a href="../archivo/2026-11-16.html">2026-11-16</a> · <a href="../archivo/2026-11-15.html">2026-11-15</a> · <a href="../archivo/2026-11-14.html">2026-11-14</a> · <a href="../archivo/2026-11-13.html">2026-11-13</a> · <a href="../archivo/2026-11-12.html">2026-11-12</a></p>
+  </footer>
+</div>
+</body>
+</html>
