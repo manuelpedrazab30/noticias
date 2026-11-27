@@ -1,0 +1,230 @@
+{
+ "day": "2026-11-27",
+ "ai": "Gemini/gemini-3.5-flash",
+ "stories": [
+  {
+   "topic": "colombia",
+   "title": "De La Espriella rompe relaciones con Fedegán tras polémica por fotografía",
+   "resumen": "Abelardo De La Espriella decidió romper la mediación y relaciones con Fedegán tras la difusión de una foto de José Félix Lafaurie con Iván Cepeda. El mandatario afirmó que definirá la política agraria directamente con los productores y sin intermediarios gremiales.",
+   "enfoques": "La Silla Vacía resalta la tensión previa en redes y la profundización de la ruptura con los gremios, mientras Portafolio enfoca su reporte en el anuncio de negociar directamente con los productores.",
+   "blind": "",
+   "image": "https://www.youtube.com/embed/o_jDP9DPGKc",
+   "image_source": "La Silla Vacía",
+   "outlets": [
+    {
+     "name": "La Silla Vacía",
+     "label": "centro-izq",
+     "link": "https://www.lasillavacia.com/en-vivo/abelardo-rompe-la-mediacion-con-fedegan-por-foto-de-lafaurie-y-cepeda/",
+     "title": "Abelardo rompe la mediación con Fedegán por foto de Lafaurie y Cepeda"
+    },
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/de-la-espriella-rompe-relaciones-con-fedegan-tras-polemica-por-foto-de-lafaurie-con-ivan-cepeda-en-valledupar-507219",
+     "title": "De La Espriella rompe relaciones con Fedegán tras polémica por foto de Lafaurie con Iván Cepeda en Valledupar"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Atacan a la Policía en Los Patios, Norte de Santander",
+   "resumen": "Un ataque con explosivos afectó a miembros de la Policía en el municipio de Los Patios, Norte de Santander. Según El Tiempo el hecho dejó cuatro uniformados heridos mientras atendían un homicidio, mientras que Semana reporta únicamente dos policías lesionados.",
+   "enfoques": "El Tiempo enfatiza que los uniformados se desplazaban hacia Agualinda a atender un caso de homicidio, mientras Semana centra su encuadre en el clima de tensión en la zona.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/JQZGVAVR4FHX3JHIDNBC7FRGNE.jpg?auth=d536b4c558d3e0efb02062b28afc77f588ab6f350e31051cb91a51d6b0f45900&smart=true&width=1920&height=1080",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-nuevo-ataque-contra-policias-en-norte-de-santander-hay-cuatro-uniformados-heridos-tras-fuerte-explosion-mientras-atendian-caso-de-homicidio-3604793",
+     "title": "Reportan nuevo ataque contra policías en Norte de Santander; hay cuatro uniformados heridos tras fuerte explosión mientras atendían caso de homicidio"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/cucuta/articulo/tension-en-norte-de-santander-explosion-contra-la-policia-deja-dos-uniformados-heridos-en-los-patios/202622/",
+     "title": "Tensión en Norte de Santander: explosión contra la Policía deja dos uniformados heridos en Los Patios"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Hallan sin vida a Anyi Jácome en Norte de Santander",
+   "resumen": "Anyi Jácome, quien había sido secuestrada por el ELN en Norte de Santander, fue hallada sin vida. Tras el hecho, el presidente Abelardo De La Espriella dio instrucciones a la cúpula militar y se pronunció públicamente.",
+   "enfoques": "El Tiempo detalla que la víctima estuvo 101 días retenida junto a tres integrantes de la Dijín, mientras Semana enfatiza el pronunciamiento del mandatario.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/V4SSLDQCLRF6TCLPLAHIOSS4FM.jpg?auth=5da61e6d5941b2f38bd26490af4986d3b0d9e90a7d89e3ea3312584703cf61ea&smart=true&width=615&height=504",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/presidente-de-la-espriella-hablo-tras-hallazgo-sin-vida-de-anyi-jacome-secuestrada-por-el-eln-y-dio-orden-a-cupula-militar-asesinan-a-inocentes-3604801",
+     "title": "Presidente De La Espriella habló tras hallazgo sin vida de Anyi Jácome, secuestrada por el Eln, y dio orden a cúpula militar: 'Asesinan a inocentes'"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/hallan-sin-vida-a-anyi-jacome-secuestrada-por-el-eln-en-norte-de-santander/202652/",
+     "title": "Hallan sin vida a Anyi Jácome, secuestrada por el ELN en Norte de Santander"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Hallan muertos a cuatro integrantes de una familia en Nariño",
+   "resumen": "Las autoridades investigan el hallazgo de los cuerpos de un matrimonio y sus dos hijos pequeños en La Tola, Nariño. Según Semana, las cuatro víctimas fueron incineradas en una zona selvática.",
+   "enfoques": "Semana enfatiza la naturaleza del crimen señalando que las víctimas fueron incineradas, mientras que El Tiempo subraya el dolor e indignación en la comunidad.",
+   "blind": "derecha",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/QKV3OHK4IVANNORW3GUOBFGWG4.png?auth=3455608b5b816f9f56155c0fe6e26ec8ce5d13efe2ead143c427e3dc1f8ce935&smart=true&width=821&height=474",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "El Tiempo",
+     "label": "~centro-der",
+     "link": "https://www.eltiempo.com/colombia/cali/tragedia-en-el-municipio-de-la-tola-narino-investigan-el-hallazgo-de-los-cuerpos-de-cuatro-integrantes-de-una-familia-desaparecida-3604803",
+     "title": "Tragedia en el municipio de La Tola, Nariño: investigan el hallazgo de los cuerpos de cuatro integrantes de una familia desaparecida"
+    },
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/cali/articulo/cruel-asesinato-de-una-familia-en-zona-selvatica-de-la-tola-narino-cuatro-personas-fueron-incineradas/202659/",
+     "title": "Cruel asesinato de una familia en zona selvática de La Tola, Nariño: cuatro personas fueron incineradas"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Estados Unidos propone nuevos aranceles a China y otros socios",
+   "resumen": "El gobierno de Estados Unidos anunció propuestas de nuevos aranceles orientados principalmente a afectar a China. Ante la medida, Beijing afirmó que se reserva el derecho de tomar las medidas necesarias.",
+   "enfoques": "Al Jazeera cuestiona la estrategia de Donald Trump previa a su reunión con Xi Jinping, mientras The Guardian destaca las acusaciones de manipulación política por parte de China y el rechazo de Brasil.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=700&quality=85&auto=format&fit=max&s=c8856eb91cd7b62e4baaaad80646a733",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+     "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
+     "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Exejecutivo de medios admite comentario ofensivo contra Grace Tame",
+   "resumen": "Un exejecutivo de medios Murdoch admitió haber realizado un comentario ofensivo contra la sobreviviente de abuso sexual Grace Tame en Australia. El hombre reconoció haber hecho referencia de forma despectiva al vestuario de la activista durante un evento público.",
+   "enfoques": "The Guardian identifica con nombre propio a Matt Handbury y resalta la denuncia de Grace Tame, mientras la BBC centra su informe en la admisión del exejecutivo.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/27/grace-tame-responds-former-murdoch-executive-nephew-rape-comment-ntwnfb",
+     "title": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+     "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Jueces solicitan desestimar los cargos por corrupción contra Netanyahu",
+   "resumen": "Los jueces a cargo del caso de corrupción contra el primer ministro israelí Benjamin Netanyahu pidieron a la fiscalía concluir las investigaciones. La sugerencia deja la continuidad del proceso en manos del fiscal general.",
+   "enfoques": "Al Jazeera analiza la posibilidad de que Netanyahu escape de los cargos, mientras The Guardian advierte que retirar las acusaciones sentaría un precedente perjudicial.",
+   "blind": "izquierda",
+   "image": "https://i.guim.co.uk/img/media/4b6175712949d01a8b832dc4670e3721e65a6c17/221_138_2799_2239/master/2799.jpg?width=700&quality=85&auto=format&fit=max&s=8f29209c13989a3009f726f2cc143bfc",
+   "image_source": "The Guardian",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges",
+     "title": "Momentous decision looms after judges call for Netanyahu charges to be dropped"
+    },
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-benjamin-netanyahus-corruption-trial-could-be-unravelling?traffic_source=rss",
+     "title": "Why Benjamin Netanyahu’s corruption trial could be unravelling"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Aprueban proyecto de SpaceX para enviar centros de datos al espacio",
+   "resumen": "La FCC de Estados Unidos autorizó el plan de Elon Musk para enviar un millón de centros de datos satelitales al espacio. El proyecto busca cubrir la creciente demanda de capacidad de cómputo destinada a la inteligencia artificial.",
+   "enfoques": "Al Jazeera indaga sobre las motivaciones del proyecto, mientras la BBC resalta la eficiencia en costos y energía de la red Starmind.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss",
+     "title": "Why does Elon Musk want to put a million satellite data centres in space?"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+     "title": "Musk's plan to send a million SpaceX data satellites into space approved"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Erin Patterson apela su condena ante la Corte Suprema australiana",
+   "resumen": "Erin Patterson solicitó permiso para apelar ante la máxima instancia judicial de Australia tras ser condenada por asesinato. Patterson cumple cadena perpetua por la muerte de sus familiares tras servirles hongos venenosos en 2023.",
+   "enfoques": "The Guardian detalla el intento de apelación fallido del mes pasado y el platillo servido, mientras la BBC presenta el recurso como una acción de última instancia.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6fe1/live/e746c130-ea16-11f1-bb90-c99309416892.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
+     "title": "Erin Patterson launches high court appeal bid over mushroom murder convictions"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
+     "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Inician las negociaciones del salario mínimo para el año 2027",
+   "resumen": "La mesa de negociación del salario mínimo para 2027 comenzó formalmente con propuestas iniciales entre $1.873.468 y $2.424.003. Las partes tienen hasta el 15 de diciembre como primer plazo para lograr un acuerdo.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/11/12/6af61fdd4d742.r_d.587-285-0.png",
+   "image_source": "Portafolio",
+   "outlets": [
+    {
+     "name": "Portafolio",
+     "label": "~centro-der",
+     "link": "https://www.portafolio.co/economia/gobierno/arranca-formalmente-la-negociacion-del-salario-minimo-2027-los-montos-iniciales-van-de-1-873-468-a-2-424-507210",
+     "title": "Arranca formalmente la negociación del salario mínimo 2027: los montos iniciales van de $1.873.468 a $2.424.003"
+    }
+   ]
+  }
+ ]
+}
