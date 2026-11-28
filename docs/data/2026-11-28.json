@@ -1,0 +1,230 @@
+{
+ "day": "2026-11-28",
+ "ai": "Gemini/gemini-3.5-flash",
+ "stories": [
+  {
+   "topic": "geopolitica",
+   "title": "Explosión en Afganistán deja varios estudiantes muertos y decenas de heridos",
+   "resumen": "Una explosión registrada cerca de una escuela en Afganistán dejó varios estudiantes muertos y casi un centenar de heridos. Según autoridades del Ministerio del Interior citadas por los medios, el hecho se debió a la negligencia en el almacenamiento de explosivos en una zona cercana.",
+   "enfoques": "Mientras Al Jazeera y la BBC enfatizan el saldo de al menos diez estudiantes fallecidos, DW resalta que hay una investigación en marcha por los daños ocasionados a edificios colindantes.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2bd9/live/19b5f490-eb1d-11f1-8743-3f686b14075c.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+     "title": "Several students killed in blast beside Afghan school"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227?maca=en-rss-en-all-1573-rdf",
+     "title": "Afghanistan: Several killed in blast near middle school"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+     "title": "Afghanistan explosion kills 10 students and injures more than 100, official says"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "El Tribunal Supremo de Canadá avala prohibición de símbolos religiosos",
+   "resumen": "El Tribunal Supremo de Canadá respaldó en gran parte la ley de Quebec que prohíbe a ciertos empleados públicos llevar símbolos religiosos en el trabajo. La medida, conocida como Ley 21, había sido impugnada por diversos colectivos que argumentaban una violación a sus derechos fundamentales.",
+   "enfoques": "Washington Examiner enmarca el fallo como una gran victoria para la política de laicidad del gobierno de Quebec, mientras que DW pone el acento en las críticas que advierten sobre un debilitamiento de las garantías legales.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf",
+     "title": "Canada: Supreme Court largely upholds Quebec secularism bill"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+     "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants"
+    },
+    {
+     "name": "Washington Examiner",
+     "label": "centro-der",
+     "link": "https://www.washingtonexaminer.com/news/world/4816704/canada-supreme-court-upholds-quebec-ban-religious-symbols-public-workers/",
+     "title": "Canadian Supreme Court largely upholds Quebec’s ban on religious symbols for public sector workers"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Tribunal internacional rechaza petición argentina sobre perforación petrolera en Malvinas",
+   "resumen": "Un tribunal internacional rechazó la solicitud presentada por Argentina para frenar la exploración petrolera cerca de las islas Malvinas. El gobierno argentino buscaba paralizar estas actividades como parte de su reclamo histórico de soberanía.",
+   "enfoques": "The Guardian destaca la conclusión del tribunal sobre la falta de jurisdicción argentina en las islas, mientras que la BBC menciona la participación de un consorcio británico-israelí en los trabajos.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal",
+     "title": "Argentina fails to block oil drilling off Falkland Islands"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+     "title": "Argentina's bid to stop Falklands oil drilling rejected"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Dos trabajadores de Médicos Sin Fronteras mueren en ataque israelí",
+   "resumen": "Dos miembros del personal de Médicos Sin Fronteras murieron tras un bombardeo israelí contra una clínica en la ciudad de Gaza. El ejército de Israel aseguró haber atacado a supuestos integrantes de Hamas, mientras que la Organización Mundial de la Salud condenó la acción militar.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9f48/live/c26c94a0-eb21-11f1-99a1-253766e7ad8b.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/world/2026/nov/28/medecins-sans-frontieres-staff-killed-gaza-israeli-strike",
+     "title": "Two Médecins Sans Frontières staff killed by Israeli strike in Gaza, charity says"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+     "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "OpenAI demanda a Apple por presunto robo de secretos comerciales",
+   "resumen": "La empresa OpenAI ha presentado una demanda contra Apple acusándola de sustraer secretos comerciales a través de un exempleado. Según The Guardian, la acción judicial sostiene también que Apple presionó a proveedores de hardware y responde a un pleito anterior iniciado por Apple.",
+   "enfoques": "The Guardian enfatiza el contexto de demandas cruzadas al mencionar que Apple demandó primero a OpenAI por contratar a sus empleados, un antecedente que no menciona la BBC.",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5f0d/live/51e85220-eb10-11f1-874e-81d351dd336c.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+     "title": "OpenAI countersues Apple for allegedly stealing trade secrets"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+     "title": "OpenAI counter-sues Apple over alleged theft of trade secrets"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Interrupción en servicios de pensiones británico tras un incidente cibernético",
+   "resumen": "El gobierno del Reino Unido interrumpió los servicios en línea de beneficios y pensiones tras registrarse un incidente cibernético. Un exresponsable de tecnología afirmó que probablemente se trató de un ataque informático, aunque las autoridades señalaron que los pagos habituales no se verán afectados.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg",
+   "image_source": "BBC",
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "label": "izquierda",
+     "link": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+     "title": "DWP cyber incident ‘probably an attack’, says former UK chief technology officer"
+    },
+    {
+     "name": "BBC",
+     "label": "centro",
+     "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+     "title": "Pensions and benefits services still down after 'cyber incident'"
+    }
+   ]
+  },
+  {
+   "topic": "geopolitica",
+   "title": "Pedro Sánchez hace un llamado al voto ante las elecciones españolas",
+   "resumen": "El presidente del Gobierno español, Pedro Sánchez, pidió una alta participación en las elecciones generales para evitar un retroceso político en el país. Las encuestas citadas por los medios indican que la oposición de derecha podría obtener la mayoría parlamentaria.",
+   "enfoques": "DW enfatiza el llamado de Sánchez a movilizar al electorado en el cierre de campaña, mientras que Al Jazeera enmarca el proceso electoral como el choque de dos visiones opuestas de España.",
+   "blind": "izquierda",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "Al Jazeera",
+     "label": "centro-izq",
+     "link": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+     "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record"
+    },
+    {
+     "name": "DW",
+     "label": "centro-izq",
+     "link": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-rdf",
+     "title": "Spain's Sanchez makes final appeal to voters before election"
+    }
+   ]
+  },
+  {
+   "topic": "colombia",
+   "title": "Denuncian apropiación irregular de fondos en la entidad estatal SAE",
+   "resumen": "Según publicó el medio Semana, durante el gobierno de Gustavo Petro se creó la estructura Activos por Colombia para apropiarse de cerca de 6.000 millones de pesos de la Sociedad de Activos Especiales. Ningún otro medio reportó sobre este hecho en la información provista.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/RWPUN5BLV5BTDFV22P476ZCR4U.jpg?auth=f7c64c938f98c39e9dc372a574b8be223bbe4833250fcf93d02a65424015ebed&smart=true&width=2000&height=1125",
+   "image_source": "Semana",
+   "outlets": [
+    {
+     "name": "Semana",
+     "label": "~derecha",
+     "link": "https://www.semana.com/nacion/articulo/asi-fue-el-saqueo-a-la-sae-en-el-gobierno-petro-crearon-activos-por-colombia-para-apropiarse-de-cerca-de-6000-millones/202627/",
+     "title": "Así fue el saqueo a la SAE en el gobierno Petro. Crearon Activos por Colombia para apropiarse de cerca de $6.000 millones"
+    }
+   ]
+  },
+  {
+   "topic": "economia",
+   "title": "Proponen creación de un salario solidario para trabajadores informales",
+   "resumen": "El presidente De La Espriella propuso la creación de un salario solidario destinado a vincular a los trabajadores informales al sistema de protección social. Según reporta La República, la iniciativa busca abrir el debate en un país donde más de 13 millones de personas laboran en el sector informal.",
+   "enfoques": "",
+   "blind": "",
+   "image": null,
+   "image_source": null,
+   "outlets": [
+    {
+     "name": "La República",
+     "label": "~centro-der",
+     "link": "https://www.larepublica.co/economia/proponen-salario-solidario-para-vincular-los-informales-a-proteccion-social-4535708",
+     "title": "Proponen un “salario solidario” para vincular trabajadores informales a protección social"
+    }
+   ]
+  },
+  {
+   "topic": "limburg",
+   "title": "Empleados de salud mental en Países Bajos anuncian paro laboral",
+   "resumen": "Trabajadores de la institución de salud mental Vincent van Gogh en Venray interrumpirán sus labores durante una hora este martes. Según reporta De Limburger, la protesta responde al estancamiento de las negociaciones del convenio colectivo y precede a una jornada de movilización nacional.",
+   "enfoques": "",
+   "blind": "",
+   "image": "https://prod-img.limburger.nl/public/ece-incoming/q0xb6a-vincent-van-gogh-runners-rennen-mee-met-social-run/alternates/BASE_SIXTEEN_NINE/Vincent%20van%20Gogh%20runners%20rennen%20mee%20met%20social%20run",
+   "image_source": "De Limburger",
+   "outlets": [
+    {
+     "name": "De Limburger",
+     "label": "~centro",
+     "link": "https://www.limburger.nl/regio/venray/cao-onderhandelingen-in-de-ggz-lopen-vast-medewerkers-vincent-van-gogh-in-venray-leggen-dinsdag-kortstondig-werk-neer/165243275.html",
+     "title": "Cao-onderhandelingen in de ggz lopen vast: medewerkers Vincent van Gogh in Venray leggen dinsdag kortstondig werk neer"
+    }
+   ]
+  }
+ ]
+}
